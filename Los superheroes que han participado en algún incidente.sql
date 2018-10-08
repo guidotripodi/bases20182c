@@ -1,8 +1,8 @@
 SELECT 
-    Superheroe.Nombre AS Superheroe
+    superheroe.Nombre AS Superheroe
 FROM
     mydb.Participa AS participa,
     mydb.Superheroe AS superheroe
 WHERE
-    participa.idSuperheroe = Superheroe.idSuperheroe
-GROUP BY Superheroe.Nombre;
+    participa.idSuperheroe = superheroe.idSuperheroe
+GROUP BY superheroe.Nombre;

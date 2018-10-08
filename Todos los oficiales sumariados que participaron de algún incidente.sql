@@ -1,5 +1,6 @@
 SELECT 
-    oficial.Datos AS Oficial
+    oficial.Nombre AS NombreOficial,
+    oficial.Apellido As ApellidoOficial
 FROM
     mydb.Interviene AS interviene,
     mydb.Sumario AS sumario,

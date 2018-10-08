@@ -2,14 +2,15 @@ delimiter $
 create procedure listadoDeIncidentesPorFecha(in fechaDesde datetime, in fechaHasta datetime)
 begin
 SELECT 
-    incidente.Numero as NumeroIncidente,
-    incidente.Descripcion as Descripcion,
-    oficial.num as NumeroOficial,
-    oficial.Datos as DatosOficial,
-    persona.Nombre as NombrePersona,
-    persona.Apellido as ApellidoPersona,
-    involucra.Rol as RolPersona
-    
+    incidente.Numero AS NumeroIncidente,
+    incidente.Descripcion AS Descripcion,
+    oficial.num AS NumeroOficial,
+    oficial.Nombre AS NombreOficial,
+    oficial.Apellido AS ApellidoOficial,
+    interviene.Rol AS RolOficial,
+    persona.Nombre AS NombrePersona,
+    persona.Apellido AS ApellidoPersona,
+    involucra.Rol AS RolPersona
 FROM
     mydb.Oficial oficial,
     mydb.Incidente incidente,
@@ -17,13 +18,13 @@ FROM
     mydb.Involucra involucra,
     mydb.Persona persona
 WHERE
-	incidente.Fecha >= fechaDesde and
-    incidente.Fecha <= fechaHasta and
-    incidente.idIncidente =  involucra.idIncidente and
-    incidente.idIncidente =  interviene.idIncidente and
-    oficial.num = interviene.num and
-    persona.idPersona = involucra.idPersona
-    group by incidente.Numero, incidente.Descripcion, oficial.num, oficial.Datos, persona.Nombre, persona.Apellido, involucra.Rol
-    ;
+    incidente.Fecha >= fechaDesde
+        AND incidente.Fecha <= fechaHasta
+        AND incidente.idIncidente = involucra.idIncidente
+        AND incidente.idIncidente = interviene.idIncidente
+        AND oficial.num = interviene.num
+        AND persona.idPersona = involucra.idPersona
+GROUP BY incidente.Numero , incidente.Descripcion , oficial.num , oficial.Datos , persona.Nombre , persona.Apellido , involucra.Rol
+;
             end
 $
