@@ -16,6 +16,6 @@ WHERE
         AND archienemigo.idPersona = persona.idPersona
         AND involucra.idPersona = persona.idPersona
         AND involucra.idIncidente = incidente.idIncidente
-        AND involucra.Rol LIKE 'ACUSADO'
+        AND involucra.Rol LIKE 'Sospechoso'
 GROUP BY incidente.Numero , superheroe.Nombre , persona.Nombre
 ;
