@@ -1,34 +1,5 @@
 use mydb;
 
-delete from `Seguimiento`;
-delete from `Sumario`;
-delete from `EstadoSumario`;
-delete from `Cerrado`;
-delete from `Pendiente`;
-delete from `Proceso`;
-delete from `Interviene`;
-delete from `Archienemigo`;
-delete from `Contacta`;
-delete from `Conocido`;
-delete from `Serelacionacon`;
-delete from `Participa`;
-delete from `Involucra`;
-delete from `Incidente`;
-delete from `EsCapazDe`;
-delete from `Superheroe`;
-delete from `Habilidad`;
-delete from `Persona`;
-delete from `OrganizacionDelictiva`;
-delete from `Designacion`;
-delete from `Direccion`;
-delete from `TipoDesignacion`;
-delete from `Calle`;
-delete from `Barrio`;
-delete from `AsuntosInternos`;
-delete from `Oficial`;
-delete from `Departamento`;
-
-
 INSERT INTO `Departamento` (`idDepartamento`,`Descripcion`,`Nombre`) VALUES (0,'Superintendencia de Administración','Administración');
 INSERT INTO `Departamento` (`idDepartamento`,`Descripcion`,`Nombre`) VALUES (1,'Superintendencia de Policía Científica','Policía Científica');
 INSERT INTO `Departamento` (`idDepartamento`,`Descripcion`,`Nombre`) VALUES (2,'Superintendencia de Seguridad de Estado','Seguridad de Estado');
