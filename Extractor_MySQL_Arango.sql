@@ -1,119 +1,191 @@
+-- Designación
 select concat('{'
-,' "unidad" : ' , unidad , ','
-,' "calle" : "' , calle , '",'
-, '}')
-from z80unidad;
-
--- No se incluye Departamento, pero parece que no hace falta
-
-select concat('{'
-,' "id" : ' , num , ','
-,' "nombre" : "' , Nombre , '",'
-,' "apellido" : "' , Apellido , '",'
-,' "fechaIngreso" : "' , FechaIngreso , '",'
-,' "rango" : "' , Rango , '",'
-, '}')
-from Oficial;		-- Faltaría Departamento
-
--- Ver qué hacer con AsuntosInternos
-
-select concat('{',' "id" : ' , idBarrio , ',',' "nombre" : "' , Nombre , '",', '}') from Barrio;
-
-select concat('{'
-,' "id" : ' , num , ','
-,' "nombre" : "' , Nombre , '",'
-, '}')
-from Calle;
-
-select concat('{'
-,' "id" : ' , idDireccion , ','
--- ,' "calle" : "' , calle , '",'
-,' "altura" : ' , Altura , ','
--- ,' "barrio" : ' , Barrio_idBarrio , ','
--- ,' "calleAledaña1" : ' , calleAledaña1 , ','
--- ,' "calleAledaña2" : ' , calleAledaña2 , ','
-, '}')
-from Direccion;			-- Faltarían las referencias a calles y barrio
-
-select concat('{'
-,' "id" : ' , idOrganizacionDelictiva , ','
-,' "nombre" : "' , Nombre , '",'
-, '}')
-from OrganizacionDelictiva;
-
--- Ver qué hacer con TipoDesignación
-
-select concat('{'
-,' "id" : ' , idDesignacion , ','
-,' "fecha" : "' , Fecha , '",'
-, '}')
-from Designacion;		-- Faltan TipoDesignación y OficialDesignado
-
-
-select concat('{'
-,' "id" : ' , isSuperheroe , ','
-,' "nombre" : "' , Nombre , '",'
-,' "colorDisfraz" : "' , ColorDisfraz , '",'
-, '}')
-from Superheroe;		-- Faltan TipoDesignación y OficialDesignado
-
-select concat('{'
-,' "id" : ' , idPersona , ','
-,' "nombre" : "' , Nombre , '",'
-,' "apellido" : "' , Apellido , '",'
-, '}')
-from Persona;			-- Faltan Dirección y OrganizaciónDelictiva
-
-select concat('{'
-,' "id" : ' , isIncidente , ','
-,' "número" : ' , Numero , ','
-,' "apellido" : "' , Descripcion , '",'
-,' "fecha" : "' , Fecha , '",'
-, '}')
-from Incidente;			-- Faltan Dirección 
-
-select concat('{'
+,' "idDesignacion" : ' , idDesignacion , ','
+,' "idTipo" : ' , idTipo , ','
 ,' "oficial" : ' , num , ','
-,' "incidente" : "' , idIncidente , '",'
-,' "rol" : "' , Rol , '",'
+,' "fecha" : "' , Fecha  ,'",'
+,' "sumarios" : [' , '--> INCRUSTAR_SUMARIOS <--'  ,']'
 , '}')
-from Interviene;			-- Faltan Dirección 
+from Designacion		
+order by num,idDesignacion;
 
--- No se incluye Archienemigo, pero parece que no hace falta
-
+-- Sumario para Designación
 select concat('{'
-,' "superhéroe" : ' , idSuperheroe , ','
-,' "persona" : "' , idPersona , '",'
+,' "idSumario" : ' , idSumario , ','
+,' "descripcion" : "' , Descripcion , '",'
+,' "resultado" : "' , Resultado  , '",'
+,' "idEstado" : "' , EstadoSumario 
 , '}')
-from Contacta;			-- Faltan Dirección 
+, idDesignacion as ''
+from Sumario
+order by idDesignacion,idSumario;
 
--- No se incluye Conocido, pero parece que no hace falta
--- No se incluye SeRelacionaCon, pero parece que no hace falta
--- No se incluye Participa, pero parece que no hace falta
-
-
+-- Designación para Oficial
 select concat('{'
-,' "incidente" : ' , idIncidente , ','
-,' "persona" : "' , idPersona , '",'
-,' "rol" : "' , Rol , '",'
+,' "idDesignacion" : ' , idDesignacion , ','
+,' "idTipo" : ' , idTipo , ','
+,' "fecha" : "' , Fecha  ,'",'
+,' "sumarios" : [' , '--> INCRUSTAR_SUMARIOS <--'  ,']'
 , '}')
-from Involucra;			-- Faltan Fecha y Descripción de Incidente. El documento es RolInvolucrado.
+, num as ''
+from Designacion		
+order by num,idDesignacion;
 
+-- Sumario
 select concat('{'
-,' "incidente" : ' , idIncidente , ','
-, '}')
-from Proceso;			-- Le Faltan los Seguimientos Anidados
-
-
--- No se incluye Habilidad, pero parece que no hace falta
--- No se incluye EsCapazDe, pero parece que no hace falta
-
--- Ver qué hacer con EstadoSumario
-
-select concat('{'
-,' "id" : ' , idSumario , ','
+,' "idSumario" : ' , idSumario , ','
 ,' "fecha" : "' , Fecha , '",'
-,' "apellido" : "' , Descripcion , '",'
-,' "resultado" : "' , Resultado , '",'
+,' "descripcion" : "' , Descripcion , '",'
+,' "resultado" : "' , Resultado  , '",'
+,' "idEstado" : "' , EstadoSumario  , ','
+,' "oficial" : "' , OficialQueInvestiga 
 , '}')
-from Sumario;	-- Falta OficialQueInvestiga, EstadoSumario e idDesignacion
+from Sumario
+order by idSumario;
+
+-- EstadoSumario
+select concat('{"idEstado" : ',idEstado,', "descripcion" : "',Descripcion,'"}') from EstadoSumario;  -- En JSONSchema creo que sobra idSumario
+
+-- TipoDesignacion
+select concat('{"idTipo" : ',idTipo,', "nombre" : "',Nombre,'"}') from TipoDesignacion;  -- En JSONSchema creo que sobra idDesignacion
+
+-- Oficial
+select concat('{',' "num" : ' , num 
+,', "nombre" : "' , Nombre , '"'
+,', "apellido" : "' , Apellido , '"'
+,', "fechaIngreso" : "' , FechaIngreso , '"'
+,', "rango" : "' , Rango , '"'
+,', "designaciones" : [' , ' --> INCRUSTAR_DESIGNACIONES <-- ',']'
+, '}')
+from Oficial order by num;		
+-- En JSONSchema creo que sobran idSeguimiento e idRolInterviene
+
+-- Seguimiento
+select concat('{'
+,' "idSeguimiento" : ' , idSeguimiento
+,', "fecha" : "' , Fecha , '"'
+,', "descripcion" : "' , Descripcion , '"'
+,', "oficial" : "' , Oficial_num 
+,', "idIncidente" : "' , idIncidente 
+, '}')
+from Seguimiento
+order by idSeguimiento;
+
+-- Incidente para Superheroe
+select concat('{'
+,' "idIncidente" : ' , i.idIncidente
+,', "descripcion" : null'
+,', "fecha" : "' , i.Fecha , '"'
+, '}'), p.idSuperheroe as ''
+from Incidente i, Participa p
+where i.idIncidente = p.idIncidente
+order by p.idSuperheroe, p.idIncidente;
+
+-- Superheroe
+select concat('{'
+,' "idSuperheroe" : ' , idSuperheroe
+,', "nombreFantasia" : "' , Nombre , '"'
+,', "colorDisfraz" : "' , ColorDisfraz , '"'
+,', "incidentes" : [' , ' --> INCRUSTAR_INCIDENTES <-- ',']'
+, '}')
+from Superheroe
+order by idSuperheroe; 		-- Faltan las relaciones con Personas
+
+select concat('{"id" : ' , idBarrio , ',',' "nombre" : "' , Nombre , '"}') from Barrio;
+select concat('{"id" : ' , idCalle , ', "nombre" : "' , Nombre , '"}') from Calle; 
+
+select concat('{'
+,' "id" : ' , idDireccion
+,', "calle" : ' , calle 
+,', "altura" : ' , Altura 
+,', "barrio" : ' , Barrio_idBarrio 
+,', "calleAledaña1" : ' , calleAledaña1 
+,', "calleAledaña2" : ' , calleAledaña2 
+, '}')
+from Direccion order by idDireccion;	
+
+-- Persona
+select concat('{'
+,' "dni" : ' , idPersona
+,', "idDireccion" : ' , Direccion_idDireccion 
+,', "idOrg" : ' , COALESCE(idOrganizacionDelictiva,'') 
+,', "incidentes" : [' , ' --> INCRUSTAR_ROLES_INVOLUCRADOS <-- ',']'
+, '}')
+from Persona order by idPersona;  -- Faltan relaciones con Superhéroe
+
+-- RolInvolucrado
+select concat('{'
+,' "idIncidente" : ' , i.idIncidente
+,', "fecha" : "' , i.Fecha , '"'
+,', "descripcion" : ', COALESCE(i.descripcion,'null')
+,', "rol" : "' , p.Rol 
+,' "persona" : ' , p.idPersona
+, '}')
+from Incidente i, Involucra p
+where i.idIncidente = p.idIncidente
+order by p.idPersona, p.idIncidente;
+
+-- Persona para OrgDelictiva
+select concat('{'
+,' "dni" : ' , idPersona
+,', "idDireccion" : ' , Direccion_idDireccion 
+,', "idOrg" : ' , COALESCE(idOrganizacionDelictiva,'') 
+,', "incidentes" : [' , ' --> INCRUSTAR_ROLES_INVOLUCRADOS <-- ',']'
+, '}')
+from Persona order by idPersona;
+
+-- OrgDelictiva
+select concat('{'
+,' "idOrg" : ' , idOrganizacionDelictiva
+,', "nombre" : "' , Nombre , '"'
+,', "personas" : [' , ' --> INCRUSTAR_PERSONAS <-- ',']'
+, '}')
+from Persona order by idPersona; 
+
+
+-- Seguimiento para Incidente 
+select concat('{'
+,' "idSeguimiento" : ' , idSeguimiento
+,', "fecha" : "' , Fecha , '"'
+,', "descripcion" : "' , Descripcion , '"'
+,', "oficial" : "' , Oficial_num 
+,', "idIncidente" : "' , idIncidente 
+, '}')
+from Seguimiento
+order by idIncidente,idSeguimiento;
+
+-- RolInterviene
+select concat('{'
+,' "idIncidente" : ' ,idIncidente
+,', "num" : ' , num
+,', "rol" : "' , Rol , '"'
+, '}')
+from Interviene 
+order by idIncidente,num;
+
+
+-- Incidente
+select concat('{'
+,' "idIncidente" : ' , idIncidente
+,', "fecha" : "' , Fecha , '"'
+,', "descripcion" : ', COALESCE(descripcion,'null')
+,', "direccion" : ' , idDireccion
+,', "personasInvolucradas" : [' , ' --> INCRUSTAR_ID_PERSONAS_INVOLUCRA <-- ',']'
+,', "superheroesParticipan" : [' , ' --> INCRUSTAR_ID_SUPERHEROES_PARTICIPA <-- ',']'
+,', "oficialInterviene" : [' , ' --> INCRUSTAR_ID_ROL_INTERVIENE <-- ',']'
+,', "seguimientos" : [' , ' --> INCRUSTAR_SEGUIMIENTOS <-- ',']'
+, '}')
+from Incidente order by idIncidente;
+
+-- ¡¡¡Faltan AsuntosInternos y Proceso!!!
+
+
+
+
+-- Documentos con los que se resuelven las consultas del TP:
+-- a) OrgDelictiva / Personas / Roles Involucrados (Incidentes)
+-- b) Oficial / Designación / Sumarios
+-- c) Superheroe / Incidentes   (¿ó Incidente / Superheroes?)
+-- d) Incidente / Seguimiento
+
+
