@@ -1,0 +1,22 @@
+{"idEstado" : 0, "descripcion" : "Iniciado"}
+{"idEstado" : 1, "descripcion" : "En Proceso"}
+{"idEstado" : 2, "descripcion" : "En Investigación"}
+{"idEstado" : 3, "descripcion" : "En Recusación"}
+{"idEstado" : 4, "descripcion" : "En Resolución"}
+{"idEstado" : 5, "descripcion" : "En Proceso"}
+{"idEstado" : 6, "descripcion" : "Resuelto"}
+{"idEstado" : 7, "descripcion" : "Impugnado"}
+{"idEstado" : 8, "descripcion" : "Rechazado"}
+{"idEstado" : 9, "descripcion" : "Recusado"}
+{"idEstado" : 10, "descripcion" : "Cancelado"}
+{"idEstado" : 11, "descripcion" : "Derivado a Fiscal"}
+{"idEstado" : 12, "descripcion" : "Interrumpido"}
+{"idEstado" : 13, "descripcion" : "Juez de vacaciones"}
+{"idEstado" : 14, "descripcion" : "Expediente extraviado"}
+{"idEstado" : 15, "descripcion" : "Oficial retirado"}
+{"idEstado" : 16, "descripcion" : "Testigo arrepentido"}
+{"idEstado" : 17, "descripcion" : "Testigo desaparecido"}
+{"idEstado" : 18, "descripcion" : "Testigo difunto"}
+{"idEstado" : 19, "descripcion" : "Oficial difunto"}
+{"idEstado" : 20, "descripcion" : "Delegado a Juzgado"}
+

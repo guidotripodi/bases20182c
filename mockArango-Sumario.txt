@@ -1,0 +1,201 @@
+{ "idSumario" : 0, "fecha" : "2018-03-22 00:00:00", "descripcion" : "Hurto", "resultado" : "Cancelado", "idEstado" : "17, "oficial" : "68}
+{ "idSumario" : 1, "fecha" : "2018-02-17 00:00:00", "descripcion" : "Exceso de fuerza", "resultado" : "Confirmado con punitivo", "idEstado" : "15, "oficial" : "13}
+{ "idSumario" : 2, "fecha" : "2018-01-08 00:00:00", "descripcion" : "Hurto", "resultado" : "Confirmado con punitivo", "idEstado" : "9, "oficial" : "63}
+{ "idSumario" : 3, "fecha" : "2018-11-15 00:00:00", "descripcion" : "Exceso de fuerza", "resultado" : "NULL", "idEstado" : "19, "oficial" : "43}
+{ "idSumario" : 4, "fecha" : "2018-03-22 00:00:00", "descripcion" : "Abandono de tareas", "resultado" : "Confirmado con amonestación", "idEstado" : "9, "oficial" : "48}
+{ "idSumario" : 5, "fecha" : "2018-12-04 00:00:00", "descripcion" : "Confección de estupefacientes", "resultado" : "Anulado", "idEstado" : "6, "oficial" : "23}
+{ "idSumario" : 6, "fecha" : "2018-10-15 00:00:00", "descripcion" : "Conducción imprudente de móvil", "resultado" : "Confirmado con amonestación", "idEstado" : "13, "oficial" : "56}
+{ "idSumario" : 7, "fecha" : "2018-10-04 00:00:00", "descripcion" : "Hurto", "resultado" : "Confirmado con amonestación", "idEstado" : "2, "oficial" : "3}
+{ "idSumario" : 8, "fecha" : "2018-11-18 00:00:00", "descripcion" : "Extorsión", "resultado" : "Rechazado", "idEstado" : "20, "oficial" : "23}
+{ "idSumario" : 9, "fecha" : "2018-01-18 00:00:00", "descripcion" : "Extorsión", "resultado" : "NULL", "idEstado" : "5, "oficial" : "48}
+{ "idSumario" : 10, "fecha" : "2018-09-10 00:00:00", "descripcion" : "Recolección de colaboraciones", "resultado" : "Confirmado con punitivo", "idEstado" : "15, "oficial" : "48}
+{ "idSumario" : 11, "fecha" : "2018-09-03 00:00:00", "descripcion" : "Exceso de fuerza", "resultado" : "Confirmado con amonestación", "idEstado" : "3, "oficial" : "23}
+{ "idSumario" : 12, "fecha" : "2018-01-25 00:00:00", "descripcion" : "Consumo de estupefacientes", "resultado" : "Anulado", "idEstado" : "7, "oficial" : "58}
+{ "idSumario" : 13, "fecha" : "2018-07-11 00:00:00", "descripcion" : "Uniforme fuera de regla", "resultado" : "Anulado", "idEstado" : "11, "oficial" : "18}
+{ "idSumario" : 14, "fecha" : "2018-08-09 00:00:00", "descripcion" : "Amedrentamiento", "resultado" : "Cancelado", "idEstado" : "11, "oficial" : "16}
+{ "idSumario" : 15, "fecha" : "2018-11-17 00:00:00", "descripcion" : "Venta de estupefacientes", "resultado" : "Rechazado", "idEstado" : "6, "oficial" : "28}
+{ "idSumario" : 16, "fecha" : "2018-10-16 00:00:00", "descripcion" : "Amedrentamiento", "resultado" : "Confirmado con amonestación", "idEstado" : "20, "oficial" : "68}
+{ "idSumario" : 17, "fecha" : "2018-04-06 00:00:00", "descripcion" : "Abandono de tareas", "resultado" : "Confirmado con amonestación", "idEstado" : "19, "oficial" : "48}
+{ "idSumario" : 18, "fecha" : "2018-06-27 00:00:00", "descripcion" : "Exceso de peso", "resultado" : "Confirmado con amonestación", "idEstado" : "0, "oficial" : "16}
+{ "idSumario" : 19, "fecha" : "2018-10-21 00:00:00", "descripcion" : "Exceso de peso", "resultado" : "Rechazado", "idEstado" : "20, "oficial" : "43}
+{ "idSumario" : 20, "fecha" : "2018-07-27 00:00:00", "descripcion" : "Uniforme fuera de regla", "resultado" : "Rechazado", "idEstado" : "13, "oficial" : "68}
+{ "idSumario" : 21, "fecha" : "2018-06-13 00:00:00", "descripcion" : "Uniforme fuera de regla", "resultado" : "Rechazado", "idEstado" : "4, "oficial" : "33}
+{ "idSumario" : 22, "fecha" : "2018-09-27 00:00:00", "descripcion" : "Incumplimiento del deber", "resultado" : "Cancelado", "idEstado" : "7, "oficial" : "38}
+{ "idSumario" : 23, "fecha" : "2018-02-07 00:00:00", "descripcion" : "Hurto", "resultado" : "Cancelado", "idEstado" : "12, "oficial" : "18}
+{ "idSumario" : 24, "fecha" : "2018-02-19 00:00:00", "descripcion" : "Amenazas", "resultado" : "NULL", "idEstado" : "0, "oficial" : "68}
+{ "idSumario" : 25, "fecha" : "2018-12-01 00:00:00", "descripcion" : "Amenazas", "resultado" : "Rechazado", "idEstado" : "7, "oficial" : "33}
+{ "idSumario" : 26, "fecha" : "2018-05-23 00:00:00", "descripcion" : "Conducción imprudente de móvil", "resultado" : "NULL", "idEstado" : "6, "oficial" : "53}
+{ "idSumario" : 27, "fecha" : "2018-02-07 00:00:00", "descripcion" : "Cobro de adicionales antirreglamentarios", "resultado" : "Cancelado", "idEstado" : "4, "oficial" : "18}
+{ "idSumario" : 28, "fecha" : "2018-01-04 00:00:00", "descripcion" : "Venta de estupefacientes", "resultado" : "Cancelado", "idEstado" : "17, "oficial" : "6}
+{ "idSumario" : 29, "fecha" : "2018-07-16 00:00:00", "descripcion" : "Exceso de peso", "resultado" : "Confirmado con punitivo", "idEstado" : "19, "oficial" : "13}
+{ "idSumario" : 30, "fecha" : "2018-06-05 00:00:00", "descripcion" : "Hurto", "resultado" : "Confirmado con amonestación", "idEstado" : "4, "oficial" : "8}
+{ "idSumario" : 31, "fecha" : "2018-04-25 00:00:00", "descripcion" : "Incumplimiento del deber", "resultado" : "Confirmado con punitivo", "idEstado" : "2, "oficial" : "26}
+{ "idSumario" : 32, "fecha" : "2018-02-16 00:00:00", "descripcion" : "Colusión", "resultado" : "Cancelado", "idEstado" : "9, "oficial" : "38}
+{ "idSumario" : 33, "fecha" : "2018-05-11 00:00:00", "descripcion" : "Patrullaje abandonado", "resultado" : "Cancelado", "idEstado" : "17, "oficial" : "58}
+{ "idSumario" : 34, "fecha" : "2018-02-05 00:00:00", "descripcion" : "Conducción imprudente de móvil", "resultado" : "Confirmado con amonestación", "idEstado" : "4, "oficial" : "38}
+{ "idSumario" : 35, "fecha" : "2018-04-21 00:00:00", "descripcion" : "Colusión", "resultado" : "Confirmado con amonestación", "idEstado" : "18, "oficial" : "13}
+{ "idSumario" : 36, "fecha" : "2018-06-07 00:00:00", "descripcion" : "Conducción imprudente de móvil", "resultado" : "Rechazado", "idEstado" : "10, "oficial" : "66}
+{ "idSumario" : 37, "fecha" : "2018-05-11 00:00:00", "descripcion" : "Exceso de fuerza", "resultado" : "Anulado", "idEstado" : "4, "oficial" : "23}
+{ "idSumario" : 38, "fecha" : "2018-09-09 00:00:00", "descripcion" : "Abuso de autoridad", "resultado" : "Rechazado", "idEstado" : "7, "oficial" : "13}
+{ "idSumario" : 39, "fecha" : "2018-10-13 00:00:00", "descripcion" : "Venta de armamento", "resultado" : "Rechazado", "idEstado" : "18, "oficial" : "66}
+{ "idSumario" : 40, "fecha" : "2018-05-19 00:00:00", "descripcion" : "Cobro de adicionales antirreglamentarios", "resultado" : "Rechazado", "idEstado" : "2, "oficial" : "36}
+{ "idSumario" : 41, "fecha" : "2018-06-09 00:00:00", "descripcion" : "Exceso de peso", "resultado" : "NULL", "idEstado" : "2, "oficial" : "16}
+{ "idSumario" : 42, "fecha" : "2018-06-25 00:00:00", "descripcion" : "Patrullaje abandonado", "resultado" : "Cancelado", "idEstado" : "0, "oficial" : "63}
+{ "idSumario" : 43, "fecha" : "2018-03-25 00:00:00", "descripcion" : "Incumplimiento del deber", "resultado" : "Anulado", "idEstado" : "15, "oficial" : "8}
+{ "idSumario" : 44, "fecha" : "2018-02-13 00:00:00", "descripcion" : "Consumo de estupefacientes", "resultado" : "Confirmado con punitivo", "idEstado" : "18, "oficial" : "63}
+{ "idSumario" : 45, "fecha" : "2018-09-01 00:00:00", "descripcion" : "Hurto", "resultado" : "Anulado", "idEstado" : "14, "oficial" : "53}
+{ "idSumario" : 46, "fecha" : "2018-08-22 00:00:00", "descripcion" : "Hurto", "resultado" : "NULL", "idEstado" : "1, "oficial" : "68}
+{ "idSumario" : 47, "fecha" : "2018-03-26 00:00:00", "descripcion" : "Abuso de autoridad", "resultado" : "Anulado", "idEstado" : "20, "oficial" : "46}
+{ "idSumario" : 48, "fecha" : "2018-05-02 00:00:00", "descripcion" : "Conducción imprudente de móvil", "resultado" : "Confirmado con punitivo", "idEstado" : "9, "oficial" : "46}
+{ "idSumario" : 49, "fecha" : "2018-04-08 00:00:00", "descripcion" : "Amenazas", "resultado" : "Cancelado", "idEstado" : "17, "oficial" : "58}
+{ "idSumario" : 50, "fecha" : "2018-02-23 00:00:00", "descripcion" : "Exceso de peso", "resultado" : "NULL", "idEstado" : "16, "oficial" : "6}
+{ "idSumario" : 51, "fecha" : "2018-12-28 00:00:00", "descripcion" : "Extorsión", "resultado" : "Confirmado con amonestación", "idEstado" : "16, "oficial" : "63}
+{ "idSumario" : 52, "fecha" : "2018-12-13 00:00:00", "descripcion" : "Patrullaje abandonado", "resultado" : "Rechazado", "idEstado" : "19, "oficial" : "48}
+{ "idSumario" : 53, "fecha" : "2018-01-10 00:00:00", "descripcion" : "Abandono de tareas", "resultado" : "Confirmado con punitivo", "idEstado" : "10, "oficial" : "8}
+{ "idSumario" : 54, "fecha" : "2018-08-04 00:00:00", "descripcion" : "Patrullaje abandonado", "resultado" : "NULL", "idEstado" : "7, "oficial" : "18}
+{ "idSumario" : 55, "fecha" : "2018-07-26 00:00:00", "descripcion" : "Amenazas", "resultado" : "NULL", "idEstado" : "17, "oficial" : "6}
+{ "idSumario" : 56, "fecha" : "2018-12-08 00:00:00", "descripcion" : "Amedrentamiento", "resultado" : "Confirmado con amonestación", "idEstado" : "15, "oficial" : "48}
+{ "idSumario" : 57, "fecha" : "2018-08-02 00:00:00", "descripcion" : "Uniforme fuera de regla", "resultado" : "Confirmado con amonestación", "idEstado" : "15, "oficial" : "68}
+{ "idSumario" : 58, "fecha" : "2018-11-28 00:00:00", "descripcion" : "Colusión", "resultado" : "Confirmado con amonestación", "idEstado" : "0, "oficial" : "33}
+{ "idSumario" : 59, "fecha" : "2018-07-23 00:00:00", "descripcion" : "Exceso de peso", "resultado" : "Anulado", "idEstado" : "17, "oficial" : "58}
+{ "idSumario" : 60, "fecha" : "2018-10-17 00:00:00", "descripcion" : "Colusión", "resultado" : "Rechazado", "idEstado" : "8, "oficial" : "28}
+{ "idSumario" : 61, "fecha" : "2018-10-11 00:00:00", "descripcion" : "Confección de estupefacientes", "resultado" : "NULL", "idEstado" : "3, "oficial" : "46}
+{ "idSumario" : 62, "fecha" : "2018-06-23 00:00:00", "descripcion" : "Venta de armamento", "resultado" : "Confirmado con amonestación", "idEstado" : "2, "oficial" : "8}
+{ "idSumario" : 63, "fecha" : "2018-04-17 00:00:00", "descripcion" : "Exceso de peso", "resultado" : "Cancelado", "idEstado" : "0, "oficial" : "16}
+{ "idSumario" : 64, "fecha" : "2018-09-01 00:00:00", "descripcion" : "Consumo de estupefacientes", "resultado" : "Anulado", "idEstado" : "8, "oficial" : "3}
+{ "idSumario" : 65, "fecha" : "2018-09-13 00:00:00", "descripcion" : "Recolección de colaboraciones", "resultado" : "NULL", "idEstado" : "7, "oficial" : "6}
+{ "idSumario" : 66, "fecha" : "2018-04-04 00:00:00", "descripcion" : "Colusión", "resultado" : "Confirmado con amonestación", "idEstado" : "5, "oficial" : "33}
+{ "idSumario" : 67, "fecha" : "2018-02-13 00:00:00", "descripcion" : "Venta de estupefacientes", "resultado" : "Confirmado con punitivo", "idEstado" : "20, "oficial" : "8}
+{ "idSumario" : 68, "fecha" : "2018-08-26 00:00:00", "descripcion" : "Extorsión", "resultado" : "Rechazado", "idEstado" : "13, "oficial" : "48}
+{ "idSumario" : 69, "fecha" : "2018-02-15 00:00:00", "descripcion" : "Venta de estupefacientes", "resultado" : "NULL", "idEstado" : "7, "oficial" : "53}
+{ "idSumario" : 70, "fecha" : "2018-11-15 00:00:00", "descripcion" : "Amenazas", "resultado" : "Anulado", "idEstado" : "5, "oficial" : "18}
+{ "idSumario" : 71, "fecha" : "2018-11-13 00:00:00", "descripcion" : "Colusión", "resultado" : "Cancelado", "idEstado" : "12, "oficial" : "13}
+{ "idSumario" : 72, "fecha" : "2018-04-25 00:00:00", "descripcion" : "Extorsión", "resultado" : "Confirmado con amonestación", "idEstado" : "17, "oficial" : "66}
+{ "idSumario" : 73, "fecha" : "2018-10-01 00:00:00", "descripcion" : "Recolección de colaboraciones", "resultado" : "Rechazado", "idEstado" : "4, "oficial" : "18}
+{ "idSumario" : 74, "fecha" : "2018-05-27 00:00:00", "descripcion" : "Amedrentamiento", "resultado" : "Anulado", "idEstado" : "3, "oficial" : "56}
+{ "idSumario" : 75, "fecha" : "2018-08-28 00:00:00", "descripcion" : "Confección de estupefacientes", "resultado" : "NULL", "idEstado" : "11, "oficial" : "36}
+{ "idSumario" : 76, "fecha" : "2018-07-03 00:00:00", "descripcion" : "Extorsión", "resultado" : "Cancelado", "idEstado" : "19, "oficial" : "46}
+{ "idSumario" : 77, "fecha" : "2018-06-08 00:00:00", "descripcion" : "Amedrentamiento", "resultado" : "Cancelado", "idEstado" : "11, "oficial" : "8}
+{ "idSumario" : 78, "fecha" : "2018-08-20 00:00:00", "descripcion" : "Abandono de tareas", "resultado" : "Anulado", "idEstado" : "18, "oficial" : "3}
+{ "idSumario" : 79, "fecha" : "2018-08-23 00:00:00", "descripcion" : "Extorsión", "resultado" : "Anulado", "idEstado" : "20, "oficial" : "68}
+{ "idSumario" : 80, "fecha" : "2018-07-21 00:00:00", "descripcion" : "Exceso de peso", "resultado" : "Confirmado con punitivo", "idEstado" : "7, "oficial" : "53}
+{ "idSumario" : 81, "fecha" : "2018-11-24 00:00:00", "descripcion" : "Consumo de estupefacientes", "resultado" : "Confirmado con amonestación", "idEstado" : "0, "oficial" : "8}
+{ "idSumario" : 82, "fecha" : "2018-03-20 00:00:00", "descripcion" : "Amenazas", "resultado" : "Confirmado con punitivo", "idEstado" : "9, "oficial" : "18}
+{ "idSumario" : 83, "fecha" : "2018-07-14 00:00:00", "descripcion" : "Amedrentamiento", "resultado" : "Confirmado con amonestación", "idEstado" : "0, "oficial" : "68}
+{ "idSumario" : 84, "fecha" : "2018-02-10 00:00:00", "descripcion" : "Uniforme fuera de regla", "resultado" : "Cancelado", "idEstado" : "0, "oficial" : "68}
+{ "idSumario" : 85, "fecha" : "2018-01-10 00:00:00", "descripcion" : "Uniforme fuera de regla", "resultado" : "Confirmado con punitivo", "idEstado" : "7, "oficial" : "18}
+{ "idSumario" : 86, "fecha" : "2018-03-19 00:00:00", "descripcion" : "Recolección de colaboraciones", "resultado" : "Confirmado con punitivo", "idEstado" : "11, "oficial" : "36}
+{ "idSumario" : 87, "fecha" : "2018-02-10 00:00:00", "descripcion" : "Incumplimiento del deber", "resultado" : "NULL", "idEstado" : "17, "oficial" : "63}
+{ "idSumario" : 88, "fecha" : "2018-06-17 00:00:00", "descripcion" : "Exceso de peso", "resultado" : "NULL", "idEstado" : "10, "oficial" : "48}
+{ "idSumario" : 89, "fecha" : "2018-07-03 00:00:00", "descripcion" : "Exceso de fuerza", "resultado" : "NULL", "idEstado" : "9, "oficial" : "63}
+{ "idSumario" : 90, "fecha" : "2018-10-07 00:00:00", "descripcion" : "Exceso de peso", "resultado" : "NULL", "idEstado" : "17, "oficial" : "28}
+{ "idSumario" : 91, "fecha" : "2018-08-07 00:00:00", "descripcion" : "Extorsión", "resultado" : "Rechazado", "idEstado" : "3, "oficial" : "6}
+{ "idSumario" : 92, "fecha" : "2018-01-13 00:00:00", "descripcion" : "Venta de estupefacientes", "resultado" : "Rechazado", "idEstado" : "19, "oficial" : "38}
+{ "idSumario" : 93, "fecha" : "2018-08-14 00:00:00", "descripcion" : "Venta de estupefacientes", "resultado" : "Confirmado con punitivo", "idEstado" : "7, "oficial" : "38}
+{ "idSumario" : 94, "fecha" : "2018-12-20 00:00:00", "descripcion" : "Patrullaje abandonado", "resultado" : "Cancelado", "idEstado" : "16, "oficial" : "16}
+{ "idSumario" : 95, "fecha" : "2018-01-18 00:00:00", "descripcion" : "Exceso de fuerza", "resultado" : "NULL", "idEstado" : "8, "oficial" : "56}
+{ "idSumario" : 96, "fecha" : "2018-11-11 00:00:00", "descripcion" : "Confección de estupefacientes", "resultado" : "Anulado", "idEstado" : "4, "oficial" : "23}
+{ "idSumario" : 97, "fecha" : "2018-03-25 00:00:00", "descripcion" : "Colusión", "resultado" : "Rechazado", "idEstado" : "9, "oficial" : "33}
+{ "idSumario" : 98, "fecha" : "2018-04-26 00:00:00", "descripcion" : "Exceso de peso", "resultado" : "Confirmado con amonestación", "idEstado" : "0, "oficial" : "26}
+{ "idSumario" : 99, "fecha" : "2018-03-09 00:00:00", "descripcion" : "Conducción imprudente de móvil", "resultado" : "NULL", "idEstado" : "16, "oficial" : "6}
+{ "idSumario" : 100, "fecha" : "2018-11-23 00:00:00", "descripcion" : "Venta de armamento", "resultado" : "Confirmado con amonestación", "idEstado" : "8, "oficial" : "48}
+{ "idSumario" : 101, "fecha" : "2018-06-06 00:00:00", "descripcion" : "Amenazas", "resultado" : "Confirmado con amonestación", "idEstado" : "10, "oficial" : "16}
+{ "idSumario" : 102, "fecha" : "2018-11-24 00:00:00", "descripcion" : "Incumplimiento del deber", "resultado" : "Anulado", "idEstado" : "12, "oficial" : "56}
+{ "idSumario" : 103, "fecha" : "2018-06-19 00:00:00", "descripcion" : "Venta de estupefacientes", "resultado" : "NULL", "idEstado" : "14, "oficial" : "23}
+{ "idSumario" : 104, "fecha" : "2018-01-06 00:00:00", "descripcion" : "Exceso de fuerza", "resultado" : "Cancelado", "idEstado" : "0, "oficial" : "68}
+{ "idSumario" : 105, "fecha" : "2018-11-27 00:00:00", "descripcion" : "Amedrentamiento", "resultado" : "Rechazado", "idEstado" : "14, "oficial" : "46}
+{ "idSumario" : 106, "fecha" : "2018-03-27 00:00:00", "descripcion" : "Incumplimiento del deber", "resultado" : "Rechazado", "idEstado" : "9, "oficial" : "3}
+{ "idSumario" : 107, "fecha" : "2018-06-12 00:00:00", "descripcion" : "Venta de estupefacientes", "resultado" : "Cancelado", "idEstado" : "17, "oficial" : "63}
+{ "idSumario" : 108, "fecha" : "2018-05-16 00:00:00", "descripcion" : "Consumo de estupefacientes", "resultado" : "Rechazado", "idEstado" : "3, "oficial" : "43}
+{ "idSumario" : 109, "fecha" : "2018-10-22 00:00:00", "descripcion" : "Traición a la fuerza", "resultado" : "Confirmado con amonestación", "idEstado" : "15, "oficial" : "8}
+{ "idSumario" : 110, "fecha" : "2018-12-17 00:00:00", "descripcion" : "Hurto", "resultado" : "Confirmado con amonestación", "idEstado" : "0, "oficial" : "48}
+{ "idSumario" : 111, "fecha" : "2018-03-18 00:00:00", "descripcion" : "Consumo de estupefacientes", "resultado" : "Cancelado", "idEstado" : "19, "oficial" : "8}
+{ "idSumario" : 112, "fecha" : "2018-06-16 00:00:00", "descripcion" : "Exceso de peso", "resultado" : "Rechazado", "idEstado" : "10, "oficial" : "18}
+{ "idSumario" : 113, "fecha" : "2018-08-09 00:00:00", "descripcion" : "Abandono de tareas", "resultado" : "Anulado", "idEstado" : "11, "oficial" : "46}
+{ "idSumario" : 114, "fecha" : "2018-05-11 00:00:00", "descripcion" : "Uniforme fuera de regla", "resultado" : "Rechazado", "idEstado" : "15, "oficial" : "8}
+{ "idSumario" : 115, "fecha" : "2018-04-09 00:00:00", "descripcion" : "Patrullaje abandonado", "resultado" : "Rechazado", "idEstado" : "20, "oficial" : "58}
+{ "idSumario" : 116, "fecha" : "2018-04-08 00:00:00", "descripcion" : "Exceso de peso", "resultado" : "Anulado", "idEstado" : "2, "oficial" : "33}
+{ "idSumario" : 117, "fecha" : "2018-11-06 00:00:00", "descripcion" : "Colusión", "resultado" : "Confirmado con amonestación", "idEstado" : "19, "oficial" : "56}
+{ "idSumario" : 118, "fecha" : "2018-11-20 00:00:00", "descripcion" : "Venta de armamento", "resultado" : "Confirmado con punitivo", "idEstado" : "11, "oficial" : "26}
+{ "idSumario" : 119, "fecha" : "2018-04-23 00:00:00", "descripcion" : "Extorsión", "resultado" : "Rechazado", "idEstado" : "4, "oficial" : "3}
+{ "idSumario" : 120, "fecha" : "2018-12-23 00:00:00", "descripcion" : "Cobro de adicionales antirreglamentarios", "resultado" : "Rechazado", "idEstado" : "4, "oficial" : "38}
+{ "idSumario" : 121, "fecha" : "2018-04-19 00:00:00", "descripcion" : "Amedrentamiento", "resultado" : "Rechazado", "idEstado" : "14, "oficial" : "26}
+{ "idSumario" : 122, "fecha" : "2018-12-17 00:00:00", "descripcion" : "Amenazas", "resultado" : "Rechazado", "idEstado" : "11, "oficial" : "6}
+{ "idSumario" : 123, "fecha" : "2018-02-24 00:00:00", "descripcion" : "Patrullaje abandonado", "resultado" : "Anulado", "idEstado" : "10, "oficial" : "38}
+{ "idSumario" : 124, "fecha" : "2018-03-06 00:00:00", "descripcion" : "Consumo de estupefacientes", "resultado" : "Confirmado con amonestación", "idEstado" : "0, "oficial" : "16}
+{ "idSumario" : 125, "fecha" : "2018-02-05 00:00:00", "descripcion" : "Cobro de adicionales antirreglamentarios", "resultado" : "Confirmado con punitivo", "idEstado" : "10, "oficial" : "53}
+{ "idSumario" : 126, "fecha" : "2018-01-13 00:00:00", "descripcion" : "Recolección de colaboraciones", "resultado" : "Anulado", "idEstado" : "10, "oficial" : "48}
+{ "idSumario" : 127, "fecha" : "2018-05-17 00:00:00", "descripcion" : "Venta de armamento", "resultado" : "Confirmado con punitivo", "idEstado" : "13, "oficial" : "3}
+{ "idSumario" : 128, "fecha" : "2018-05-07 00:00:00", "descripcion" : "Venta de estupefacientes", "resultado" : "Anulado", "idEstado" : "0, "oficial" : "43}
+{ "idSumario" : 129, "fecha" : "2018-05-06 00:00:00", "descripcion" : "Colusión", "resultado" : "NULL", "idEstado" : "16, "oficial" : "66}
+{ "idSumario" : 130, "fecha" : "2018-12-14 00:00:00", "descripcion" : "Venta de armamento", "resultado" : "Confirmado con punitivo", "idEstado" : "18, "oficial" : "3}
+{ "idSumario" : 131, "fecha" : "2018-11-02 00:00:00", "descripcion" : "Consumo de estupefacientes", "resultado" : "Anulado", "idEstado" : "3, "oficial" : "66}
+{ "idSumario" : 132, "fecha" : "2018-08-09 00:00:00", "descripcion" : "Venta de armamento", "resultado" : "Cancelado", "idEstado" : "10, "oficial" : "28}
+{ "idSumario" : 133, "fecha" : "2018-06-27 00:00:00", "descripcion" : "Conducción imprudente de móvil", "resultado" : "Confirmado con amonestación", "idEstado" : "9, "oficial" : "48}
+{ "idSumario" : 134, "fecha" : "2018-04-11 00:00:00", "descripcion" : "Hurto", "resultado" : "Confirmado con punitivo", "idEstado" : "20, "oficial" : "68}
+{ "idSumario" : 135, "fecha" : "2018-09-19 00:00:00", "descripcion" : "Patrullaje abandonado", "resultado" : "Rechazado", "idEstado" : "2, "oficial" : "3}
+{ "idSumario" : 136, "fecha" : "2018-09-09 00:00:00", "descripcion" : "Incumplimiento del deber", "resultado" : "Confirmado con punitivo", "idEstado" : "11, "oficial" : "43}
+{ "idSumario" : 137, "fecha" : "2018-09-09 00:00:00", "descripcion" : "Patrullaje abandonado", "resultado" : "Rechazado", "idEstado" : "9, "oficial" : "6}
+{ "idSumario" : 138, "fecha" : "2018-11-23 00:00:00", "descripcion" : "Cobro de adicionales antirreglamentarios", "resultado" : "Cancelado", "idEstado" : "17, "oficial" : "13}
+{ "idSumario" : 139, "fecha" : "2018-03-13 00:00:00", "descripcion" : "Abandono de tareas", "resultado" : "Confirmado con punitivo", "idEstado" : "2, "oficial" : "23}
+{ "idSumario" : 140, "fecha" : "2018-03-27 00:00:00", "descripcion" : "Venta de estupefacientes", "resultado" : "Cancelado", "idEstado" : "2, "oficial" : "18}
+{ "idSumario" : 141, "fecha" : "2018-06-23 00:00:00", "descripcion" : "Confección de estupefacientes", "resultado" : "Rechazado", "idEstado" : "2, "oficial" : "26}
+{ "idSumario" : 142, "fecha" : "2018-02-08 00:00:00", "descripcion" : "Uniforme fuera de regla", "resultado" : "Confirmado con punitivo", "idEstado" : "0, "oficial" : "63}
+{ "idSumario" : 143, "fecha" : "2018-04-08 00:00:00", "descripcion" : "Consumo de estupefacientes", "resultado" : "Anulado", "idEstado" : "1, "oficial" : "18}
+{ "idSumario" : 144, "fecha" : "2018-03-18 00:00:00", "descripcion" : "Patrullaje abandonado", "resultado" : "Cancelado", "idEstado" : "11, "oficial" : "38}
+{ "idSumario" : 145, "fecha" : "2018-03-10 00:00:00", "descripcion" : "Extorsión", "resultado" : "NULL", "idEstado" : "10, "oficial" : "53}
+{ "idSumario" : 146, "fecha" : "2018-09-21 00:00:00", "descripcion" : "Hurto", "resultado" : "Rechazado", "idEstado" : "7, "oficial" : "6}
+{ "idSumario" : 147, "fecha" : "2018-04-04 00:00:00", "descripcion" : "Abuso de autoridad", "resultado" : "NULL", "idEstado" : "1, "oficial" : "23}
+{ "idSumario" : 148, "fecha" : "2018-09-26 00:00:00", "descripcion" : "Hurto", "resultado" : "Confirmado con amonestación", "idEstado" : "1, "oficial" : "68}
+{ "idSumario" : 149, "fecha" : "2018-01-11 00:00:00", "descripcion" : "Colusión", "resultado" : "Confirmado con punitivo", "idEstado" : "6, "oficial" : "28}
+{ "idSumario" : 150, "fecha" : "2018-09-22 00:00:00", "descripcion" : "Abuso de autoridad", "resultado" : "Confirmado con punitivo", "idEstado" : "8, "oficial" : "13}
+{ "idSumario" : 151, "fecha" : "2018-03-15 00:00:00", "descripcion" : "Traición a la fuerza", "resultado" : "Cancelado", "idEstado" : "14, "oficial" : "23}
+{ "idSumario" : 152, "fecha" : "2018-09-04 00:00:00", "descripcion" : "Abandono de tareas", "resultado" : "Confirmado con punitivo", "idEstado" : "9, "oficial" : "36}
+{ "idSumario" : 153, "fecha" : "2018-04-04 00:00:00", "descripcion" : "Amedrentamiento", "resultado" : "Rechazado", "idEstado" : "3, "oficial" : "33}
+{ "idSumario" : 154, "fecha" : "2018-03-22 00:00:00", "descripcion" : "Patrullaje abandonado", "resultado" : "Anulado", "idEstado" : "16, "oficial" : "26}
+{ "idSumario" : 155, "fecha" : "2018-08-09 00:00:00", "descripcion" : "Abandono de tareas", "resultado" : "Confirmado con punitivo", "idEstado" : "5, "oficial" : "16}
+{ "idSumario" : 156, "fecha" : "2018-07-28 00:00:00", "descripcion" : "Abuso de autoridad", "resultado" : "Rechazado", "idEstado" : "14, "oficial" : "68}
+{ "idSumario" : 157, "fecha" : "2018-01-09 00:00:00", "descripcion" : "Abuso de autoridad", "resultado" : "Confirmado con punitivo", "idEstado" : "11, "oficial" : "68}
+{ "idSumario" : 158, "fecha" : "2018-07-07 00:00:00", "descripcion" : "Amenazas", "resultado" : "Confirmado con punitivo", "idEstado" : "9, "oficial" : "38}
+{ "idSumario" : 159, "fecha" : "2018-07-24 00:00:00", "descripcion" : "Hurto", "resultado" : "Confirmado con punitivo", "idEstado" : "7, "oficial" : "18}
+{ "idSumario" : 160, "fecha" : "2018-04-16 00:00:00", "descripcion" : "Traición a la fuerza", "resultado" : "Anulado", "idEstado" : "13, "oficial" : "23}
+{ "idSumario" : 161, "fecha" : "2018-09-07 00:00:00", "descripcion" : "Amedrentamiento", "resultado" : "Anulado", "idEstado" : "16, "oficial" : "46}
+{ "idSumario" : 162, "fecha" : "2018-10-24 00:00:00", "descripcion" : "Abandono de tareas", "resultado" : "Confirmado con amonestación", "idEstado" : "19, "oficial" : "63}
+{ "idSumario" : 163, "fecha" : "2018-11-27 00:00:00", "descripcion" : "Amedrentamiento", "resultado" : "Confirmado con punitivo", "idEstado" : "20, "oficial" : "23}
+{ "idSumario" : 164, "fecha" : "2018-09-04 00:00:00", "descripcion" : "Abandono de tareas", "resultado" : "Cancelado", "idEstado" : "0, "oficial" : "66}
+{ "idSumario" : 165, "fecha" : "2018-03-04 00:00:00", "descripcion" : "Patrullaje abandonado", "resultado" : "Confirmado con amonestación", "idEstado" : "8, "oficial" : "58}
+{ "idSumario" : 166, "fecha" : "2018-03-15 00:00:00", "descripcion" : "Exceso de peso", "resultado" : "Confirmado con amonestación", "idEstado" : "13, "oficial" : "18}
+{ "idSumario" : 167, "fecha" : "2018-03-12 00:00:00", "descripcion" : "Venta de estupefacientes", "resultado" : "Confirmado con punitivo", "idEstado" : "15, "oficial" : "16}
+{ "idSumario" : 168, "fecha" : "2018-02-05 00:00:00", "descripcion" : "Amedrentamiento", "resultado" : "Confirmado con punitivo", "idEstado" : "20, "oficial" : "18}
+{ "idSumario" : 169, "fecha" : "2018-05-16 00:00:00", "descripcion" : "Abuso de autoridad", "resultado" : "Anulado", "idEstado" : "11, "oficial" : "3}
+{ "idSumario" : 170, "fecha" : "2018-11-23 00:00:00", "descripcion" : "Recolección de colaboraciones", "resultado" : "Cancelado", "idEstado" : "12, "oficial" : "63}
+{ "idSumario" : 171, "fecha" : "2018-09-24 00:00:00", "descripcion" : "Recolección de colaboraciones", "resultado" : "NULL", "idEstado" : "12, "oficial" : "43}
+{ "idSumario" : 172, "fecha" : "2018-10-20 00:00:00", "descripcion" : "Cobro de adicionales antirreglamentarios", "resultado" : "Confirmado con amonestación", "idEstado" : "17, "oficial" : "23}
+{ "idSumario" : 173, "fecha" : "2018-10-27 00:00:00", "descripcion" : "Cobro de adicionales antirreglamentarios", "resultado" : "Cancelado", "idEstado" : "16, "oficial" : "16}
+{ "idSumario" : 174, "fecha" : "2018-06-15 00:00:00", "descripcion" : "Incumplimiento del deber", "resultado" : "Anulado", "idEstado" : "17, "oficial" : "38}
+{ "idSumario" : 175, "fecha" : "2018-12-23 00:00:00", "descripcion" : "Amedrentamiento", "resultado" : "Cancelado", "idEstado" : "0, "oficial" : "13}
+{ "idSumario" : 176, "fecha" : "2018-01-04 00:00:00", "descripcion" : "Exceso de peso", "resultado" : "Anulado", "idEstado" : "20, "oficial" : "48}
+{ "idSumario" : 177, "fecha" : "2018-10-17 00:00:00", "descripcion" : "Exceso de peso", "resultado" : "Confirmado con amonestación", "idEstado" : "7, "oficial" : "18}
+{ "idSumario" : 178, "fecha" : "2018-04-09 00:00:00", "descripcion" : "Traición a la fuerza", "resultado" : "Confirmado con amonestación", "idEstado" : "10, "oficial" : "23}
+{ "idSumario" : 179, "fecha" : "2018-11-27 00:00:00", "descripcion" : "Venta de armamento", "resultado" : "Rechazado", "idEstado" : "5, "oficial" : "13}
+{ "idSumario" : 180, "fecha" : "2018-07-19 00:00:00", "descripcion" : "Venta de estupefacientes", "resultado" : "Rechazado", "idEstado" : "4, "oficial" : "33}
+{ "idSumario" : 181, "fecha" : "2018-09-03 00:00:00", "descripcion" : "Uniforme fuera de regla", "resultado" : "Rechazado", "idEstado" : "13, "oficial" : "8}
+{ "idSumario" : 182, "fecha" : "2018-08-16 00:00:00", "descripcion" : "Uniforme fuera de regla", "resultado" : "Rechazado", "idEstado" : "12, "oficial" : "33}
+{ "idSumario" : 183, "fecha" : "2018-11-03 00:00:00", "descripcion" : "Patrullaje abandonado", "resultado" : "Cancelado", "idEstado" : "0, "oficial" : "18}
+{ "idSumario" : 184, "fecha" : "2018-02-19 00:00:00", "descripcion" : "Venta de estupefacientes", "resultado" : "Rechazado", "idEstado" : "0, "oficial" : "68}
+{ "idSumario" : 185, "fecha" : "2018-08-27 00:00:00", "descripcion" : "Colusión", "resultado" : "NULL", "idEstado" : "11, "oficial" : "68}
+{ "idSumario" : 186, "fecha" : "2018-04-27 00:00:00", "descripcion" : "Amedrentamiento", "resultado" : "Confirmado con punitivo", "idEstado" : "6, "oficial" : "13}
+{ "idSumario" : 187, "fecha" : "2018-04-20 00:00:00", "descripcion" : "Incumplimiento del deber", "resultado" : "Confirmado con punitivo", "idEstado" : "9, "oficial" : "23}
+{ "idSumario" : 188, "fecha" : "2018-03-06 00:00:00", "descripcion" : "Hurto", "resultado" : "Cancelado", "idEstado" : "18, "oficial" : "56}
+{ "idSumario" : 189, "fecha" : "2018-03-26 00:00:00", "descripcion" : "Exceso de fuerza", "resultado" : "Confirmado con amonestación", "idEstado" : "16, "oficial" : "13}
+{ "idSumario" : 190, "fecha" : "2018-03-23 00:00:00", "descripcion" : "Cobro de adicionales antirreglamentarios", "resultado" : "Confirmado con punitivo", "idEstado" : "13, "oficial" : "38}
+{ "idSumario" : 191, "fecha" : "2018-05-06 00:00:00", "descripcion" : "Consumo de estupefacientes", "resultado" : "Anulado", "idEstado" : "19, "oficial" : "23}
+{ "idSumario" : 192, "fecha" : "2018-02-16 00:00:00", "descripcion" : "Venta de armamento", "resultado" : "Anulado", "idEstado" : "14, "oficial" : "58}
+{ "idSumario" : 193, "fecha" : "2018-12-25 00:00:00", "descripcion" : "Exceso de fuerza", "resultado" : "Confirmado con punitivo", "idEstado" : "15, "oficial" : "36}
+{ "idSumario" : 194, "fecha" : "2018-12-04 00:00:00", "descripcion" : "Amedrentamiento", "resultado" : "Cancelado", "idEstado" : "5, "oficial" : "48}
+{ "idSumario" : 195, "fecha" : "2018-01-15 00:00:00", "descripcion" : "Exceso de fuerza", "resultado" : "Rechazado", "idEstado" : "5, "oficial" : "63}
+{ "idSumario" : 196, "fecha" : "2018-06-13 00:00:00", "descripcion" : "Conducción imprudente de móvil", "resultado" : "Rechazado", "idEstado" : "18, "oficial" : "58}
+{ "idSumario" : 197, "fecha" : "2018-03-03 00:00:00", "descripcion" : "Confección de estupefacientes", "resultado" : "Anulado", "idEstado" : "9, "oficial" : "66}
+{ "idSumario" : 198, "fecha" : "2018-11-27 00:00:00", "descripcion" : "Amedrentamiento", "resultado" : "Rechazado", "idEstado" : "6, "oficial" : "3}
+{ "idSumario" : 199, "fecha" : "2018-06-17 00:00:00", "descripcion" : "Hurto", "resultado" : "Cancelado", "idEstado" : "12, "oficial" : "3}
+

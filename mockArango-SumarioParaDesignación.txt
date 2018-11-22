@@ -1,0 +1,201 @@
+{ "idSumario" : 111, "descripcion" : "Consumo de estupefacientes", "resultado" : "Cancelado", "idEstado" : "19}, 0
+{ "idSumario" : 53, "descripcion" : "Abandono de tareas", "resultado" : "Confirmado con punitivo", "idEstado" : "10}, 1
+{ "idSumario" : 104, "descripcion" : "Exceso de fuerza", "resultado" : "Cancelado", "idEstado" : "0}, 1
+{ "idSumario" : 119, "descripcion" : "Extorsión", "resultado" : "Rechazado", "idEstado" : "4}, 1
+{ "idSumario" : 134, "descripcion" : "Hurto", "resultado" : "Confirmado con punitivo", "idEstado" : "20}, 1
+{ "idSumario" : 131, "descripcion" : "Consumo de estupefacientes", "resultado" : "Anulado", "idEstado" : "3}, 3
+{ "idSumario" : 172, "descripcion" : "Cobro de adicionales antirreglamentarios", "resultado" : "Confirmado con amonestación", "idEstado" : "17}, 3
+{ "idSumario" : 86, "descripcion" : "Recolección de colaboraciones", "resultado" : "Confirmado con punitivo", "idEstado" : "11}, 4
+{ "idSumario" : 121, "descripcion" : "Amedrentamiento", "resultado" : "Rechazado", "idEstado" : "14}, 4
+{ "idSumario" : 192, "descripcion" : "Venta de armamento", "resultado" : "Anulado", "idEstado" : "14}, 5
+{ "idSumario" : 153, "descripcion" : "Amedrentamiento", "resultado" : "Rechazado", "idEstado" : "3}, 7
+{ "idSumario" : 198, "descripcion" : "Amedrentamiento", "resultado" : "Rechazado", "idEstado" : "6}, 7
+{ "idSumario" : 108, "descripcion" : "Consumo de estupefacientes", "resultado" : "Rechazado", "idEstado" : "3}, 11
+{ "idSumario" : 138, "descripcion" : "Cobro de adicionales antirreglamentarios", "resultado" : "Cancelado", "idEstado" : "17}, 11
+{ "idSumario" : 82, "descripcion" : "Amenazas", "resultado" : "Confirmado con punitivo", "idEstado" : "9}, 12
+{ "idSumario" : 100, "descripcion" : "Venta de armamento", "resultado" : "Confirmado con amonestación", "idEstado" : "8}, 12
+{ "idSumario" : 118, "descripcion" : "Venta de armamento", "resultado" : "Confirmado con punitivo", "idEstado" : "11}, 14
+{ "idSumario" : 44, "descripcion" : "Consumo de estupefacientes", "resultado" : "Confirmado con punitivo", "idEstado" : "18}, 15
+{ "idSumario" : 0, "descripcion" : "Hurto", "resultado" : "Cancelado", "idEstado" : "17}, 18
+{ "idSumario" : 54, "descripcion" : "Patrullaje abandonado", "resultado" : "NULL", "idEstado" : "7}, 18
+{ "idSumario" : 102, "descripcion" : "Incumplimiento del deber", "resultado" : "Anulado", "idEstado" : "12}, 19
+{ "idSumario" : 10, "descripcion" : "Recolección de colaboraciones", "resultado" : "Confirmado con punitivo", "idEstado" : "15}, 20
+{ "idSumario" : 49, "descripcion" : "Amenazas", "resultado" : "Cancelado", "idEstado" : "17}, 21
+{ "idSumario" : 126, "descripcion" : "Recolección de colaboraciones", "resultado" : "Anulado", "idEstado" : "10}, 21
+{ "idSumario" : 5, "descripcion" : "Confección de estupefacientes", "resultado" : "Anulado", "idEstado" : "6}, 22
+{ "idSumario" : 37, "descripcion" : "Exceso de fuerza", "resultado" : "Anulado", "idEstado" : "4}, 22
+{ "idSumario" : 79, "descripcion" : "Extorsión", "resultado" : "Anulado", "idEstado" : "20}, 23
+{ "idSumario" : 181, "descripcion" : "Uniforme fuera de regla", "resultado" : "Rechazado", "idEstado" : "13}, 23
+{ "idSumario" : 55, "descripcion" : "Amenazas", "resultado" : "NULL", "idEstado" : "17}, 26
+{ "idSumario" : 76, "descripcion" : "Extorsión", "resultado" : "Cancelado", "idEstado" : "19}, 26
+{ "idSumario" : 180, "descripcion" : "Venta de estupefacientes", "resultado" : "Rechazado", "idEstado" : "4}, 26
+{ "idSumario" : 188, "descripcion" : "Hurto", "resultado" : "Cancelado", "idEstado" : "18}, 26
+{ "idSumario" : 18, "descripcion" : "Exceso de peso", "resultado" : "Confirmado con amonestación", "idEstado" : "0}, 30
+{ "idSumario" : 63, "descripcion" : "Exceso de peso", "resultado" : "Cancelado", "idEstado" : "0}, 31
+{ "idSumario" : 137, "descripcion" : "Patrullaje abandonado", "resultado" : "Rechazado", "idEstado" : "9}, 32
+{ "idSumario" : 176, "descripcion" : "Exceso de peso", "resultado" : "Anulado", "idEstado" : "20}, 32
+{ "idSumario" : 8, "descripcion" : "Extorsión", "resultado" : "Rechazado", "idEstado" : "20}, 34
+{ "idSumario" : 169, "descripcion" : "Abuso de autoridad", "resultado" : "Anulado", "idEstado" : "11}, 34
+{ "idSumario" : 62, "descripcion" : "Venta de armamento", "resultado" : "Confirmado con amonestación", "idEstado" : "2}, 35
+{ "idSumario" : 182, "descripcion" : "Uniforme fuera de regla", "resultado" : "Rechazado", "idEstado" : "12}, 35
+{ "idSumario" : 124, "descripcion" : "Consumo de estupefacientes", "resultado" : "Confirmado con amonestación", "idEstado" : "0}, 36
+{ "idSumario" : 196, "descripcion" : "Conducción imprudente de móvil", "resultado" : "Rechazado", "idEstado" : "18}, 38
+{ "idSumario" : 75, "descripcion" : "Confección de estupefacientes", "resultado" : "NULL", "idEstado" : "11}, 39
+{ "idSumario" : 141, "descripcion" : "Confección de estupefacientes", "resultado" : "Rechazado", "idEstado" : "2}, 39
+{ "idSumario" : 16, "descripcion" : "Amedrentamiento", "resultado" : "Confirmado con amonestación", "idEstado" : "20}, 40
+{ "idSumario" : 103, "descripcion" : "Venta de estupefacientes", "resultado" : "NULL", "idEstado" : "14}, 41
+{ "idSumario" : 92, "descripcion" : "Venta de estupefacientes", "resultado" : "Rechazado", "idEstado" : "19}, 42
+{ "idSumario" : 187, "descripcion" : "Incumplimiento del deber", "resultado" : "Confirmado con punitivo", "idEstado" : "9}, 42
+{ "idSumario" : 80, "descripcion" : "Exceso de peso", "resultado" : "Confirmado con punitivo", "idEstado" : "7}, 43
+{ "idSumario" : 162, "descripcion" : "Abandono de tareas", "resultado" : "Confirmado con amonestación", "idEstado" : "19}, 43
+{ "idSumario" : 166, "descripcion" : "Exceso de peso", "resultado" : "Confirmado con amonestación", "idEstado" : "13}, 45
+{ "idSumario" : 59, "descripcion" : "Exceso de peso", "resultado" : "Anulado", "idEstado" : "17}, 48
+{ "idSumario" : 67, "descripcion" : "Venta de estupefacientes", "resultado" : "Confirmado con punitivo", "idEstado" : "20}, 48
+{ "idSumario" : 90, "descripcion" : "Exceso de peso", "resultado" : "NULL", "idEstado" : "17}, 48
+{ "idSumario" : 52, "descripcion" : "Patrullaje abandonado", "resultado" : "Rechazado", "idEstado" : "19}, 50
+{ "idSumario" : 160, "descripcion" : "Traición a la fuerza", "resultado" : "Anulado", "idEstado" : "13}, 50
+{ "idSumario" : 168, "descripcion" : "Amedrentamiento", "resultado" : "Confirmado con punitivo", "idEstado" : "20}, 50
+{ "idSumario" : 65, "descripcion" : "Recolección de colaboraciones", "resultado" : "NULL", "idEstado" : "7}, 51
+{ "idSumario" : 132, "descripcion" : "Venta de armamento", "resultado" : "Cancelado", "idEstado" : "10}, 51
+{ "idSumario" : 193, "descripcion" : "Exceso de fuerza", "resultado" : "Confirmado con punitivo", "idEstado" : "15}, 51
+{ "idSumario" : 1, "descripcion" : "Exceso de fuerza", "resultado" : "Confirmado con punitivo", "idEstado" : "15}, 52
+{ "idSumario" : 29, "descripcion" : "Exceso de peso", "resultado" : "Confirmado con punitivo", "idEstado" : "19}, 52
+{ "idSumario" : 178, "descripcion" : "Traición a la fuerza", "resultado" : "Confirmado con amonestación", "idEstado" : "10}, 52
+{ "idSumario" : 120, "descripcion" : "Cobro de adicionales antirreglamentarios", "resultado" : "Rechazado", "idEstado" : "4}, 53
+{ "idSumario" : 15, "descripcion" : "Venta de estupefacientes", "resultado" : "Rechazado", "idEstado" : "6}, 54
+{ "idSumario" : 43, "descripcion" : "Incumplimiento del deber", "resultado" : "Anulado", "idEstado" : "15}, 54
+{ "idSumario" : 190, "descripcion" : "Cobro de adicionales antirreglamentarios", "resultado" : "Confirmado con punitivo", "idEstado" : "13}, 54
+{ "idSumario" : 129, "descripcion" : "Colusión", "resultado" : "NULL", "idEstado" : "16}, 55
+{ "idSumario" : 157, "descripcion" : "Abuso de autoridad", "resultado" : "Confirmado con punitivo", "idEstado" : "11}, 56
+{ "idSumario" : 2, "descripcion" : "Hurto", "resultado" : "Confirmado con punitivo", "idEstado" : "9}, 60
+{ "idSumario" : 70, "descripcion" : "Amenazas", "resultado" : "Anulado", "idEstado" : "5}, 60
+{ "idSumario" : 142, "descripcion" : "Uniforme fuera de regla", "resultado" : "Confirmado con punitivo", "idEstado" : "0}, 61
+{ "idSumario" : 112, "descripcion" : "Exceso de peso", "resultado" : "Rechazado", "idEstado" : "10}, 62
+{ "idSumario" : 177, "descripcion" : "Exceso de peso", "resultado" : "Confirmado con amonestación", "idEstado" : "7}, 62
+{ "idSumario" : 133, "descripcion" : "Conducción imprudente de móvil", "resultado" : "Confirmado con amonestación", "idEstado" : "9}, 64
+{ "idSumario" : 189, "descripcion" : "Exceso de fuerza", "resultado" : "Confirmado con amonestación", "idEstado" : "16}, 64
+{ "idSumario" : 19, "descripcion" : "Exceso de peso", "resultado" : "Rechazado", "idEstado" : "20}, 65
+{ "idSumario" : 148, "descripcion" : "Hurto", "resultado" : "Confirmado con amonestación", "idEstado" : "1}, 65
+{ "idSumario" : 9, "descripcion" : "Extorsión", "resultado" : "NULL", "idEstado" : "5}, 66
+{ "idSumario" : 191, "descripcion" : "Consumo de estupefacientes", "resultado" : "Anulado", "idEstado" : "19}, 68
+{ "idSumario" : 31, "descripcion" : "Incumplimiento del deber", "resultado" : "Confirmado con punitivo", "idEstado" : "2}, 74
+{ "idSumario" : 56, "descripcion" : "Amedrentamiento", "resultado" : "Confirmado con amonestación", "idEstado" : "15}, 79
+{ "idSumario" : 107, "descripcion" : "Venta de estupefacientes", "resultado" : "Cancelado", "idEstado" : "17}, 80
+{ "idSumario" : 98, "descripcion" : "Exceso de peso", "resultado" : "Confirmado con amonestación", "idEstado" : "0}, 82
+{ "idSumario" : 147, "descripcion" : "Abuso de autoridad", "resultado" : "NULL", "idEstado" : "1}, 82
+{ "idSumario" : 25, "descripcion" : "Amenazas", "resultado" : "Rechazado", "idEstado" : "7}, 83
+{ "idSumario" : 97, "descripcion" : "Colusión", "resultado" : "Rechazado", "idEstado" : "9}, 83
+{ "idSumario" : 105, "descripcion" : "Amedrentamiento", "resultado" : "Rechazado", "idEstado" : "14}, 84
+{ "idSumario" : 110, "descripcion" : "Hurto", "resultado" : "Confirmado con amonestación", "idEstado" : "0}, 87
+{ "idSumario" : 34, "descripcion" : "Conducción imprudente de móvil", "resultado" : "Confirmado con amonestación", "idEstado" : "4}, 90
+{ "idSumario" : 87, "descripcion" : "Incumplimiento del deber", "resultado" : "NULL", "idEstado" : "17}, 90
+{ "idSumario" : 152, "descripcion" : "Abandono de tareas", "resultado" : "Confirmado con punitivo", "idEstado" : "9}, 94
+{ "idSumario" : 85, "descripcion" : "Uniforme fuera de regla", "resultado" : "Confirmado con punitivo", "idEstado" : "7}, 96
+{ "idSumario" : 28, "descripcion" : "Venta de estupefacientes", "resultado" : "Cancelado", "idEstado" : "17}, 97
+{ "idSumario" : 197, "descripcion" : "Confección de estupefacientes", "resultado" : "Anulado", "idEstado" : "9}, 100
+{ "idSumario" : 81, "descripcion" : "Consumo de estupefacientes", "resultado" : "Confirmado con amonestación", "idEstado" : "0}, 102
+{ "idSumario" : 93, "descripcion" : "Venta de estupefacientes", "resultado" : "Confirmado con punitivo", "idEstado" : "7}, 102
+{ "idSumario" : 57, "descripcion" : "Uniforme fuera de regla", "resultado" : "Confirmado con amonestación", "idEstado" : "15}, 104
+{ "idSumario" : 91, "descripcion" : "Extorsión", "resultado" : "Rechazado", "idEstado" : "3}, 104
+{ "idSumario" : 139, "descripcion" : "Abandono de tareas", "resultado" : "Confirmado con punitivo", "idEstado" : "2}, 105
+{ "idSumario" : 167, "descripcion" : "Venta de estupefacientes", "resultado" : "Confirmado con punitivo", "idEstado" : "15}, 105
+{ "idSumario" : 184, "descripcion" : "Venta de estupefacientes", "resultado" : "Rechazado", "idEstado" : "0}, 105
+{ "idSumario" : 195, "descripcion" : "Exceso de fuerza", "resultado" : "Rechazado", "idEstado" : "5}, 105
+{ "idSumario" : 48, "descripcion" : "Conducción imprudente de móvil", "resultado" : "Confirmado con punitivo", "idEstado" : "9}, 108
+{ "idSumario" : 130, "descripcion" : "Venta de armamento", "resultado" : "Confirmado con punitivo", "idEstado" : "18}, 109
+{ "idSumario" : 94, "descripcion" : "Patrullaje abandonado", "resultado" : "Cancelado", "idEstado" : "16}, 112
+{ "idSumario" : 123, "descripcion" : "Patrullaje abandonado", "resultado" : "Anulado", "idEstado" : "10}, 114
+{ "idSumario" : 171, "descripcion" : "Recolección de colaboraciones", "resultado" : "NULL", "idEstado" : "12}, 114
+{ "idSumario" : 170, "descripcion" : "Recolección de colaboraciones", "resultado" : "Cancelado", "idEstado" : "12}, 115
+{ "idSumario" : 186, "descripcion" : "Amedrentamiento", "resultado" : "Confirmado con punitivo", "idEstado" : "6}, 115
+{ "idSumario" : 11, "descripcion" : "Exceso de fuerza", "resultado" : "Confirmado con amonestación", "idEstado" : "3}, 116
+{ "idSumario" : 17, "descripcion" : "Abandono de tareas", "resultado" : "Confirmado con amonestación", "idEstado" : "19}, 117
+{ "idSumario" : 173, "descripcion" : "Cobro de adicionales antirreglamentarios", "resultado" : "Cancelado", "idEstado" : "16}, 117
+{ "idSumario" : 35, "descripcion" : "Colusión", "resultado" : "Confirmado con amonestación", "idEstado" : "18}, 118
+{ "idSumario" : 117, "descripcion" : "Colusión", "resultado" : "Confirmado con amonestación", "idEstado" : "19}, 118
+{ "idSumario" : 140, "descripcion" : "Venta de estupefacientes", "resultado" : "Cancelado", "idEstado" : "2}, 119
+{ "idSumario" : 163, "descripcion" : "Amedrentamiento", "resultado" : "Confirmado con punitivo", "idEstado" : "20}, 120
+{ "idSumario" : 101, "descripcion" : "Amenazas", "resultado" : "Confirmado con amonestación", "idEstado" : "10}, 122
+{ "idSumario" : 21, "descripcion" : "Uniforme fuera de regla", "resultado" : "Rechazado", "idEstado" : "4}, 124
+{ "idSumario" : 146, "descripcion" : "Hurto", "resultado" : "Rechazado", "idEstado" : "7}, 125
+{ "idSumario" : 156, "descripcion" : "Abuso de autoridad", "resultado" : "Rechazado", "idEstado" : "14}, 126
+{ "idSumario" : 14, "descripcion" : "Amedrentamiento", "resultado" : "Cancelado", "idEstado" : "11}, 127
+{ "idSumario" : 22, "descripcion" : "Incumplimiento del deber", "resultado" : "Cancelado", "idEstado" : "7}, 127
+{ "idSumario" : 73, "descripcion" : "Recolección de colaboraciones", "resultado" : "Rechazado", "idEstado" : "4}, 129
+{ "idSumario" : 99, "descripcion" : "Conducción imprudente de móvil", "resultado" : "NULL", "idEstado" : "16}, 129
+{ "idSumario" : 149, "descripcion" : "Colusión", "resultado" : "Confirmado con punitivo", "idEstado" : "6}, 130
+{ "idSumario" : 183, "descripcion" : "Patrullaje abandonado", "resultado" : "Cancelado", "idEstado" : "0}, 131
+{ "idSumario" : 47, "descripcion" : "Abuso de autoridad", "resultado" : "Anulado", "idEstado" : "20}, 132
+{ "idSumario" : 4, "descripcion" : "Abandono de tareas", "resultado" : "Confirmado con amonestación", "idEstado" : "9}, 136
+{ "idSumario" : 174, "descripcion" : "Incumplimiento del deber", "resultado" : "Anulado", "idEstado" : "17}, 136
+{ "idSumario" : 158, "descripcion" : "Amenazas", "resultado" : "Confirmado con punitivo", "idEstado" : "9}, 137
+{ "idSumario" : 136, "descripcion" : "Incumplimiento del deber", "resultado" : "Confirmado con punitivo", "idEstado" : "11}, 139
+{ "idSumario" : 46, "descripcion" : "Hurto", "resultado" : "NULL", "idEstado" : "1}, 140
+{ "idSumario" : 125, "descripcion" : "Cobro de adicionales antirreglamentarios", "resultado" : "Confirmado con punitivo", "idEstado" : "10}, 141
+{ "idSumario" : 23, "descripcion" : "Hurto", "resultado" : "Cancelado", "idEstado" : "12}, 142
+{ "idSumario" : 78, "descripcion" : "Abandono de tareas", "resultado" : "Anulado", "idEstado" : "18}, 142
+{ "idSumario" : 89, "descripcion" : "Exceso de fuerza", "resultado" : "NULL", "idEstado" : "9}, 143
+{ "idSumario" : 199, "descripcion" : "Hurto", "resultado" : "Cancelado", "idEstado" : "12}, 143
+{ "idSumario" : 36, "descripcion" : "Conducción imprudente de móvil", "resultado" : "Rechazado", "idEstado" : "10}, 145
+{ "idSumario" : 96, "descripcion" : "Confección de estupefacientes", "resultado" : "Anulado", "idEstado" : "4}, 145
+{ "idSumario" : 24, "descripcion" : "Amenazas", "resultado" : "NULL", "idEstado" : "0}, 146
+{ "idSumario" : 41, "descripcion" : "Exceso de peso", "resultado" : "NULL", "idEstado" : "2}, 146
+{ "idSumario" : 42, "descripcion" : "Patrullaje abandonado", "resultado" : "Cancelado", "idEstado" : "0}, 147
+{ "idSumario" : 30, "descripcion" : "Hurto", "resultado" : "Confirmado con amonestación", "idEstado" : "4}, 149
+{ "idSumario" : 159, "descripcion" : "Hurto", "resultado" : "Confirmado con punitivo", "idEstado" : "7}, 151
+{ "idSumario" : 12, "descripcion" : "Consumo de estupefacientes", "resultado" : "Anulado", "idEstado" : "7}, 153
+{ "idSumario" : 61, "descripcion" : "Confección de estupefacientes", "resultado" : "NULL", "idEstado" : "3}, 155
+{ "idSumario" : 74, "descripcion" : "Amedrentamiento", "resultado" : "Anulado", "idEstado" : "3}, 155
+{ "idSumario" : 122, "descripcion" : "Amenazas", "resultado" : "Rechazado", "idEstado" : "11}, 155
+{ "idSumario" : 106, "descripcion" : "Incumplimiento del deber", "resultado" : "Rechazado", "idEstado" : "9}, 156
+{ "idSumario" : 72, "descripcion" : "Extorsión", "resultado" : "Confirmado con amonestación", "idEstado" : "17}, 158
+{ "idSumario" : 135, "descripcion" : "Patrullaje abandonado", "resultado" : "Rechazado", "idEstado" : "2}, 160
+{ "idSumario" : 88, "descripcion" : "Exceso de peso", "resultado" : "NULL", "idEstado" : "10}, 164
+{ "idSumario" : 114, "descripcion" : "Uniforme fuera de regla", "resultado" : "Rechazado", "idEstado" : "15}, 165
+{ "idSumario" : 27, "descripcion" : "Cobro de adicionales antirreglamentarios", "resultado" : "Cancelado", "idEstado" : "4}, 166
+{ "idSumario" : 68, "descripcion" : "Extorsión", "resultado" : "Rechazado", "idEstado" : "13}, 166
+{ "idSumario" : 77, "descripcion" : "Amedrentamiento", "resultado" : "Cancelado", "idEstado" : "11}, 166
+{ "idSumario" : 69, "descripcion" : "Venta de estupefacientes", "resultado" : "NULL", "idEstado" : "7}, 168
+{ "idSumario" : 38, "descripcion" : "Abuso de autoridad", "resultado" : "Rechazado", "idEstado" : "7}, 171
+{ "idSumario" : 95, "descripcion" : "Exceso de fuerza", "resultado" : "NULL", "idEstado" : "8}, 171
+{ "idSumario" : 144, "descripcion" : "Patrullaje abandonado", "resultado" : "Cancelado", "idEstado" : "11}, 171
+{ "idSumario" : 32, "descripcion" : "Colusión", "resultado" : "Cancelado", "idEstado" : "9}, 172
+{ "idSumario" : 154, "descripcion" : "Patrullaje abandonado", "resultado" : "Anulado", "idEstado" : "16}, 172
+{ "idSumario" : 50, "descripcion" : "Exceso de peso", "resultado" : "NULL", "idEstado" : "16}, 174
+{ "idSumario" : 194, "descripcion" : "Amedrentamiento", "resultado" : "Cancelado", "idEstado" : "5}, 174
+{ "idSumario" : 84, "descripcion" : "Uniforme fuera de regla", "resultado" : "Cancelado", "idEstado" : "0}, 176
+{ "idSumario" : 20, "descripcion" : "Uniforme fuera de regla", "resultado" : "Rechazado", "idEstado" : "13}, 178
+{ "idSumario" : 40, "descripcion" : "Cobro de adicionales antirreglamentarios", "resultado" : "Rechazado", "idEstado" : "2}, 178
+{ "idSumario" : 58, "descripcion" : "Colusión", "resultado" : "Confirmado con amonestación", "idEstado" : "0}, 178
+{ "idSumario" : 161, "descripcion" : "Amedrentamiento", "resultado" : "Anulado", "idEstado" : "16}, 178
+{ "idSumario" : 3, "descripcion" : "Exceso de fuerza", "resultado" : "NULL", "idEstado" : "19}, 179
+{ "idSumario" : 71, "descripcion" : "Colusión", "resultado" : "Cancelado", "idEstado" : "12}, 179
+{ "idSumario" : 179, "descripcion" : "Venta de armamento", "resultado" : "Rechazado", "idEstado" : "5}, 179
+{ "idSumario" : 116, "descripcion" : "Exceso de peso", "resultado" : "Anulado", "idEstado" : "2}, 180
+{ "idSumario" : 7, "descripcion" : "Hurto", "resultado" : "Confirmado con amonestación", "idEstado" : "2}, 181
+{ "idSumario" : 13, "descripcion" : "Uniforme fuera de regla", "resultado" : "Anulado", "idEstado" : "11}, 181
+{ "idSumario" : 155, "descripcion" : "Abandono de tareas", "resultado" : "Confirmado con punitivo", "idEstado" : "5}, 182
+{ "idSumario" : 113, "descripcion" : "Abandono de tareas", "resultado" : "Anulado", "idEstado" : "11}, 184
+{ "idSumario" : 165, "descripcion" : "Patrullaje abandonado", "resultado" : "Confirmado con amonestación", "idEstado" : "8}, 184
+{ "idSumario" : 39, "descripcion" : "Venta de armamento", "resultado" : "Rechazado", "idEstado" : "18}, 186
+{ "idSumario" : 64, "descripcion" : "Consumo de estupefacientes", "resultado" : "Anulado", "idEstado" : "8}, 186
+{ "idSumario" : 127, "descripcion" : "Venta de armamento", "resultado" : "Confirmado con punitivo", "idEstado" : "13}, 190
+{ "idSumario" : 51, "descripcion" : "Extorsión", "resultado" : "Confirmado con amonestación", "idEstado" : "16}, 191
+{ "idSumario" : 66, "descripcion" : "Colusión", "resultado" : "Confirmado con amonestación", "idEstado" : "5}, 191
+{ "idSumario" : 115, "descripcion" : "Patrullaje abandonado", "resultado" : "Rechazado", "idEstado" : "20}, 191
+{ "idSumario" : 185, "descripcion" : "Colusión", "resultado" : "NULL", "idEstado" : "11}, 191
+{ "idSumario" : 60, "descripcion" : "Colusión", "resultado" : "Rechazado", "idEstado" : "8}, 193
+{ "idSumario" : 164, "descripcion" : "Abandono de tareas", "resultado" : "Cancelado", "idEstado" : "0}, 193
+{ "idSumario" : 6, "descripcion" : "Conducción imprudente de móvil", "resultado" : "Confirmado con amonestación", "idEstado" : "13}, 194
+{ "idSumario" : 83, "descripcion" : "Amedrentamiento", "resultado" : "Confirmado con amonestación", "idEstado" : "0}, 194
+{ "idSumario" : 33, "descripcion" : "Patrullaje abandonado", "resultado" : "Cancelado", "idEstado" : "17}, 196
+{ "idSumario" : 128, "descripcion" : "Venta de estupefacientes", "resultado" : "Anulado", "idEstado" : "0}, 196
+{ "idSumario" : 109, "descripcion" : "Traición a la fuerza", "resultado" : "Confirmado con amonestación", "idEstado" : "15}, 198
+{ "idSumario" : 150, "descripcion" : "Abuso de autoridad", "resultado" : "Confirmado con punitivo", "idEstado" : "8}, 201
+{ "idSumario" : 45, "descripcion" : "Hurto", "resultado" : "Anulado", "idEstado" : "14}, 204
+{ "idSumario" : 145, "descripcion" : "Extorsión", "resultado" : "NULL", "idEstado" : "10}, 205
+{ "idSumario" : 143, "descripcion" : "Consumo de estupefacientes", "resultado" : "Anulado", "idEstado" : "1}, 206
+{ "idSumario" : 175, "descripcion" : "Amedrentamiento", "resultado" : "Cancelado", "idEstado" : "0}, 209
+{ "idSumario" : 26, "descripcion" : "Conducción imprudente de móvil", "resultado" : "NULL", "idEstado" : "6}, 210
+{ "idSumario" : 151, "descripcion" : "Traición a la fuerza", "resultado" : "Cancelado", "idEstado" : "14}, 210
+

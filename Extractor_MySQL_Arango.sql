@@ -140,7 +140,7 @@ select concat('{'
 ,', "nombre" : "' , Nombre , '"'
 ,', "personas" : [' , ' --> INCRUSTAR_PERSONAS <-- ',']'
 , '}')
-from Persona order by idPersona; 
+from OrganizacionDelictiva order by idOrganizacionDelictiva; 
 
 
 -- Seguimiento para Incidente 

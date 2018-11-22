@@ -1,0 +1,301 @@
+{ "idSeguimiento" : 80, "fecha" : "2018-03-11 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "61, "idIncidente" : "1}
+{ "idSeguimiento" : 114, "fecha" : "2018-03-17 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "15, "idIncidente" : "1}
+{ "idSeguimiento" : 149, "fecha" : "2018-08-27 00:00:00", "descripcion" : "Se impone multa", "oficial" : "20, "idIncidente" : "1}
+{ "idSeguimiento" : 194, "fecha" : "2018-02-27 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "37, "idIncidente" : "1}
+{ "idSeguimiento" : 219, "fecha" : "2018-07-01 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "30, "idIncidente" : "1}
+{ "idSeguimiento" : 73, "fecha" : "2018-05-25 00:00:00", "descripcion" : "Se impone condena", "oficial" : "36, "idIncidente" : "6}
+{ "idSeguimiento" : 125, "fecha" : "2018-06-17 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "68, "idIncidente" : "6}
+{ "idSeguimiento" : 226, "fecha" : "2018-08-26 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "25, "idIncidente" : "6}
+{ "idSeguimiento" : 31, "fecha" : "2018-04-07 00:00:00", "descripcion" : "Se impone multa", "oficial" : "66, "idIncidente" : "8}
+{ "idSeguimiento" : 41, "fecha" : "2018-03-08 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "67, "idIncidente" : "9}
+{ "idSeguimiento" : 47, "fecha" : "2018-11-15 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "48, "idIncidente" : "9}
+{ "idSeguimiento" : 59, "fecha" : "2018-07-28 00:00:00", "descripcion" : "Se impone multa", "oficial" : "36, "idIncidente" : "9}
+{ "idSeguimiento" : 134, "fecha" : "2018-01-04 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "53, "idIncidente" : "9}
+{ "idSeguimiento" : 186, "fecha" : "2018-07-23 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "45, "idIncidente" : "9}
+{ "idSeguimiento" : 211, "fecha" : "2018-04-26 00:00:00", "descripcion" : "Se impone condena", "oficial" : "62, "idIncidente" : "9}
+{ "idSeguimiento" : 222, "fecha" : "2018-06-07 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "15, "idIncidente" : "9}
+{ "idSeguimiento" : 64, "fecha" : "2018-04-17 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "64, "idIncidente" : "10}
+{ "idSeguimiento" : 126, "fecha" : "2018-04-05 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "11, "idIncidente" : "10}
+{ "idSeguimiento" : 144, "fecha" : "2018-03-28 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "34, "idIncidente" : "10}
+{ "idSeguimiento" : 218, "fecha" : "2018-05-11 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "41, "idIncidente" : "10}
+{ "idSeguimiento" : 246, "fecha" : "2018-11-07 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "40, "idIncidente" : "10}
+{ "idSeguimiento" : 260, "fecha" : "2018-01-02 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "53, "idIncidente" : "10}
+{ "idSeguimiento" : 36, "fecha" : "2018-04-06 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "51, "idIncidente" : "12}
+{ "idSeguimiento" : 66, "fecha" : "2018-12-12 00:00:00", "descripcion" : "Se impone multa", "oficial" : "40, "idIncidente" : "12}
+{ "idSeguimiento" : 249, "fecha" : "2018-12-26 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "52, "idIncidente" : "12}
+{ "idSeguimiento" : 280, "fecha" : "2018-08-12 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "60, "idIncidente" : "12}
+{ "idSeguimiento" : 39, "fecha" : "2018-08-16 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "47, "idIncidente" : "15}
+{ "idSeguimiento" : 261, "fecha" : "2018-10-24 00:00:00", "descripcion" : "Se impone condena", "oficial" : "55, "idIncidente" : "15}
+{ "idSeguimiento" : 20, "fecha" : "2018-01-21 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "26, "idIncidente" : "16}
+{ "idSeguimiento" : 82, "fecha" : "2018-11-08 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "23, "idIncidente" : "16}
+{ "idSeguimiento" : 87, "fecha" : "2018-07-13 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "5, "idIncidente" : "16}
+{ "idSeguimiento" : 89, "fecha" : "2018-07-02 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "46, "idIncidente" : "16}
+{ "idSeguimiento" : 97, "fecha" : "2018-07-06 00:00:00", "descripcion" : "Se impone multa", "oficial" : "32, "idIncidente" : "16}
+{ "idSeguimiento" : 224, "fecha" : "2018-01-01 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "16, "idIncidente" : "16}
+{ "idSeguimiento" : 257, "fecha" : "2018-07-13 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "51, "idIncidente" : "16}
+{ "idSeguimiento" : 265, "fecha" : "2018-08-08 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "46, "idIncidente" : "16}
+{ "idSeguimiento" : 37, "fecha" : "2018-03-02 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "53, "idIncidente" : "17}
+{ "idSeguimiento" : 46, "fecha" : "2018-08-28 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "53, "idIncidente" : "17}
+{ "idSeguimiento" : 55, "fecha" : "2018-11-11 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "61, "idIncidente" : "17}
+{ "idSeguimiento" : 147, "fecha" : "2018-11-24 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "44, "idIncidente" : "17}
+{ "idSeguimiento" : 154, "fecha" : "2018-11-25 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "68, "idIncidente" : "17}
+{ "idSeguimiento" : 181, "fecha" : "2018-05-20 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "3, "idIncidente" : "17}
+{ "idSeguimiento" : 184, "fecha" : "2018-12-12 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "57, "idIncidente" : "17}
+{ "idSeguimiento" : 189, "fecha" : "2018-01-09 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "63, "idIncidente" : "17}
+{ "idSeguimiento" : 192, "fecha" : "2018-03-12 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "7, "idIncidente" : "17}
+{ "idSeguimiento" : 253, "fecha" : "2018-01-06 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "30, "idIncidente" : "17}
+{ "idSeguimiento" : 45, "fecha" : "2018-08-22 00:00:00", "descripcion" : "Se impone condena", "oficial" : "33, "idIncidente" : "18}
+{ "idSeguimiento" : 139, "fecha" : "2018-10-11 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "20, "idIncidente" : "18}
+{ "idSeguimiento" : 255, "fecha" : "2018-08-07 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "35, "idIncidente" : "19}
+{ "idSeguimiento" : 258, "fecha" : "2018-01-14 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "48, "idIncidente" : "19}
+{ "idSeguimiento" : 175, "fecha" : "2018-02-07 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "1, "idIncidente" : "21}
+{ "idSeguimiento" : 90, "fecha" : "2018-03-24 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "12, "idIncidente" : "22}
+{ "idSeguimiento" : 188, "fecha" : "2018-10-01 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "30, "idIncidente" : "22}
+{ "idSeguimiento" : 221, "fecha" : "2018-04-02 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "67, "idIncidente" : "22}
+{ "idSeguimiento" : 7, "fecha" : "2018-04-22 00:00:00", "descripcion" : "Se impone condena", "oficial" : "17, "idIncidente" : "25}
+{ "idSeguimiento" : 11, "fecha" : "2018-10-16 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "12, "idIncidente" : "25}
+{ "idSeguimiento" : 19, "fecha" : "2018-06-20 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "44, "idIncidente" : "25}
+{ "idSeguimiento" : 136, "fecha" : "2018-02-15 00:00:00", "descripcion" : "Se impone condena", "oficial" : "50, "idIncidente" : "25}
+{ "idSeguimiento" : 213, "fecha" : "2018-06-14 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "22, "idIncidente" : "25}
+{ "idSeguimiento" : 245, "fecha" : "2018-04-08 00:00:00", "descripcion" : "Se impone condena", "oficial" : "55, "idIncidente" : "25}
+{ "idSeguimiento" : 295, "fecha" : "2018-07-22 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "64, "idIncidente" : "25}
+{ "idSeguimiento" : 1, "fecha" : "2018-11-22 00:00:00", "descripcion" : "Se impone multa", "oficial" : "51, "idIncidente" : "26}
+{ "idSeguimiento" : 33, "fecha" : "2018-03-12 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "61, "idIncidente" : "26}
+{ "idSeguimiento" : 234, "fecha" : "2018-06-15 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "36, "idIncidente" : "26}
+{ "idSeguimiento" : 244, "fecha" : "2018-03-23 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "45, "idIncidente" : "26}
+{ "idSeguimiento" : 271, "fecha" : "2018-06-16 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "38, "idIncidente" : "26}
+{ "idSeguimiento" : 276, "fecha" : "2018-09-18 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "21, "idIncidente" : "26}
+{ "idSeguimiento" : 143, "fecha" : "2018-05-11 00:00:00", "descripcion" : "Se impone condena", "oficial" : "14, "idIncidente" : "28}
+{ "idSeguimiento" : 266, "fecha" : "2018-03-11 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "2, "idIncidente" : "28}
+{ "idSeguimiento" : 282, "fecha" : "2018-07-17 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "15, "idIncidente" : "28}
+{ "idSeguimiento" : 298, "fecha" : "2018-09-15 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "43, "idIncidente" : "28}
+{ "idSeguimiento" : 14, "fecha" : "2018-11-03 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "12, "idIncidente" : "30}
+{ "idSeguimiento" : 69, "fecha" : "2018-03-05 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "51, "idIncidente" : "30}
+{ "idSeguimiento" : 137, "fecha" : "2018-01-14 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "67, "idIncidente" : "30}
+{ "idSeguimiento" : 262, "fecha" : "2018-04-05 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "46, "idIncidente" : "30}
+{ "idSeguimiento" : 289, "fecha" : "2018-05-19 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "19, "idIncidente" : "30}
+{ "idSeguimiento" : 148, "fecha" : "2018-11-23 00:00:00", "descripcion" : "Se impone condena", "oficial" : "9, "idIncidente" : "32}
+{ "idSeguimiento" : 170, "fecha" : "2018-02-18 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "20, "idIncidente" : "32}
+{ "idSeguimiento" : 215, "fecha" : "2018-05-19 00:00:00", "descripcion" : "Se impone condena", "oficial" : "56, "idIncidente" : "32}
+{ "idSeguimiento" : 247, "fecha" : "2018-08-25 00:00:00", "descripcion" : "Se impone multa", "oficial" : "52, "idIncidente" : "32}
+{ "idSeguimiento" : 256, "fecha" : "2018-08-22 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "47, "idIncidente" : "32}
+{ "idSeguimiento" : 290, "fecha" : "2018-11-15 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "54, "idIncidente" : "32}
+{ "idSeguimiento" : 54, "fecha" : "2018-03-03 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "54, "idIncidente" : "34}
+{ "idSeguimiento" : 201, "fecha" : "2018-03-25 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "5, "idIncidente" : "34}
+{ "idSeguimiento" : 264, "fecha" : "2018-04-04 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "43, "idIncidente" : "34}
+{ "idSeguimiento" : 91, "fecha" : "2018-03-20 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "7, "idIncidente" : "36}
+{ "idSeguimiento" : 177, "fecha" : "2018-09-26 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "48, "idIncidente" : "36}
+{ "idSeguimiento" : 239, "fecha" : "2018-08-21 00:00:00", "descripcion" : "Se impone multa", "oficial" : "37, "idIncidente" : "36}
+{ "idSeguimiento" : 198, "fecha" : "2018-12-17 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "7, "idIncidente" : "37}
+{ "idSeguimiento" : 61, "fecha" : "2018-10-19 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "34, "idIncidente" : "38}
+{ "idSeguimiento" : 157, "fecha" : "2018-08-05 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "38, "idIncidente" : "38}
+{ "idSeguimiento" : 176, "fecha" : "2018-11-28 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "49, "idIncidente" : "39}
+{ "idSeguimiento" : 210, "fecha" : "2018-04-01 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "47, "idIncidente" : "39}
+{ "idSeguimiento" : 273, "fecha" : "2018-01-22 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "13, "idIncidente" : "39}
+{ "idSeguimiento" : 29, "fecha" : "2018-10-09 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "55, "idIncidente" : "42}
+{ "idSeguimiento" : 92, "fecha" : "2018-09-22 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "11, "idIncidente" : "42}
+{ "idSeguimiento" : 95, "fecha" : "2018-11-14 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "62, "idIncidente" : "42}
+{ "idSeguimiento" : 288, "fecha" : "2018-07-12 00:00:00", "descripcion" : "Se impone multa", "oficial" : "8, "idIncidente" : "42}
+{ "idSeguimiento" : 53, "fecha" : "2018-06-26 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "38, "idIncidente" : "45}
+{ "idSeguimiento" : 86, "fecha" : "2018-08-13 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "59, "idIncidente" : "45}
+{ "idSeguimiento" : 103, "fecha" : "2018-07-24 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "12, "idIncidente" : "45}
+{ "idSeguimiento" : 122, "fecha" : "2018-01-04 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "54, "idIncidente" : "45}
+{ "idSeguimiento" : 88, "fecha" : "2018-10-11 00:00:00", "descripcion" : "Se impone condena", "oficial" : "15, "idIncidente" : "47}
+{ "idSeguimiento" : 15, "fecha" : "2018-06-16 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "0, "idIncidente" : "53}
+{ "idSeguimiento" : 138, "fecha" : "2018-10-10 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "10, "idIncidente" : "53}
+{ "idSeguimiento" : 161, "fecha" : "2018-04-04 00:00:00", "descripcion" : "Se impone multa", "oficial" : "56, "idIncidente" : "53}
+{ "idSeguimiento" : 195, "fecha" : "2018-12-21 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "49, "idIncidente" : "53}
+{ "idSeguimiento" : 229, "fecha" : "2018-04-24 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "18, "idIncidente" : "53}
+{ "idSeguimiento" : 13, "fecha" : "2018-08-04 00:00:00", "descripcion" : "Se impone condena", "oficial" : "4, "idIncidente" : "54}
+{ "idSeguimiento" : 40, "fecha" : "2018-11-17 00:00:00", "descripcion" : "Se impone condena", "oficial" : "20, "idIncidente" : "54}
+{ "idSeguimiento" : 83, "fecha" : "2018-11-18 00:00:00", "descripcion" : "Se impone condena", "oficial" : "11, "idIncidente" : "54}
+{ "idSeguimiento" : 21, "fecha" : "2018-09-08 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "14, "idIncidente" : "55}
+{ "idSeguimiento" : 38, "fecha" : "2018-06-23 00:00:00", "descripcion" : "Se impone condena", "oficial" : "62, "idIncidente" : "55}
+{ "idSeguimiento" : 28, "fecha" : "2018-05-10 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "34, "idIncidente" : "56}
+{ "idSeguimiento" : 67, "fecha" : "2018-06-25 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "61, "idIncidente" : "56}
+{ "idSeguimiento" : 132, "fecha" : "2018-07-27 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "13, "idIncidente" : "56}
+{ "idSeguimiento" : 163, "fecha" : "2018-10-15 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "1, "idIncidente" : "56}
+{ "idSeguimiento" : 287, "fecha" : "2018-08-28 00:00:00", "descripcion" : "Se impone condena", "oficial" : "51, "idIncidente" : "58}
+{ "idSeguimiento" : 296, "fecha" : "2018-04-18 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "47, "idIncidente" : "58}
+{ "idSeguimiento" : 4, "fecha" : "2018-03-25 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "43, "idIncidente" : "59}
+{ "idSeguimiento" : 5, "fecha" : "2018-02-04 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "24, "idIncidente" : "59}
+{ "idSeguimiento" : 8, "fecha" : "2018-06-06 00:00:00", "descripcion" : "Se impone condena", "oficial" : "54, "idIncidente" : "59}
+{ "idSeguimiento" : 9, "fecha" : "2018-10-10 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "36, "idIncidente" : "59}
+{ "idSeguimiento" : 22, "fecha" : "2018-01-17 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "4, "idIncidente" : "59}
+{ "idSeguimiento" : 102, "fecha" : "2018-03-03 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "28, "idIncidente" : "59}
+{ "idSeguimiento" : 104, "fecha" : "2018-04-09 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "57, "idIncidente" : "59}
+{ "idSeguimiento" : 165, "fecha" : "2018-09-24 00:00:00", "descripcion" : "Se impone condena", "oficial" : "16, "idIncidente" : "59}
+{ "idSeguimiento" : 153, "fecha" : "2018-11-06 00:00:00", "descripcion" : "Se impone multa", "oficial" : "5, "idIncidente" : "60}
+{ "idSeguimiento" : 30, "fecha" : "2018-02-20 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "32, "idIncidente" : "62}
+{ "idSeguimiento" : 74, "fecha" : "2018-04-28 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "0, "idIncidente" : "62}
+{ "idSeguimiento" : 113, "fecha" : "2018-12-20 00:00:00", "descripcion" : "Se impone condena", "oficial" : "18, "idIncidente" : "62}
+{ "idSeguimiento" : 190, "fecha" : "2018-01-11 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "16, "idIncidente" : "62}
+{ "idSeguimiento" : 206, "fecha" : "2018-05-03 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "1, "idIncidente" : "62}
+{ "idSeguimiento" : 57, "fecha" : "2018-03-10 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "8, "idIncidente" : "64}
+{ "idSeguimiento" : 124, "fecha" : "2018-05-24 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "4, "idIncidente" : "64}
+{ "idSeguimiento" : 135, "fecha" : "2018-05-04 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "2, "idIncidente" : "64}
+{ "idSeguimiento" : 169, "fecha" : "2018-02-01 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "53, "idIncidente" : "64}
+{ "idSeguimiento" : 183, "fecha" : "2018-06-27 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "68, "idIncidente" : "64}
+{ "idSeguimiento" : 227, "fecha" : "2018-02-08 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "66, "idIncidente" : "64}
+{ "idSeguimiento" : 293, "fecha" : "2018-07-28 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "27, "idIncidente" : "64}
+{ "idSeguimiento" : 48, "fecha" : "2018-12-09 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "48, "idIncidente" : "67}
+{ "idSeguimiento" : 238, "fecha" : "2018-05-18 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "28, "idIncidente" : "67}
+{ "idSeguimiento" : 268, "fecha" : "2018-01-15 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "60, "idIncidente" : "68}
+{ "idSeguimiento" : 2, "fecha" : "2018-03-21 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "0, "idIncidente" : "70}
+{ "idSeguimiento" : 68, "fecha" : "2018-01-26 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "64, "idIncidente" : "70}
+{ "idSeguimiento" : 81, "fecha" : "2018-05-07 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "13, "idIncidente" : "75}
+{ "idSeguimiento" : 108, "fecha" : "2018-09-26 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "30, "idIncidente" : "75}
+{ "idSeguimiento" : 119, "fecha" : "2018-07-24 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "66, "idIncidente" : "75}
+{ "idSeguimiento" : 197, "fecha" : "2018-11-10 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "29, "idIncidente" : "75}
+{ "idSeguimiento" : 230, "fecha" : "2018-04-14 00:00:00", "descripcion" : "Se impone condena", "oficial" : "7, "idIncidente" : "75}
+{ "idSeguimiento" : 286, "fecha" : "2018-07-08 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "2, "idIncidente" : "75}
+{ "idSeguimiento" : 71, "fecha" : "2018-04-06 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "25, "idIncidente" : "76}
+{ "idSeguimiento" : 159, "fecha" : "2018-04-24 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "54, "idIncidente" : "76}
+{ "idSeguimiento" : 235, "fecha" : "2018-02-04 00:00:00", "descripcion" : "Se impone condena", "oficial" : "6, "idIncidente" : "76}
+{ "idSeguimiento" : 242, "fecha" : "2018-07-19 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "41, "idIncidente" : "76}
+{ "idSeguimiento" : 193, "fecha" : "2018-02-14 00:00:00", "descripcion" : "Se impone multa", "oficial" : "14, "idIncidente" : "77}
+{ "idSeguimiento" : 208, "fecha" : "2018-08-08 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "36, "idIncidente" : "77}
+{ "idSeguimiento" : 248, "fecha" : "2018-11-04 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "57, "idIncidente" : "77}
+{ "idSeguimiento" : 70, "fecha" : "2018-06-09 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "32, "idIncidente" : "78}
+{ "idSeguimiento" : 72, "fecha" : "2018-08-14 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "62, "idIncidente" : "78}
+{ "idSeguimiento" : 141, "fecha" : "2018-12-10 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "36, "idIncidente" : "78}
+{ "idSeguimiento" : 205, "fecha" : "2018-03-02 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "39, "idIncidente" : "78}
+{ "idSeguimiento" : 236, "fecha" : "2018-10-17 00:00:00", "descripcion" : "Se impone multa", "oficial" : "66, "idIncidente" : "78}
+{ "idSeguimiento" : 237, "fecha" : "2018-11-11 00:00:00", "descripcion" : "Se impone condena", "oficial" : "1, "idIncidente" : "78}
+{ "idSeguimiento" : 240, "fecha" : "2018-11-10 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "54, "idIncidente" : "78}
+{ "idSeguimiento" : 23, "fecha" : "2018-11-25 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "0, "idIncidente" : "79}
+{ "idSeguimiento" : 123, "fecha" : "2018-08-25 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "38, "idIncidente" : "79}
+{ "idSeguimiento" : 160, "fecha" : "2018-04-17 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "51, "idIncidente" : "79}
+{ "idSeguimiento" : 187, "fecha" : "2018-04-11 00:00:00", "descripcion" : "Se impone condena", "oficial" : "40, "idIncidente" : "79}
+{ "idSeguimiento" : 32, "fecha" : "2018-02-07 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "11, "idIncidente" : "82}
+{ "idSeguimiento" : 65, "fecha" : "2018-04-27 00:00:00", "descripcion" : "Se impone condena", "oficial" : "42, "idIncidente" : "82}
+{ "idSeguimiento" : 166, "fecha" : "2018-02-24 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "19, "idIncidente" : "82}
+{ "idSeguimiento" : 196, "fecha" : "2018-05-11 00:00:00", "descripcion" : "Se impone multa", "oficial" : "35, "idIncidente" : "82}
+{ "idSeguimiento" : 279, "fecha" : "2018-10-24 00:00:00", "descripcion" : "Se impone condena", "oficial" : "55, "idIncidente" : "82}
+{ "idSeguimiento" : 51, "fecha" : "2018-07-26 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "56, "idIncidente" : "84}
+{ "idSeguimiento" : 100, "fecha" : "2018-01-20 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "68, "idIncidente" : "84}
+{ "idSeguimiento" : 209, "fecha" : "2018-10-04 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "16, "idIncidente" : "84}
+{ "idSeguimiento" : 214, "fecha" : "2018-03-06 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "1, "idIncidente" : "84}
+{ "idSeguimiento" : 254, "fecha" : "2018-11-19 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "24, "idIncidente" : "84}
+{ "idSeguimiento" : 269, "fecha" : "2018-06-20 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "65, "idIncidente" : "84}
+{ "idSeguimiento" : 75, "fecha" : "2018-02-02 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "32, "idIncidente" : "87}
+{ "idSeguimiento" : 155, "fecha" : "2018-02-02 00:00:00", "descripcion" : "Se impone condena", "oficial" : "49, "idIncidente" : "87}
+{ "idSeguimiento" : 34, "fecha" : "2018-08-20 00:00:00", "descripcion" : "Se impone condena", "oficial" : "32, "idIncidente" : "89}
+{ "idSeguimiento" : 77, "fecha" : "2018-08-22 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "9, "idIncidente" : "89}
+{ "idSeguimiento" : 105, "fecha" : "2018-06-01 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "39, "idIncidente" : "89}
+{ "idSeguimiento" : 133, "fecha" : "2018-12-09 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "68, "idIncidente" : "89}
+{ "idSeguimiento" : 272, "fecha" : "2018-12-15 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "60, "idIncidente" : "89}
+{ "idSeguimiento" : 292, "fecha" : "2018-06-12 00:00:00", "descripcion" : "Se impone condena", "oficial" : "5, "idIncidente" : "89}
+{ "idSeguimiento" : 44, "fecha" : "2018-11-27 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "26, "idIncidente" : "93}
+{ "idSeguimiento" : 79, "fecha" : "2018-01-16 00:00:00", "descripcion" : "Se impone multa", "oficial" : "25, "idIncidente" : "93}
+{ "idSeguimiento" : 232, "fecha" : "2018-09-11 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "52, "idIncidente" : "93}
+{ "idSeguimiento" : 283, "fecha" : "2018-03-02 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "23, "idIncidente" : "93}
+{ "idSeguimiento" : 24, "fecha" : "2018-01-26 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "20, "idIncidente" : "94}
+{ "idSeguimiento" : 84, "fecha" : "2018-03-19 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "53, "idIncidente" : "94}
+{ "idSeguimiento" : 109, "fecha" : "2018-11-25 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "23, "idIncidente" : "94}
+{ "idSeguimiento" : 115, "fecha" : "2018-07-24 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "2, "idIncidente" : "94}
+{ "idSeguimiento" : 200, "fecha" : "2018-01-23 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "64, "idIncidente" : "94}
+{ "idSeguimiento" : 16, "fecha" : "2018-01-28 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "21, "idIncidente" : "98}
+{ "idSeguimiento" : 101, "fecha" : "2018-04-24 00:00:00", "descripcion" : "Se impone multa", "oficial" : "36, "idIncidente" : "98}
+{ "idSeguimiento" : 173, "fecha" : "2018-04-19 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "5, "idIncidente" : "98}
+{ "idSeguimiento" : 270, "fecha" : "2018-08-14 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "50, "idIncidente" : "98}
+{ "idSeguimiento" : 58, "fecha" : "2018-04-22 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "46, "idIncidente" : "99}
+{ "idSeguimiento" : 60, "fecha" : "2018-01-22 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "46, "idIncidente" : "99}
+{ "idSeguimiento" : 297, "fecha" : "2018-08-18 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "57, "idIncidente" : "99}
+{ "idSeguimiento" : 243, "fecha" : "2018-05-09 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "16, "idIncidente" : "100}
+{ "idSeguimiento" : 10, "fecha" : "2018-02-10 00:00:00", "descripcion" : "Se impone multa", "oficial" : "40, "idIncidente" : "101}
+{ "idSeguimiento" : 63, "fecha" : "2018-03-04 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "21, "idIncidente" : "101}
+{ "idSeguimiento" : 178, "fecha" : "2018-03-28 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "63, "idIncidente" : "101}
+{ "idSeguimiento" : 203, "fecha" : "2018-05-15 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "64, "idIncidente" : "101}
+{ "idSeguimiento" : 204, "fecha" : "2018-10-27 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "49, "idIncidente" : "101}
+{ "idSeguimiento" : 220, "fecha" : "2018-11-20 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "6, "idIncidente" : "101}
+{ "idSeguimiento" : 171, "fecha" : "2018-11-04 00:00:00", "descripcion" : "Se impone condena", "oficial" : "48, "idIncidente" : "108}
+{ "idSeguimiento" : 182, "fecha" : "2018-06-21 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "61, "idIncidente" : "108}
+{ "idSeguimiento" : 112, "fecha" : "2018-01-27 00:00:00", "descripcion" : "Se impone condena", "oficial" : "15, "idIncidente" : "109}
+{ "idSeguimiento" : 281, "fecha" : "2018-09-28 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "65, "idIncidente" : "109}
+{ "idSeguimiento" : 291, "fecha" : "2018-04-17 00:00:00", "descripcion" : "Se impone multa", "oficial" : "54, "idIncidente" : "109}
+{ "idSeguimiento" : 106, "fecha" : "2018-10-23 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "10, "idIncidente" : "111}
+{ "idSeguimiento" : 111, "fecha" : "2018-11-18 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "28, "idIncidente" : "111}
+{ "idSeguimiento" : 180, "fecha" : "2018-06-22 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "64, "idIncidente" : "114}
+{ "idSeguimiento" : 50, "fecha" : "2018-07-17 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "26, "idIncidente" : "115}
+{ "idSeguimiento" : 140, "fecha" : "2018-03-27 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "45, "idIncidente" : "115}
+{ "idSeguimiento" : 162, "fecha" : "2018-12-20 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "22, "idIncidente" : "115}
+{ "idSeguimiento" : 225, "fecha" : "2018-01-24 00:00:00", "descripcion" : "Se impone multa", "oficial" : "1, "idIncidente" : "115}
+{ "idSeguimiento" : 228, "fecha" : "2018-02-24 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "23, "idIncidente" : "115}
+{ "idSeguimiento" : 277, "fecha" : "2018-02-27 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "2, "idIncidente" : "115}
+{ "idSeguimiento" : 27, "fecha" : "2018-04-02 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "28, "idIncidente" : "117}
+{ "idSeguimiento" : 151, "fecha" : "2018-03-12 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "23, "idIncidente" : "117}
+{ "idSeguimiento" : 52, "fecha" : "2018-03-17 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "58, "idIncidente" : "118}
+{ "idSeguimiento" : 96, "fecha" : "2018-12-06 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "35, "idIncidente" : "118}
+{ "idSeguimiento" : 107, "fecha" : "2018-09-10 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "32, "idIncidente" : "118}
+{ "idSeguimiento" : 127, "fecha" : "2018-04-02 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "0, "idIncidente" : "118}
+{ "idSeguimiento" : 3, "fecha" : "2018-06-12 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "27, "idIncidente" : "119}
+{ "idSeguimiento" : 118, "fecha" : "2018-12-20 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "9, "idIncidente" : "119}
+{ "idSeguimiento" : 168, "fecha" : "2018-03-25 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "0, "idIncidente" : "119}
+{ "idSeguimiento" : 191, "fecha" : "2018-06-16 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "62, "idIncidente" : "119}
+{ "idSeguimiento" : 285, "fecha" : "2018-09-15 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "20, "idIncidente" : "119}
+{ "idSeguimiento" : 85, "fecha" : "2018-09-08 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "22, "idIncidente" : "120}
+{ "idSeguimiento" : 121, "fecha" : "2018-08-07 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "9, "idIncidente" : "120}
+{ "idSeguimiento" : 129, "fecha" : "2018-01-19 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "54, "idIncidente" : "120}
+{ "idSeguimiento" : 145, "fecha" : "2018-01-15 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "28, "idIncidente" : "120}
+{ "idSeguimiento" : 212, "fecha" : "2018-08-22 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "59, "idIncidente" : "120}
+{ "idSeguimiento" : 94, "fecha" : "2018-01-19 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "56, "idIncidente" : "121}
+{ "idSeguimiento" : 252, "fecha" : "2018-10-14 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "15, "idIncidente" : "121}
+{ "idSeguimiento" : 274, "fecha" : "2018-12-15 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "67, "idIncidente" : "121}
+{ "idSeguimiento" : 35, "fecha" : "2018-01-02 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "49, "idIncidente" : "125}
+{ "idSeguimiento" : 43, "fecha" : "2018-06-17 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "19, "idIncidente" : "128}
+{ "idSeguimiento" : 216, "fecha" : "2018-10-02 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "30, "idIncidente" : "128}
+{ "idSeguimiento" : 250, "fecha" : "2018-04-28 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "55, "idIncidente" : "128}
+{ "idSeguimiento" : 18, "fecha" : "2018-10-10 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "58, "idIncidente" : "129}
+{ "idSeguimiento" : 49, "fecha" : "2018-08-08 00:00:00", "descripcion" : "Se impone condena", "oficial" : "27, "idIncidente" : "129}
+{ "idSeguimiento" : 164, "fecha" : "2018-10-04 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "26, "idIncidente" : "129}
+{ "idSeguimiento" : 217, "fecha" : "2018-08-02 00:00:00", "descripcion" : "Se impone multa", "oficial" : "50, "idIncidente" : "129}
+{ "idSeguimiento" : 223, "fecha" : "2018-06-02 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "3, "idIncidente" : "129}
+{ "idSeguimiento" : 231, "fecha" : "2018-02-10 00:00:00", "descripcion" : "Se impone condena", "oficial" : "32, "idIncidente" : "129}
+{ "idSeguimiento" : 241, "fecha" : "2018-06-13 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "2, "idIncidente" : "129}
+{ "idSeguimiento" : 263, "fecha" : "2018-02-19 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "1, "idIncidente" : "129}
+{ "idSeguimiento" : 12, "fecha" : "2018-11-16 00:00:00", "descripcion" : "Se impone multa", "oficial" : "54, "idIncidente" : "131}
+{ "idSeguimiento" : 199, "fecha" : "2018-01-19 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "53, "idIncidente" : "131}
+{ "idSeguimiento" : 275, "fecha" : "2018-03-08 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "23, "idIncidente" : "131}
+{ "idSeguimiento" : 128, "fecha" : "2018-06-02 00:00:00", "descripcion" : "Se impone multa", "oficial" : "12, "idIncidente" : "133}
+{ "idSeguimiento" : 130, "fecha" : "2018-10-22 00:00:00", "descripcion" : "Se impone multa", "oficial" : "36, "idIncidente" : "133}
+{ "idSeguimiento" : 150, "fecha" : "2018-01-15 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "69, "idIncidente" : "133}
+{ "idSeguimiento" : 158, "fecha" : "2018-12-26 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "44, "idIncidente" : "133}
+{ "idSeguimiento" : 167, "fecha" : "2018-11-13 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "37, "idIncidente" : "133}
+{ "idSeguimiento" : 172, "fecha" : "2018-06-20 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "62, "idIncidente" : "133}
+{ "idSeguimiento" : 251, "fecha" : "2018-02-03 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "32, "idIncidente" : "133}
+{ "idSeguimiento" : 42, "fecha" : "2018-05-24 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "43, "idIncidente" : "136}
+{ "idSeguimiento" : 56, "fecha" : "2018-05-03 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "24, "idIncidente" : "136}
+{ "idSeguimiento" : 62, "fecha" : "2018-10-01 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "12, "idIncidente" : "136}
+{ "idSeguimiento" : 120, "fecha" : "2018-12-24 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "62, "idIncidente" : "136}
+{ "idSeguimiento" : 0, "fecha" : "2018-11-15 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "32, "idIncidente" : "138}
+{ "idSeguimiento" : 93, "fecha" : "2018-11-06 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "11, "idIncidente" : "138}
+{ "idSeguimiento" : 110, "fecha" : "2018-12-07 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "40, "idIncidente" : "138}
+{ "idSeguimiento" : 117, "fecha" : "2018-10-03 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "51, "idIncidente" : "138}
+{ "idSeguimiento" : 179, "fecha" : "2018-01-14 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "64, "idIncidente" : "138}
+{ "idSeguimiento" : 233, "fecha" : "2018-02-03 00:00:00", "descripcion" : "Se impone condena", "oficial" : "27, "idIncidente" : "138}
+{ "idSeguimiento" : 267, "fecha" : "2018-06-10 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "32, "idIncidente" : "138}
+{ "idSeguimiento" : 6, "fecha" : "2018-05-15 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "37, "idIncidente" : "140}
+{ "idSeguimiento" : 25, "fecha" : "2018-01-04 00:00:00", "descripcion" : "Se impone multa", "oficial" : "28, "idIncidente" : "140}
+{ "idSeguimiento" : 131, "fecha" : "2018-10-14 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "11, "idIncidente" : "140}
+{ "idSeguimiento" : 259, "fecha" : "2018-09-15 00:00:00", "descripcion" : "Se impone condena", "oficial" : "29, "idIncidente" : "140}
+{ "idSeguimiento" : 294, "fecha" : "2018-08-26 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "52, "idIncidente" : "140}
+{ "idSeguimiento" : 299, "fecha" : "2018-07-19 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "29, "idIncidente" : "140}
+{ "idSeguimiento" : 17, "fecha" : "2018-12-05 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "22, "idIncidente" : "141}
+{ "idSeguimiento" : 76, "fecha" : "2018-10-12 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "26, "idIncidente" : "141}
+{ "idSeguimiento" : 185, "fecha" : "2018-01-18 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "52, "idIncidente" : "141}
+{ "idSeguimiento" : 207, "fecha" : "2018-09-17 00:00:00", "descripcion" : "Se impone multa", "oficial" : "48, "idIncidente" : "141}
+{ "idSeguimiento" : 152, "fecha" : "2018-08-06 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "22, "idIncidente" : "143}
+{ "idSeguimiento" : 26, "fecha" : "2018-08-22 00:00:00", "descripcion" : "Se amplía denuncia", "oficial" : "35, "idIncidente" : "144}
+{ "idSeguimiento" : 98, "fecha" : "2018-05-12 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "4, "idIncidente" : "144}
+{ "idSeguimiento" : 99, "fecha" : "2018-10-12 00:00:00", "descripcion" : "Se cita a testigos", "oficial" : "45, "idIncidente" : "144}
+{ "idSeguimiento" : 116, "fecha" : "2018-02-13 00:00:00", "descripcion" : "Peritos analizan caso", "oficial" : "39, "idIncidente" : "144}
+{ "idSeguimiento" : 142, "fecha" : "2018-08-21 00:00:00", "descripcion" : "Se impone multa", "oficial" : "57, "idIncidente" : "144}
+{ "idSeguimiento" : 174, "fecha" : "2018-01-17 00:00:00", "descripcion" : "Se impone condena", "oficial" : "12, "idIncidente" : "144}
+{ "idSeguimiento" : 202, "fecha" : "2018-02-24 00:00:00", "descripcion" : "Se impone condena", "oficial" : "10, "idIncidente" : "144}
+{ "idSeguimiento" : 278, "fecha" : "2018-02-13 00:00:00", "descripcion" : "Se informa a juzgado", "oficial" : "67, "idIncidente" : "144}
+{ "idSeguimiento" : 284, "fecha" : "2018-12-18 00:00:00", "descripcion" : "Se impone condena", "oficial" : "1, "idIncidente" : "144}
+{ "idSeguimiento" : 78, "fecha" : "2018-08-07 00:00:00", "descripcion" : "Se toman declaraciones", "oficial" : "36, "idIncidente" : "146}
+{ "idSeguimiento" : 146, "fecha" : "2018-10-21 00:00:00", "descripcion" : "Pasa de despacho", "oficial" : "18, "idIncidente" : "146}
+{ "idSeguimiento" : 156, "fecha" : "2018-01-09 00:00:00", "descripcion" : "Se revisan cámaras de tv", "oficial" : "42, "idIncidente" : "146}
+

@@ -1,0 +1,251 @@
+{ "idIncidente" : 0, "num" : 29, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 1, "num" : 8, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 1, "num" : 17, "rol" : "Oficial de civil"}
+{ "idIncidente" : 1, "num" : 36, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 1, "num" : 54, "rol" : "Oficial de civil"}
+{ "idIncidente" : 1, "num" : 60, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 3, "num" : 19, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 4, "num" : 3, "rol" : "Designado en manzana"}
+{ "idIncidente" : 4, "num" : 25, "rol" : "Oficial de civil"}
+{ "idIncidente" : 5, "num" : 19, "rol" : "Investigador"}
+{ "idIncidente" : 5, "num" : 34, "rol" : "Investigador"}
+{ "idIncidente" : 5, "num" : 44, "rol" : "Oficial de civil"}
+{ "idIncidente" : 5, "num" : 67, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 6, "num" : 21, "rol" : "Patrullero"}
+{ "idIncidente" : 8, "num" : 62, "rol" : "Designado en manzana"}
+{ "idIncidente" : 9, "num" : 17, "rol" : "Patrullero"}
+{ "idIncidente" : 10, "num" : 19, "rol" : "Investigador"}
+{ "idIncidente" : 10, "num" : 49, "rol" : "Investigador"}
+{ "idIncidente" : 11, "num" : 2, "rol" : "Investigador"}
+{ "idIncidente" : 11, "num" : 28, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 11, "num" : 54, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 11, "num" : 66, "rol" : "Designado en manzana"}
+{ "idIncidente" : 13, "num" : 21, "rol" : "Patrullero"}
+{ "idIncidente" : 13, "num" : 50, "rol" : "Oficial de civil"}
+{ "idIncidente" : 13, "num" : 53, "rol" : "Designado en manzana"}
+{ "idIncidente" : 13, "num" : 55, "rol" : "Patrullero"}
+{ "idIncidente" : 13, "num" : 58, "rol" : "Investigador"}
+{ "idIncidente" : 14, "num" : 3, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 14, "num" : 12, "rol" : "Investigador"}
+{ "idIncidente" : 14, "num" : 25, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 15, "num" : 22, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 15, "num" : 42, "rol" : "Designado en manzana"}
+{ "idIncidente" : 16, "num" : 69, "rol" : "Investigador"}
+{ "idIncidente" : 17, "num" : 42, "rol" : "Patrullero"}
+{ "idIncidente" : 19, "num" : 7, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 19, "num" : 10, "rol" : "Investigador"}
+{ "idIncidente" : 20, "num" : 1, "rol" : "Oficial de civil"}
+{ "idIncidente" : 20, "num" : 15, "rol" : "Patrullero"}
+{ "idIncidente" : 20, "num" : 21, "rol" : "Designado en manzana"}
+{ "idIncidente" : 20, "num" : 39, "rol" : "Investigador"}
+{ "idIncidente" : 21, "num" : 21, "rol" : "Oficial de civil"}
+{ "idIncidente" : 22, "num" : 34, "rol" : "Investigador"}
+{ "idIncidente" : 22, "num" : 55, "rol" : "Investigador"}
+{ "idIncidente" : 23, "num" : 31, "rol" : "Oficial de civil"}
+{ "idIncidente" : 23, "num" : 32, "rol" : "Patrullero"}
+{ "idIncidente" : 23, "num" : 67, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 24, "num" : 49, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 25, "num" : 46, "rol" : "Oficial de civil"}
+{ "idIncidente" : 27, "num" : 0, "rol" : "Designado en manzana"}
+{ "idIncidente" : 28, "num" : 6, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 28, "num" : 34, "rol" : "Designado en manzana"}
+{ "idIncidente" : 28, "num" : 40, "rol" : "Investigador"}
+{ "idIncidente" : 28, "num" : 44, "rol" : "Designado en manzana"}
+{ "idIncidente" : 29, "num" : 11, "rol" : "Designado en manzana"}
+{ "idIncidente" : 29, "num" : 40, "rol" : "Patrullero"}
+{ "idIncidente" : 29, "num" : 56, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 30, "num" : 33, "rol" : "Designado en manzana"}
+{ "idIncidente" : 30, "num" : 40, "rol" : "Investigador"}
+{ "idIncidente" : 30, "num" : 52, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 30, "num" : 65, "rol" : "Oficial de civil"}
+{ "idIncidente" : 32, "num" : 29, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 32, "num" : 59, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 33, "num" : 12, "rol" : "Investigador"}
+{ "idIncidente" : 34, "num" : 34, "rol" : "Oficial de civil"}
+{ "idIncidente" : 34, "num" : 37, "rol" : "Designado en manzana"}
+{ "idIncidente" : 34, "num" : 69, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 35, "num" : 1, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 35, "num" : 25, "rol" : "Designado en manzana"}
+{ "idIncidente" : 35, "num" : 35, "rol" : "Oficial de civil"}
+{ "idIncidente" : 36, "num" : 30, "rol" : "Oficial de civil"}
+{ "idIncidente" : 36, "num" : 35, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 36, "num" : 42, "rol" : "Designado en manzana"}
+{ "idIncidente" : 37, "num" : 24, "rol" : "Patrullero"}
+{ "idIncidente" : 38, "num" : 22, "rol" : "Designado en manzana"}
+{ "idIncidente" : 38, "num" : 48, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 39, "num" : 49, "rol" : "Patrullero"}
+{ "idIncidente" : 40, "num" : 23, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 41, "num" : 50, "rol" : "Investigador"}
+{ "idIncidente" : 42, "num" : 53, "rol" : "Oficial de civil"}
+{ "idIncidente" : 42, "num" : 54, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 43, "num" : 14, "rol" : "Investigador"}
+{ "idIncidente" : 43, "num" : 56, "rol" : "Oficial de civil"}
+{ "idIncidente" : 48, "num" : 10, "rol" : "Oficial de civil"}
+{ "idIncidente" : 48, "num" : 16, "rol" : "Oficial de civil"}
+{ "idIncidente" : 48, "num" : 56, "rol" : "Patrullero"}
+{ "idIncidente" : 50, "num" : 46, "rol" : "Patrullero"}
+{ "idIncidente" : 51, "num" : 44, "rol" : "Investigador"}
+{ "idIncidente" : 52, "num" : 4, "rol" : "Patrullero"}
+{ "idIncidente" : 53, "num" : 2, "rol" : "Oficial de civil"}
+{ "idIncidente" : 53, "num" : 30, "rol" : "Designado en manzana"}
+{ "idIncidente" : 54, "num" : 68, "rol" : "Oficial de civil"}
+{ "idIncidente" : 55, "num" : 0, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 55, "num" : 1, "rol" : "Patrullero"}
+{ "idIncidente" : 55, "num" : 33, "rol" : "Investigador"}
+{ "idIncidente" : 55, "num" : 44, "rol" : "Investigador"}
+{ "idIncidente" : 55, "num" : 61, "rol" : "Investigador"}
+{ "idIncidente" : 55, "num" : 69, "rol" : "Designado en manzana"}
+{ "idIncidente" : 56, "num" : 31, "rol" : "Designado en manzana"}
+{ "idIncidente" : 57, "num" : 26, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 57, "num" : 34, "rol" : "Investigador"}
+{ "idIncidente" : 58, "num" : 1, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 58, "num" : 69, "rol" : "Designado en manzana"}
+{ "idIncidente" : 60, "num" : 12, "rol" : "Oficial de civil"}
+{ "idIncidente" : 60, "num" : 57, "rol" : "Patrullero"}
+{ "idIncidente" : 61, "num" : 42, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 63, "num" : 12, "rol" : "Designado en manzana"}
+{ "idIncidente" : 63, "num" : 18, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 64, "num" : 8, "rol" : "Investigador"}
+{ "idIncidente" : 65, "num" : 7, "rol" : "Patrullero"}
+{ "idIncidente" : 65, "num" : 44, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 67, "num" : 14, "rol" : "Investigador"}
+{ "idIncidente" : 67, "num" : 31, "rol" : "Investigador"}
+{ "idIncidente" : 68, "num" : 43, "rol" : "Patrullero"}
+{ "idIncidente" : 68, "num" : 45, "rol" : "Designado en manzana"}
+{ "idIncidente" : 68, "num" : 59, "rol" : "Patrullero"}
+{ "idIncidente" : 69, "num" : 56, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 69, "num" : 66, "rol" : "Patrullero"}
+{ "idIncidente" : 70, "num" : 64, "rol" : "Patrullero"}
+{ "idIncidente" : 71, "num" : 26, "rol" : "Patrullero"}
+{ "idIncidente" : 72, "num" : 6, "rol" : "Patrullero"}
+{ "idIncidente" : 72, "num" : 34, "rol" : "Oficial de civil"}
+{ "idIncidente" : 72, "num" : 46, "rol" : "Designado en manzana"}
+{ "idIncidente" : 73, "num" : 16, "rol" : "Oficial de civil"}
+{ "idIncidente" : 73, "num" : 26, "rol" : "Patrullero"}
+{ "idIncidente" : 73, "num" : 63, "rol" : "Designado en manzana"}
+{ "idIncidente" : 73, "num" : 69, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 74, "num" : 23, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 74, "num" : 29, "rol" : "Oficial de civil"}
+{ "idIncidente" : 74, "num" : 37, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 75, "num" : 9, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 75, "num" : 12, "rol" : "Patrullero"}
+{ "idIncidente" : 75, "num" : 55, "rol" : "Oficial de civil"}
+{ "idIncidente" : 76, "num" : 42, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 77, "num" : 56, "rol" : "Patrullero"}
+{ "idIncidente" : 78, "num" : 28, "rol" : "Patrullero"}
+{ "idIncidente" : 78, "num" : 42, "rol" : "Oficial de civil"}
+{ "idIncidente" : 79, "num" : 27, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 79, "num" : 53, "rol" : "Oficial de civil"}
+{ "idIncidente" : 80, "num" : 3, "rol" : "Oficial de civil"}
+{ "idIncidente" : 80, "num" : 7, "rol" : "Oficial de civil"}
+{ "idIncidente" : 81, "num" : 7, "rol" : "Investigador"}
+{ "idIncidente" : 82, "num" : 41, "rol" : "Oficial de civil"}
+{ "idIncidente" : 82, "num" : 68, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 84, "num" : 4, "rol" : "Patrullero"}
+{ "idIncidente" : 85, "num" : 7, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 85, "num" : 35, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 85, "num" : 44, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 85, "num" : 60, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 86, "num" : 4, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 87, "num" : 4, "rol" : "Investigador"}
+{ "idIncidente" : 87, "num" : 14, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 87, "num" : 39, "rol" : "Designado en manzana"}
+{ "idIncidente" : 87, "num" : 45, "rol" : "Oficial de civil"}
+{ "idIncidente" : 88, "num" : 27, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 88, "num" : 29, "rol" : "Investigador"}
+{ "idIncidente" : 88, "num" : 36, "rol" : "Oficial de civil"}
+{ "idIncidente" : 88, "num" : 68, "rol" : "Investigador"}
+{ "idIncidente" : 88, "num" : 69, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 89, "num" : 55, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 90, "num" : 0, "rol" : "Patrullero"}
+{ "idIncidente" : 90, "num" : 69, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 94, "num" : 15, "rol" : "Designado en manzana"}
+{ "idIncidente" : 94, "num" : 18, "rol" : "Oficial de civil"}
+{ "idIncidente" : 94, "num" : 49, "rol" : "Patrullero"}
+{ "idIncidente" : 94, "num" : 53, "rol" : "Oficial de civil"}
+{ "idIncidente" : 94, "num" : 55, "rol" : "Oficial de civil"}
+{ "idIncidente" : 95, "num" : 50, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 96, "num" : 18, "rol" : "Patrullero"}
+{ "idIncidente" : 96, "num" : 19, "rol" : "Designado en manzana"}
+{ "idIncidente" : 97, "num" : 6, "rol" : "Patrullero"}
+{ "idIncidente" : 98, "num" : 43, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 99, "num" : 0, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 99, "num" : 35, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 100, "num" : 31, "rol" : "Oficial de civil"}
+{ "idIncidente" : 101, "num" : 0, "rol" : "Designado en manzana"}
+{ "idIncidente" : 101, "num" : 28, "rol" : "Investigador"}
+{ "idIncidente" : 102, "num" : 0, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 102, "num" : 1, "rol" : "Designado en manzana"}
+{ "idIncidente" : 102, "num" : 15, "rol" : "Oficial de civil"}
+{ "idIncidente" : 103, "num" : 11, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 103, "num" : 21, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 104, "num" : 66, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 105, "num" : 1, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 105, "num" : 43, "rol" : "Oficial de civil"}
+{ "idIncidente" : 105, "num" : 66, "rol" : "Investigador"}
+{ "idIncidente" : 106, "num" : 8, "rol" : "Oficial de civil"}
+{ "idIncidente" : 106, "num" : 22, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 106, "num" : 41, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 106, "num" : 62, "rol" : "Investigador"}
+{ "idIncidente" : 108, "num" : 31, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 110, "num" : 6, "rol" : "Patrullero"}
+{ "idIncidente" : 110, "num" : 11, "rol" : "Patrullero"}
+{ "idIncidente" : 110, "num" : 43, "rol" : "Investigador"}
+{ "idIncidente" : 111, "num" : 4, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 111, "num" : 27, "rol" : "Patrullero"}
+{ "idIncidente" : 111, "num" : 54, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 112, "num" : 7, "rol" : "Patrullero"}
+{ "idIncidente" : 112, "num" : 25, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 112, "num" : 54, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 113, "num" : 48, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 113, "num" : 58, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 113, "num" : 66, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 114, "num" : 8, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 114, "num" : 30, "rol" : "Designado en manzana"}
+{ "idIncidente" : 114, "num" : 50, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 114, "num" : 55, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 114, "num" : 56, "rol" : "Investigador"}
+{ "idIncidente" : 115, "num" : 7, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 116, "num" : 5, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 116, "num" : 13, "rol" : "Investigador"}
+{ "idIncidente" : 116, "num" : 24, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 116, "num" : 58, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 117, "num" : 27, "rol" : "Designado en manzana"}
+{ "idIncidente" : 117, "num" : 67, "rol" : "Patrullero"}
+{ "idIncidente" : 118, "num" : 43, "rol" : "Investigador"}
+{ "idIncidente" : 118, "num" : 61, "rol" : "Investigador"}
+{ "idIncidente" : 120, "num" : 7, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 121, "num" : 2, "rol" : "Designado en manzana"}
+{ "idIncidente" : 121, "num" : 30, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 122, "num" : 21, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 125, "num" : 43, "rol" : "Oficial de civil"}
+{ "idIncidente" : 126, "num" : 8, "rol" : "Investigador"}
+{ "idIncidente" : 126, "num" : 10, "rol" : "Patrullero"}
+{ "idIncidente" : 126, "num" : 31, "rol" : "Designado en manzana"}
+{ "idIncidente" : 127, "num" : 5, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 128, "num" : 44, "rol" : "Oficial de civil"}
+{ "idIncidente" : 130, "num" : 49, "rol" : "Patrullero"}
+{ "idIncidente" : 132, "num" : 25, "rol" : "Patrullero"}
+{ "idIncidente" : 132, "num" : 47, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 132, "num" : 56, "rol" : "Oficial de civil"}
+{ "idIncidente" : 133, "num" : 15, "rol" : "Oficial de civil"}
+{ "idIncidente" : 134, "num" : 6, "rol" : "Investigador"}
+{ "idIncidente" : 134, "num" : 18, "rol" : "Investigador"}
+{ "idIncidente" : 134, "num" : 49, "rol" : "Investigador"}
+{ "idIncidente" : 135, "num" : 9, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 135, "num" : 10, "rol" : "Oficial de civil"}
+{ "idIncidente" : 135, "num" : 39, "rol" : "Designado en manzana"}
+{ "idIncidente" : 135, "num" : 58, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 136, "num" : 0, "rol" : "Designado en manzana"}
+{ "idIncidente" : 136, "num" : 60, "rol" : "Designado en manzana"}
+{ "idIncidente" : 138, "num" : 43, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 139, "num" : 40, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 141, "num" : 16, "rol" : "Investigador"}
+{ "idIncidente" : 142, "num" : 25, "rol" : "Guardia en comisaría"}
+{ "idIncidente" : 145, "num" : 22, "rol" : "Investigador"}
+{ "idIncidente" : 145, "num" : 61, "rol" : "Patrullero"}
+{ "idIncidente" : 146, "num" : 44, "rol" : "Seguridad asignada"}
+{ "idIncidente" : 146, "num" : 46, "rol" : "Designado en manzana"}
+{ "idIncidente" : 148, "num" : 39, "rol" : "Patrullero"}
+{ "idIncidente" : 148, "num" : 50, "rol" : "Seguridad asignada"}
+

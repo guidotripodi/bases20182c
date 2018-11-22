@@ -1,0 +1,71 @@
+{ "num" : 0, "nombre" : "Carlos", "apellido" : "Pérez", "fechaIngreso" : "2010-01-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 1, "nombre" : "Roberto", "apellido" : "Peluso", "fechaIngreso" : "2010-02-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 2, "nombre" : "Lucrecia", "apellido" : "Tarquino", "fechaIngreso" : "2010-03-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 3, "nombre" : "Jorge", "apellido" : "Alba", "fechaIngreso" : "2010-04-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 4, "nombre" : "Carlos", "apellido" : "Fuentes", "fechaIngreso" : "2010-05-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 5, "nombre" : "Juan", "apellido" : "de la Palmira", "fechaIngreso" : "2010-06-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 6, "nombre" : "Raúl", "apellido" : "Bermúdez", "fechaIngreso" : "2010-07-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 7, "nombre" : "María", "apellido" : "Bermúdez", "fechaIngreso" : "2010-08-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 8, "nombre" : "Mercedes", "apellido" : "Domínguez", "fechaIngreso" : "2010-09-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 9, "nombre" : "Jaime", "apellido" : "Resero", "fechaIngreso" : "2010-10-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 10, "nombre" : "Raúl", "apellido" : "Bonessi", "fechaIngreso" : "2010-11-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 11, "nombre" : "Gonzalo", "apellido" : "Salvio", "fechaIngreso" : "2010-12-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 12, "nombre" : "Gastón", "apellido" : "Zurita", "fechaIngreso" : "2010-01-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 13, "nombre" : "Martín", "apellido" : "Colón", "fechaIngreso" : "2010-02-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 14, "nombre" : "Pablo", "apellido" : "Falcioni", "fechaIngreso" : "2010-03-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 15, "nombre" : "Alcides", "apellido" : "Sánchez", "fechaIngreso" : "2010-04-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 16, "nombre" : "Gabriel", "apellido" : "Miranda", "fechaIngreso" : "2010-05-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 17, "nombre" : "Celeste", "apellido" : "Stronati", "fechaIngreso" : "2010-06-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 18, "nombre" : "Patricia", "apellido" : "di Palma", "fechaIngreso" : "2010-07-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 19, "nombre" : "Damián", "apellido" : "Santos", "fechaIngreso" : "2010-08-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 20, "nombre" : "Alfio", "apellido" : "Alonso", "fechaIngreso" : "2010-09-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 21, "nombre" : "Sebastián", "apellido" : "García", "fechaIngreso" : "2011-02-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 22, "nombre" : "Agustín", "apellido" : "Galarza", "fechaIngreso" : "2011-03-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 23, "nombre" : "Ariel", "apellido" : "Mussari", "fechaIngreso" : "2011-03-01", "rango" : "Sargento", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 24, "nombre" : "Christian", "apellido" : "Mussari", "fechaIngreso" : "2011-04-01", "rango" : "Sargento", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 25, "nombre" : "Juan Cruz", "apellido" : "Robledo", "fechaIngreso" : "2011-04-01", "rango" : "Sargento", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 26, "nombre" : "Franco", "apellido" : "Murcia", "fechaIngreso" : "2011-04-01", "rango" : "Sargento", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 27, "nombre" : "Guillermo", "apellido" : "Montero", "fechaIngreso" : "2011-06-01", "rango" : "Sargento", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 28, "nombre" : "Rubén", "apellido" : "Luchetti", "fechaIngreso" : "2011-07-01", "rango" : "Sargento", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 29, "nombre" : "Alan", "apellido" : "Grinsky", "fechaIngreso" : "2013-08-01", "rango" : "Sargento", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 30, "nombre" : "Matías", "apellido" : "Goldstein", "fechaIngreso" : "2014-09-01", "rango" : "Subteniente", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 31, "nombre" : "Iván", "apellido" : "Carrillo", "fechaIngreso" : "2014-10-01", "rango" : "Subteniente", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 32, "nombre" : "Bruno", "apellido" : "Jerusalén", "fechaIngreso" : "2014-11-01", "rango" : "Subteniente", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 33, "nombre" : "Tomás", "apellido" : "Yabrán", "fechaIngreso" : "2014-12-01", "rango" : "Subteniente", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 34, "nombre" : "Andrés", "apellido" : "San Martín", "fechaIngreso" : "2014-01-01", "rango" : "Subteniente", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 35, "nombre" : "Karina", "apellido" : "Montoya", "fechaIngreso" : "2014-01-01", "rango" : "Subteniente", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 36, "nombre" : "Ernesto", "apellido" : "Rodríguez", "fechaIngreso" : "2013-01-01", "rango" : "Subteniente", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 37, "nombre" : "Raúl", "apellido" : "Pusiani", "fechaIngreso" : "2013-02-01", "rango" : "Subteniente", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 38, "nombre" : "Vicente", "apellido" : "Pérez", "fechaIngreso" : "2013-02-01", "rango" : "Subteniente", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 39, "nombre" : "Selma", "apellido" : "Laurante", "fechaIngreso" : "2010-02-01", "rango" : "Subteniente", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 40, "nombre" : "Bautista", "apellido" : "Delgado", "fechaIngreso" : "2013-03-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 41, "nombre" : "Kevin", "apellido" : "Ramírez", "fechaIngreso" : "2014-04-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 42, "nombre" : "Carlos", "apellido" : "Buenaventura", "fechaIngreso" : "2015-05-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 43, "nombre" : "Ricardo", "apellido" : "Diáfano", "fechaIngreso" : "2015-06-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 44, "nombre" : "María", "apellido" : "Bottana", "fechaIngreso" : "2015-07-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 45, "nombre" : "Laura", "apellido" : "di Marco", "fechaIngreso" : "2015-08-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 46, "nombre" : "Paula", "apellido" : "Kuhn", "fechaIngreso" : "2015-08-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 47, "nombre" : "Geremías", "apellido" : "Ferrari", "fechaIngreso" : "2015-08-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 48, "nombre" : "Gustavo", "apellido" : "Ferreira", "fechaIngreso" : "2015-09-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 49, "nombre" : "Johnatan", "apellido" : "de Brian", "fechaIngreso" : "2015-09-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 50, "nombre" : "Brian", "apellido" : "Silente", "fechaIngreso" : "2015-10-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 51, "nombre" : "Jesús", "apellido" : "Monteverde", "fechaIngreso" : "2015-02-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 52, "nombre" : "Jorge", "apellido" : "Quindimil", "fechaIngreso" : "2015-03-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 53, "nombre" : "Julián", "apellido" : "Quindimil", "fechaIngreso" : "2015-03-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 54, "nombre" : "Sandra", "apellido" : "Fua", "fechaIngreso" : "2011-03-01", "rango" : "Sargento", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 55, "nombre" : "Romina", "apellido" : "Peralta", "fechaIngreso" : "2011-01-01", "rango" : "Sargento", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 56, "nombre" : "Tobías", "apellido" : "Moyano", "fechaIngreso" : "2011-01-01", "rango" : "Sargento", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 57, "nombre" : "Laura", "apellido" : "Matos", "fechaIngreso" : "2011-01-01", "rango" : "Sargento", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 58, "nombre" : "Diana", "apellido" : "Caballero", "fechaIngreso" : "2011-12-01", "rango" : "Sargento", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 59, "nombre" : "Luana", "apellido" : "Expósito", "fechaIngreso" : "2012-12-01", "rango" : "Sargento", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 60, "nombre" : "Bautista", "apellido" : "Rodríguez", "fechaIngreso" : "2012-12-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 61, "nombre" : "Gimena", "apellido" : "Toresával", "fechaIngreso" : "2012-12-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 62, "nombre" : "Raúl", "apellido" : "Burgos", "fechaIngreso" : "2012-12-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 63, "nombre" : "Emanuel", "apellido" : "Bruno", "fechaIngreso" : "2012-12-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 64, "nombre" : "Sandra", "apellido" : "Fuentealba", "fechaIngreso" : "2012-11-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 65, "nombre" : "Celestino", "apellido" : "Diam", "fechaIngreso" : "2012-11-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 66, "nombre" : "Pablo", "apellido" : "Cáceres", "fechaIngreso" : "2012-10-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 67, "nombre" : "Roberto", "apellido" : "Rama", "fechaIngreso" : "2013-09-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 68, "nombre" : "Bruno", "apellido" : "Cornaggia", "fechaIngreso" : "2013-09-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+{ "num" : 69, "nombre" : "Carlos", "apellido" : "Gómez", "fechaIngreso" : "2013-09-01", "rango" : "Oficial", "designaciones" : [ --> INCRUSTAR_DESIGNACIONES <-- ]}
+

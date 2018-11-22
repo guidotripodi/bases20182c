@@ -1,0 +1,31 @@
+{ "idSuperheroe" : 0, "nombreFantasia" : "Aquaman", "colorDisfraz" : "Verde", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 1, "nombreFantasia" : "Batman", "colorDisfraz" : "Gris", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 2, "nombreFantasia" : "Flash", "colorDisfraz" : "Rojo", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 3, "nombreFantasia" : "Linterna Verde", "colorDisfraz" : "Verde", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 4, "nombreFantasia" : "Superman", "colorDisfraz" : "Rojo", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 5, "nombreFantasia" : "Wonder Woman", "colorDisfraz" : "Rojo", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 6, "nombreFantasia" : "Bluebird", "colorDisfraz" : "Azul", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 7, "nombreFantasia" : "Buzz Lightyear", "colorDisfraz" : "Blanco/Verde", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 8, "nombreFantasia" : "Chapulín Colorado", "colorDisfraz" : "Rojo", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 9, "nombreFantasia" : "Thundercats", "colorDisfraz" : "Varios", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 10, "nombreFantasia" : "Capitán América", "colorDisfraz" : "Rojo/Azul", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 11, "nombreFantasia" : "Hulk", "colorDisfraz" : "Verde", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 12, "nombreFantasia" : "Iron Man", "colorDisfraz" : "Gris", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 13, "nombreFantasia" : "Spiderman", "colorDisfraz" : "Rojo/Azul", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 14, "nombreFantasia" : "Caballero Luna", "colorDisfraz" : "Blanco", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 15, "nombreFantasia" : "Capitán Britania", "colorDisfraz" : "Azul/Rojo", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 16, "nombreFantasia" : "Caballero Rojo", "colorDisfraz" : "Rojo", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 17, "nombreFantasia" : "Superhijitus", "colorDisfraz" : "Azul", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 18, "nombreFantasia" : "Power Rangers", "colorDisfraz" : "", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 19, "nombreFantasia" : "El Zorro", "colorDisfraz" : "Negro", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 20, "nombreFantasia" : "Robocop", "colorDisfraz" : "Gris", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 21, "nombreFantasia" : "Molten Man", "colorDisfraz" : "Rojo", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 22, "nombreFantasia" : "Iceman", "colorDisfraz" : "Azul/Blanco", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 23, "nombreFantasia" : "Hombre Elástico", "colorDisfraz" : "Negro/Rojo", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 24, "nombreFantasia" : "El Dorado", "colorDisfraz" : "Amarillo/Rojo", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 25, "nombreFantasia" : "Firestorm", "colorDisfraz" : "Amarillo/Rojo", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 26, "nombreFantasia" : "Powergirl", "colorDisfraz" : "Blanco", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 27, "nombreFantasia" : "Red Star", "colorDisfraz" : "Rojo", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 28, "nombreFantasia" : "Striker Z", "colorDisfraz" : "Blanco/Rojo", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+{ "idSuperheroe" : 29, "nombreFantasia" : "Air Wave", "colorDisfraz" : "Verde", "incidentes" : [ --> INCRUSTAR_INCIDENTES <-- ]}
+
