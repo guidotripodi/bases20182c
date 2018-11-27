@@ -9,16 +9,6 @@ if conn.hasDatabase("tp2"):
 else:
     db = conn.createDatabase(name="tp2")
 
-
-#  oficial = db.createCollection(name="oficial")
-#  departamento = db.createCollection(name="departamento")
-#  incidente= db.createCollection(name="incidente")
-#  superheroe= db.createCollection(name="superheroe")
-#  habilidad= db.createCollection(name="habilidad")
-#  persona= db.createCollection(name="persona")
-#  direccion= db.createCollection(name="direccion")
-
-
 def createAndLoadCollection(db, collectionName, fileName):
     collection = db.createCollection(name=collectionName)
     with open(fileName) as json_data:
