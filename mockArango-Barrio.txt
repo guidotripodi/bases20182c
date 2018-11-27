@@ -1,18 +1,18 @@
-{"id" : 0, "nombre" : "Belgrano"}
-{"id" : 1, "nombre" : "Balvanera"}
-{"id" : 2, "nombre" : "Boedo"}
-{"id" : 3, "nombre" : "Núñez"}
-{"id" : 4, "nombre" : "Congreso"}
-{"id" : 5, "nombre" : "Constitución"}
-{"id" : 6, "nombre" : "Villa Lugano"}
-{"id" : 7, "nombre" : "Villa Real"}
-{"id" : 8, "nombre" : "Villa Pueyrredón"}
-{"id" : 9, "nombre" : "Once"}
-{"id" : 10, "nombre" : "Nueva Pompeya"}
-{"id" : 11, "nombre" : "Parque Chas"}
-{"id" : 12, "nombre" : "Villa Ortúzar"}
-{"id" : 13, "nombre" : "San Nicolás"}
-{"id" : 14, "nombre" : "Retiro"}
-{"id" : 15, "nombre" : "Villa Urquiza"}
-{"id" : 16, "nombre" : "Saavedra"}
+[{"id" : 0, "nombre" : "Belgrano"},
+{"id" : 1, "nombre" : "Balvanera"},
+{"id" : 2, "nombre" : "Boedo"},
+{"id" : 3, "nombre" : "Núñez"},
+{"id" : 4, "nombre" : "Congreso"},
+{"id" : 5, "nombre" : "Constitución"},
+{"id" : 6, "nombre" : "Villa Lugano"},
+{"id" : 7, "nombre" : "Villa Real"},
+{"id" : 8, "nombre" : "Villa Pueyrredón"},
+{"id" : 9, "nombre" : "Once"},
+{"id" : 10, "nombre" : "Nueva Pompeya"},
+{"id" : 11, "nombre" : "Parque Chas"},
+{"id" : 12, "nombre" : "Villa Ortúzar"},
+{"id" : 13, "nombre" : "San Nicolás"},
+{"id" : 14, "nombre" : "Retiro"},
+{"id" : 15, "nombre" : "Villa Urquiza"},
+{"id" : 16, "nombre" : "Saavedra"}]
 
