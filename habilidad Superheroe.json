@@ -1,172 +1,116 @@
-[
-	{
-		"idHabilidad" : 0,
-		"Nombre" : "Volar",
-		"idSuperheroe" : 26,
-		"idSuperheroe" : 3,
-		"idSuperheroe" : 8,
-		"idSuperheroe" : 10,
-		"idSuperheroe" : 11,
-		"idSuperheroe" : 12,
-		"idSuperheroe" : 13,
-		"idSuperheroe" : 15,
-		"idSuperheroe" : 29
-	},
-	{
-		"idHabilidad" : 2,
-		"Nombre" : "Invisibilizarse",
-		"idSuperheroe" : 11,
-		"idSuperheroe" : 23
-	},
-	{
-		"idHabilidad" : 3,
-		"Nombre" : "Detener balas",
-		"idSuperheroe" : 10
-	},
-	{
-		"idHabilidad" : 4,
-		"Nombre" : "Correr muy rápido",
-		"idSuperheroe" : 7
-	},
-	{
-		"idHabilidad" : 5,
-		"Nombre" : "Respirar bajo el agua",
-		"idSuperheroe" : 22,
-		"idSuperheroe" : 23,
-		"idSuperheroe" : 29
-	},
-	{
-		"idHabilidad" : 6,
-		"Nombre" : "Manipular animales",
-		"idSuperheroe" : 10,
-		"idSuperheroe" : 14,
-		"idSuperheroe" : 29
-	},
-	{
-		"idHabilidad" : 7,
-		"Nombre" : "Mover objetos con la mente",
-		"idSuperheroe" : 0,
-		"idSuperheroe" : 1,
-		"idSuperheroe" : 6,
-		"idSuperheroe" : 11,
-		"idSuperheroe" : 14
-	},
-	{
-		"idHabilidad" : 8,
-		"Nombre" : "Teletransportarse",
-		"idSuperheroe" : 4,
-		"idSuperheroe" : 21,
-		"idSuperheroe" : 29
-	},
-	{
-		"idHabilidad" : 9,
-		"Nombre" : "Memorizar todo",
-		"idSuperheroe" : 3,
-		"idSuperheroe" : 8,
-		"idSuperheroe" : 18,
-		"idSuperheroe" : 23
-	},
-	{
-		"idHabilidad" : 10,
-		"Nombre" : "Transformarse",
-		"idSuperheroe" : 4
-	},
-	{
-		"idHabilidad" : 12,
-		"Nombre" : "Provocar incendios",
-		"idSuperheroe" : 2,
-		"idSuperheroe" : 4,
-		"idSuperheroe" : 19,
-		"idSuperheroe" : 29
-	},
-	{
-		"idHabilidad" : 13,
-		"Nombre" : "Congelar",
-		"idSuperheroe" : 2
-	},
-	{
-		"idHabilidad" : 14,
-		"Nombre" : "Desaparecer",
-		"idSuperheroe" : 7,
-		"idSuperheroe" : 8,
-		"idSuperheroe" : 13,
-		"idSuperheroe" : 15,
-		"idSuperheroe" : 20,
-		"idSuperheroe" : 25
-	},
-	{
-		"idHabilidad" : 15,
-		"Nombre" : "Elastizarse",
-		"idSuperheroe" : 11,
-		"idSuperheroe" : 12
-	},
-	{
-		"idHabilidad" : 16,
-		"Nombre" : "Detener el tiempo",
-		"idSuperheroe" : 5,
-		"idSuperheroe" : 6,
-		"idSuperheroe" : 12,
-		"idSuperheroe" : 14,
-		"idSuperheroe" : 23,
-		"idSuperheroe" : 27
-	},
-	{
-		"idHabilidad" : 18,
-		"Nombre" : "Manejar armas",
-		"idSuperheroe" : 0,
-		"idSuperheroe" : 4,
-		"idSuperheroe" : 11
-	},
-	{
-		"idHabilidad" : 19,
-		"Nombre" : "Resolver cálculos",
-		"idSuperheroe" : 13
-	},
-	{
-		"idHabilidad" : 20,
-		"Nombre" : "Disfrazarse",
-		"idSuperheroe" : 16,
-		"idSuperheroe" : 21
-	},
-	{
-		"idHabilidad" : 21,
-		"Nombre" : "Paralizar oponentes",
-		"idSuperheroe" : 7,
-		"idSuperheroe" : 10,
-		"idSuperheroe" : 11,
-		"idSuperheroe" : 13,
-		"idSuperheroe" : 29
-	},
-	{
-		"idHabilidad" : 22,
-		"Nombre" : "Envenenar oponentes",
-		"idSuperheroe" : 3,
-		"idSuperheroe" : 13,
-		"idSuperheroe" : 24,
-		"idSuperheroe" : 26,
-		"idSuperheroe" : 29
-	},
-	{
-		"idHabilidad" : 23,
-		"Nombre" : "Confundir oponentes",
-		"idSuperheroe" : 1,
-		"idSuperheroe" : 5,
-		"idSuperheroe" : 6
-	},
-	{
-		"idHabilidad" : 24,
-		"Nombre" : "Provocar terremotos",
-		"idSuperheroe" : 2,
-		"idSuperheroe" : 29
-	},
-	{
-		"idHabilidad" : 25,
-		"Nombre" : "Provocar tormentas",
-		"idSuperheroe" : 2,
-		"idSuperheroe" : 6,
-		"idSuperheroe" : 8,
-		"idSuperheroe" : 11,
-		"idSuperheroe" : 16,
-		"idSuperheroe" : 22
-	}
+[{
+        "idHabilidad": 0,
+        "Nombre": "Volar",
+        "idSuperheroe": [26, 3, 8, 10, 11, 12, 13, 15, 29]
+    },
+    {
+        "idHabilidad": 2,
+        "Nombre": "Invisibilizarse",
+        "idSuperheroe": [11, 23]
+    },
+    {
+        "idHabilidad": 3,
+        "Nombre": "Detener balas",
+        "idSuperheroe": [10]
+    },
+    {
+        "idHabilidad": 4,
+        "Nombre": "Correr muy rápido",
+        "idSuperheroe": [7]
+    },
+    {
+        "idHabilidad": 5,
+        "Nombre": "Respirar bajo el agua",
+        "idSuperheroe": [22, 23, 29]
+    },
+    {
+        "idHabilidad": 6,
+        "Nombre": "Manipular animales",
+        "idSuperheroe": [10, 14, 29]
+    },
+    {
+        "idHabilidad": 7,
+        "Nombre": "Mover objetos con la mente",
+        "idSuperheroe": [0, 1, 6, 11, 14]
+    },
+    {
+        "idHabilidad": 8,
+        "Nombre": "Teletransportarse",
+        "idSuperheroe": [4, 21, 29]
+    },
+    {
+        "idHabilidad": 9,
+        "Nombre": "Memorizar todo",
+        "idSuperheroe": [3, 8, 18, 23]
+    },
+    {
+        "idHabilidad": 10,
+        "Nombre": "Transformarse",
+        "idSuperheroe": [4]
+    },
+    {
+        "idHabilidad": 12,
+        "Nombre": "Provocar incendios",
+        "idSuperheroe": [2, 4, 19, 29]
+    },
+    {
+        "idHabilidad": 13,
+        "Nombre": "Congelar",
+        "idSuperheroe": [2]
+    },
+    {
+        "idHabilidad": 14,
+        "Nombre": "Desaparecer",
+        "idSuperheroe": [7, 8, 13, 15, 20, 25]
+    },
+    {
+        "idHabilidad": 15,
+        "Nombre": "Elastizarse",
+        "idSuperheroe": [11, 12]
+    },
+    {
+        "idHabilidad": 16,
+        "Nombre": "Detener el tiempo",
+        "idSuperheroe": [5, 6, 12, 14, 23, 27]
+    },
+    {
+        "idHabilidad": 18,
+        "Nombre": "Manejar armas",
+        "idSuperheroe": [0, 4, 11]
+    },
+    {
+        "idHabilidad": 19,
+        "Nombre": "Resolver cálculos",
+        "idSuperheroe": [13]
+    },
+    {
+        "idHabilidad": 20,
+        "Nombre": "Disfrazarse",
+        "idSuperheroe": [16, 21]
+    },
+    {
+        "idHabilidad": 21,
+        "Nombre": "Paralizar oponentes",
+        "idSuperheroe": [7, 10, 11, 13, 29]
+    },
+    {
+        "idHabilidad": 22,
+        "Nombre": "Envenenar oponentes",
+        "idSuperheroe": [3, 13, 24, 26, 29]
+    },
+    {
+        "idHabilidad": 23,
+        "Nombre": "Confundir oponentes",
+        "idSuperheroe": [1, 5, 6]
+    },
+    {
+        "idHabilidad": 24,
+        "Nombre": "Provocar terremotos",
+        "idSuperheroe": [2, 29]
+    },
+    {
+        "idHabilidad": 25,
+        "Nombre": "Provocar tormentas",
+        "idSuperheroe": [2, 6, 8, 11, 16, 22]
+    }
 ]
