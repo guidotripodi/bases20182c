@@ -1,0 +1,106 @@
+[
+	{
+		"idHabilidad" : 0,
+		"Nombre" : "Volar"
+	},
+	{
+		"idHabilidad" : 1,
+		"Nombre" : "Traspasar paredes"
+	},
+	{
+		"idHabilidad" : 2,
+		"Nombre" : "Invisibilizarse"
+	},
+	{
+		"idHabilidad" : 3,
+		"Nombre" : "Detener balas"
+	},
+	{
+		"idHabilidad" : 4,
+		"Nombre" : "Correr muy rápido"
+	},
+	{
+		"idHabilidad" : 5,
+		"Nombre" : "Respirar bajo el agua"
+	},
+	{
+		"idHabilidad" : 6,
+		"Nombre" : "Manipular animales"
+	},
+	{
+		"idHabilidad" : 7,
+		"Nombre" : "Mover objetos con la mente"
+	},
+	{
+		"idHabilidad" : 8,
+		"Nombre" : "Teletransportarse"
+	},
+	{
+		"idHabilidad" : 9,
+		"Nombre" : "Memorizar todo"
+	},
+	{
+		"idHabilidad" : 10,
+		"Nombre" : "Transformarse"
+	},
+	{
+		"idHabilidad" : 11,
+		"Nombre" : "Lanzar energía"
+	},
+	{
+		"idHabilidad" : 12,
+		"Nombre" : "Provocar incendios"
+	},
+	{
+		"idHabilidad" : 13,
+		"Nombre" : "Congelar"
+	},
+	{
+		"idHabilidad" : 14,
+		"Nombre" : "Desaparecer"
+	},
+	{
+		"idHabilidad" : 15,
+		"Nombre" : "Elastizarse"
+	},
+	{
+		"idHabilidad" : 16,
+		"Nombre" : "Detener el tiempo"
+	},
+	{
+		"idHabilidad" : 17,
+		"Nombre" : "Conducir autos"
+	},
+	{
+		"idHabilidad" : 18,
+		"Nombre" : "Manejar armas"
+	},
+	{
+		"idHabilidad" : 19,
+		"Nombre" : "Resolver cálculos"
+	},
+	{
+		"idHabilidad" : 20,
+		"Nombre" : "Disfrazarse"
+	},
+	{
+		"idHabilidad" : 21,
+		"Nombre" : "Paralizar oponentes"
+	},
+	{
+		"idHabilidad" : 22,
+		"Nombre" : "Envenenar oponentes"
+	},
+	{
+		"idHabilidad" : 23,
+		"Nombre" : "Confundir oponentes"
+	},
+	{
+		"idHabilidad" : 24,
+		"Nombre" : "Provocar terremotos"
+	},
+	{
+		"idHabilidad" : 25,
+		"Nombre" : "Provocar tormentas"
+	}
+]

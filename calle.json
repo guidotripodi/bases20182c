@@ -1,0 +1,404 @@
+[
+	{
+		"idCalle" : 0,
+		"Nombre" : "Achával Rodríguez",
+		"idDireccion" : 81
+	},
+	{
+		"idCalle" : 13,
+		"Nombre" : "Argentina",
+		"idDireccion" : 31,
+		"idDireccion" : 35
+	},
+	{
+		"idCalle" : 14,
+		"Nombre" : "Asamblea",
+		"idDireccion" : 0,
+		"idDireccion" : 1
+	},
+	{
+		"idCalle" : 17,
+		"Nombre" : "Balbín, Ricardo",
+		"idDireccion" : 50
+	},
+	{
+		"idCalle" : 18,
+		"Nombre" : "Belgrano",
+		"idDireccion" : 72
+	},
+	{
+		"idCalle" : 26,
+		"Nombre" : "Cabildo",
+		"idDireccion" : 7
+	},
+	{
+		"idCalle" : 28,
+		"Nombre" : "Callao",
+		"idDireccion" : 10
+	},
+	{
+		"idCalle" : 31,
+		"Nombre" : "Carabobo",
+		"idDireccion" : 14
+	},
+	{
+		"idCalle" : 39,
+		"Nombre" : "Chiclana",
+		"idDireccion" : 19
+	},
+	{
+		"idCalle" : 39,
+		"Nombre" : "Chiclana",
+		"idDireccion" : 67
+	},
+	{
+		"idCalle" : 40,
+		"Nombre" : "Chorroarín",
+		"idDireccion" : 84
+	},
+	{
+		"idCalle" : 42,
+		"Nombre" : "Colombia",
+		"idDireccion" : 58
+	},
+	{
+		"idCalle" : 44,
+		"Nombre" : "Córdoba",
+		"idDireccion" : 48
+	},
+	{
+		"idCalle" : 46,
+		"Nombre" : "Corrientes",
+		"idDireccion" : 34
+	},
+	{
+		"idCalle" : 48,
+		"Nombre" : "Crisólogo Larralde",
+		"idDireccion" : 74
+	},
+	{
+		"idCalle" : 54,
+		"Nombre" : "de los Incas",
+		"idDireccion" : 20,
+		"idDireccion" : 54
+	},
+	{
+		"idCalle" : 56,
+		"Nombre" : "de los Italianos",
+		"idDireccion" : 79
+	},
+	{
+		"idCalle" : 69,
+		"Nombre" : "Escalada",
+		"idDireccion" : 12
+	},
+	{
+		"idCalle" : 72,
+		"Nombre" : "Eva Perón",
+		"idDireccion" : 88
+	},
+	{
+		"idCalle" : 73,
+		"Nombre" : "Fernández de la Cruz, General Francisco",
+		"idDireccion" : 40
+	},
+	{
+		"idCalle" : 76,
+		"Nombre" : "Gaona",
+		"idDireccion" : 9
+	},
+	{
+		"idCalle" : 79,
+		"Nombre" : "Garmendia",
+		"idDireccion" : 32
+	},
+	{
+		"idCalle" : 85,
+		"Nombre" : "Guzmán",
+		"idDireccion" : 37,
+		"idDireccion" : 63
+	},
+	{
+		"idCalle" : 86,
+		"Nombre" : "Huergo, Ingeniero",
+		"idDireccion" : 70,
+		"idDireccion" : 86
+	},
+	{
+		"idCalle" : 87,
+		"Nombre" : "Independencia",
+		"idDireccion" : 66
+	},
+	{
+		"idCalle" : 90,
+		"Nombre" : "Intendente Cantilo",
+		"idDireccion" : 43
+	},
+	{
+		"idCalle" : 97,
+		"Nombre" : "La Plata",
+		"idDireccion" : 65
+	},
+	{
+		"idCalle" : 99,
+		"Nombre" : "Lacroze, Federico",
+		"idDireccion" : 16
+	},
+	{
+		"idCalle" : 100,
+		"Nombre" : "Lafuente",
+		"idDireccion" : 89
+	},
+	{
+		"idCalle" : 106,
+		"Nombre" : "Lope de Vega",
+		"idDireccion" : 51
+	},
+	{
+		"idCalle" : 108,
+		"Nombre" : "Medrano",
+		"idDireccion" : 18
+	},
+	{
+		"idCalle" : 112,
+		"Nombre" : "Montt, Pedro",
+		"idDireccion" : 28
+	},
+	{
+		"idCalle" : 114,
+		"Nombre" : "Moreno, José María",
+		"idDireccion" : 5,
+		"idDireccion" : 24
+	},
+	{
+		"idCalle" : 119,
+		"Nombre" : "Olivera",
+		"idDireccion" : 13
+	},
+	{
+		"idCalle" : 127,
+		"Nombre" : "Punta Arenas",
+		"idDireccion" : 25
+	},
+	{
+		"idCalle" : 130,
+		"Nombre" : "Quartino, Ingeniero",
+		"idDireccion" : 23
+	},
+	{
+		"idCalle" : 136,
+		"Nombre" : "Riestra",
+		"idDireccion" : 41
+	},
+	{
+		"idCalle" : 142,
+		"Nombre" : "Ruiz Huidobro",
+		"idDireccion" : 78
+	},
+	{
+		"idCalle" : 148,
+		"Nombre" : "San Pedrito",
+		"idDireccion" : 64
+	},
+	{
+		"idCalle" : 150,
+		"Nombre" : "Santa F",
+		"idDireccion" : 21
+	},
+	{
+		"idCalle" : 151,
+		"Nombre" : "Santiago de Compostela",
+		"idDireccion" : 49,
+		"idDireccion" : 77
+	},
+	{
+		"idCalle" : 156,
+		"Nombre" : "Suárez",
+		"idDireccion" : 17
+	},
+	{
+		"idCalle" : 164,
+		"Nombre" : "White",
+		"idDireccion" : 71
+	},
+	{
+		"idCalle" : 165,
+		"Nombre" : "3 de Febrero",
+		"idDireccion" : 83
+	},
+	{
+		"idCalle" : 172,
+		"Nombre" : "Agüero",
+		"idDireccion" : 60
+	},
+	{
+		"idCalle" : 176,
+		"Nombre" : "Ambrosetti, Juan B.",
+		"idDireccion" : 42
+	},
+	{
+		"idCalle" : 177,
+		"Nombre" : "Amenabar",
+		"idDireccion" : 69
+	},
+	{
+		"idCalle" : 183,
+		"Nombre" : "Argerich",
+		"idDireccion" : 47
+	},
+	{
+		"idCalle" : 185,
+		"Nombre" : "Arias",
+		"idDireccion" : 30
+	},
+	{
+		"idCalle" : 190,
+		"Nombre" : "Ascasubi",
+		"idDireccion" : 62
+	},
+	{
+		"idCalle" : 194,
+		"Nombre" : "Baez",
+		"idDireccion" : 55
+	},
+	{
+		"idCalle" : 197,
+		"Nombre" : "Bermúdez",
+		"idDireccion" : 36
+	},
+	{
+		"idCalle" : 199,
+		"Nombre" : "Bogotá",
+		"idDireccion" : 39
+	},
+	{
+		"idCalle" : 200,
+		"Nombre" : "Bolaños",
+		"idDireccion" : 82
+	},
+	{
+		"idCalle" : 204,
+		"Nombre" : "Bolonia",
+		"idDireccion" : 2
+	},
+	{
+		"idCalle" : 205,
+		"Nombre" : "Bonpland",
+		"idDireccion" : 75
+	},
+	{
+		"idCalle" : 206,
+		"Nombre" : "Boulougne Sur Mer",
+		"idDireccion" : 26
+	},
+	{
+		"idCalle" : 209,
+		"Nombre" : "Bulgaria",
+		"idDireccion" : 15
+	},
+	{
+		"idCalle" : 210,
+		"Nombre" : "Bulnes",
+		"idDireccion" : 87
+	},
+	{
+		"idCalle" : 212,
+		"Nombre" : "Butty, Ingeniero E.",
+		"idDireccion" : 6
+	},
+	{
+		"idCalle" : 215,
+		"Nombre" : "Caldas",
+		"idDireccion" : 11,
+		"idDireccion" : 61,
+		"idDireccion" : 76
+	},
+	{
+		"idCalle" : 217,
+		"Nombre" : "Camargo",
+		"idDireccion" : 57
+	},
+	{
+		"idCalle" : 224,
+		"Nombre" : "Centenera, Del Barco",
+		"idDireccion" : 73
+	},
+	{
+		"idCalle" : 225,
+		"Nombre" : "Cervantes",
+		"idDireccion" : 33
+	},
+	{
+		"idCalle" : 231,
+		"Nombre" : "Concordia",
+		"idDireccion" : 3,
+		"idDireccion" : 22,
+		"idDireccion" : 29
+	},
+	{
+		"idCalle" : 235,
+		"Nombre" : "Coni, Dr. Emilio R.",
+		"idDireccion" : 52
+	},
+	{
+		"idCalle" : 238,
+		"Nombre" : "Cortina",
+		"idDireccion" : 44
+	},
+	{
+		"idCalle" : 240,
+		"Nombre" : "Cossio, García de",
+		"idDireccion" : 27,
+		"idDireccion" : 38
+	},
+	{
+		"idCalle" : 241,
+		"Nombre" : "Costa Rica",
+		"idDireccion" : 46
+	},
+	{
+		"idCalle" : 243,
+		"Nombre" : "Cucha Cucha",
+		"idDireccion" : 8
+	},
+	{
+		"idCalle" : 244,
+		"Nombre" : "Cuenca",
+		"idDireccion" : 53
+	},
+	{
+		"idCalle" : 247,
+		"Nombre" : "Deheza",
+		"idDireccion" : 45
+	},
+	{
+		"idCalle" : 248,
+		"Nombre" : "Delgado",
+		"idDireccion" : 59
+	},
+	{
+		"idCalle" : 250,
+		"Nombre" : "Donado",
+		"idDireccion" : 56
+	},
+	{
+		"idCalle" : 253,
+		"Nombre" : "Ecuador",
+		"idDireccion" : 68
+	},
+	{
+		"idCalle" : 255,
+		"Nombre" : "Eslovenia, República de",
+		"idDireccion" : 80
+	},
+	{
+		"idCalle" : 259,
+		"Nombre" : "Estados Unidos",
+		"idDireccion" : 85
+	},
+	{
+		"idCalle" : 262,
+		"Nombre" : "Falcón, Ramón Lorenz",
+		"idDireccion" : 4
+	}
+]

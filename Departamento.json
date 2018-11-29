@@ -1,0 +1,137 @@
+[
+	{
+		"idDepartamento" : 0,
+		"Nombre" : "Administración",
+		"Descripcion" : "Superintendencia de Administración",
+		"num" : 0,
+		"num" : 13,
+		"num" : 38,
+		"num" : 39,
+		"num" : 52,
+		"num" : 65
+	},
+	{
+		"idDepartamento" : 1,
+		"Nombre" : "Policía Científica",
+		"Descripcion" : "Superintendencia de Policía Científica",
+		"num" : 1,
+		"num" : 14,
+		"num" : 26,
+		"num" : 40,
+		"num" : 53,
+		"num" : 66
+	},
+	{
+		"idDepartamento" : 2,
+		"Nombre" : "Seguridad de Estado",
+		"Descripcion" : "Superintendencia de Seguridad de Estado",
+		"num" : 2,
+		"num" : 15,
+		"num" : 27,
+		"num" : 41,
+		"num" : 54,
+		"num" : 67
+	},
+	{
+		"idDepartamento" : 3,
+		"Nombre" : "Seguridad y Custodia",
+		"Descripcion" : "Superintendencia de Seguridad y Custodia",
+		"num" : 3,
+		"num" : 16,
+		"num" : 28,
+		"num" : 42,
+		"num" : 55,
+		"num" : 68
+	},
+	{
+		"idDepartamento" : 4,
+		"Nombre" : "Drogas Peligrosas",
+		"Descripcion" : "Superintendencia de Drogas Peligrosas",
+		"num" : 4,
+		"num" : 17,
+		"num" : 29,
+		"num" : 43,
+		"num" : 56,
+		"num" : 69
+	},
+	{
+		"idDepartamento" : 5,
+		"Nombre" : "Bomberos",
+		"Descripcion" : "Superintendencia Federal de Bomberos",
+		"num" : 5,
+		"num" : 18,
+		"num" : 30,
+		"num" : 44,
+		"num" : 57
+	},
+	{
+		"idDepartamento" : 6,
+		"Nombre" : "Tecnologías",
+		"Descripcion" : "Tecnologías de la Información y Comunicación",
+		"num" : 6,
+		"num" : 19,
+		"num" : 31,
+		"num" : 45,
+		"num" : 58
+	},
+	{
+		"idDepartamento" : 7,
+		"Nombre" : "Orden Público",
+		"Descripcion" : "Superintendencia Federal de Orden Público",
+		"num" : 7,
+		"num" : 20,
+		"num" : 32,
+		"num" : 46,
+		"num" : 59
+	},
+	{
+		"idDepartamento" : 8,
+		"Nombre" : "Transporte",
+		"Descripcion" : "Superintendencia Federal de Transporte",
+		"num" : 8,
+		"num" : 21,
+		"num" : 33,
+		"num" : 47,
+		"num" : 60
+	},
+	{
+		"idDepartamento" : 9,
+		"Nombre" : "Investigaciones Federales",
+		"Descripcion" : "Superintendencia de Investigaciones Federales",
+		"num" : 9,
+		"num" : 22,
+		"num" : 34,
+		"num" : 48,
+		"num" : 61
+	},
+	{
+		"idDepartamento" : 10,
+		"Nombre" : "Planeamiento Policial",
+		"Descripcion" : "Superintendencia de Planeamiento Policial",
+		"num" : 10,
+		"num" : 23,
+		"num" : 35,
+		"num" : 49,
+		"num" : 62
+	},
+	{
+		"idDepartamento" : 11,
+		"Nombre" : "Interior",
+		"Descripcion" : "Interior y Delitos Federales Complejos",
+		"num" : 11,
+		"num" : 24,
+		"num" : 36,
+		"num" : 50,
+		"num" : 63
+	},
+	{
+		"idDepartamento" : 12,
+		"Nombre" : "Bienestar",
+		"Descripcion" : "Superintendencia de Bienestar",
+		"num" : 12,
+		"num" : 25,
+		"num" : 37,
+		"num" : 51,
+		"num" : 64
+	}
+]
