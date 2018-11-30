@@ -5,3 +5,6 @@
  component=arangodb
 2018-11-29T00:46:28-03:00 |INFO| Use the following commands to start other servers: component=arangodb
 2018-11-29T00:46:28-03:00 |INFO| ArangoDB Starter listening on 0.0.0.0:8528 (:8528) component=arangodb
+2018-11-29T02:20:00-03:00 |INFO| Rotating log files... component=arangodb
+2018-11-29T08:44:01-03:00 |INFO| Starting arangodb version 0.13.7, build bdac926 component=arangodb
+2018-11-29T08:44:07-03:00 |FATA| Port 8528 is already in use component=arangodb
