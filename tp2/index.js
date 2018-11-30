@@ -37,19 +37,27 @@ const createDatabaseTP = () => {
     )
 }
 const createAllFiles = () => {
-    createAndLoadCollection("calle", "./datos/calle.json")
+    createAndLoadCollection("asuntosInternos", "./datos/asuntosInternos.json")
     createAndLoadCollection("barrio", "./datos/barrio.json")
-    createAndLoadCollection("oficial", "./datos/Oficiales.json")
+    createAndLoadCollection("calle", "./datos/calle.json")
     createAndLoadCollection("cerrado", "./datos/cerrado.json")
     createAndLoadCollection("departamento", "./datos/Departamento.json")
-    createAndLoadCollection("asuntosInternos", "./datos/asuntosInternos.json")
+    createAndLoadCollection("designacion", "./datos/designacion.json")
+    createAndLoadCollection("estadoSumario", "./datos/estadoSumario.json")
     createAndLoadCollection("habilidadSuperheroe", "./datos/habilidad Superheroe.json")
+    createAndLoadCollection('incidentes', './datos/Incidentes.json')
+    // createAndLoadCollection('interviene', './datos/interviene.json')
+    createAndLoadCollection('involucrado', './datos/involucrado.json')
+    createAndLoadCollection("oficiales", "./datos/Oficiales.json")
+    createAndLoadCollection('organizacionesdelictivas', './datos/OrganizacionesDelictivas.json')
     createAndLoadCollection("pendiente", "./datos/pendiente.json")
+    createAndLoadCollection("persona", "./datos/persona.json")
+    createAndLoadCollection("proceso", "./datos/proceso.json")
     createAndLoadCollection("seguimiento", "./datos/seguimiento.json")
+    createAndLoadCollection("sumario", "./datos/sumario.json")
+    createAndLoadCollection("superheroe", "./datos/superheroe.json")
     createAndLoadCollection("tipodesignacion", "./datos/tipodesignacion.json")
     createAndLoadCollection("vinculo", "./datos/vinculo.json")
-    createAndLoadCollection('organizacionesdelictivas', './datos/OrganizacionesDelictivas.json')
-    createAndLoadCollection('incidentes', './datos/Incidentes.json')
 }
 
 
@@ -62,7 +70,7 @@ const createAndLoadCollection = (collectionName, filename) => {
         () => {
             collection.import(jsonContent).then(
                 result => console.log('Import complete:'),
-                err => console.error('Import failed:')
+                err => console.error('Import failed:'+err)
             );
         },
         err => console.error('Failed to create collection:', err)
