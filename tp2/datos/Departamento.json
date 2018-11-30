@@ -2,72 +2,72 @@
         "idDepartamento": 0,
         "Nombre": "Administración",
         "Descripcion": "Superintendencia de Administración",
-        "num": [0, 13, 38, 39, 52, 65 ]
+        "num": [0, 13, 38, 39, 52, 65]
     },
     {
         "idDepartamento": 1,
         "Nombre": "Policía Científica",
         "Descripcion": "Superintendencia de Policía Científica",
-        "num": [1, 14, 26, 40, 53, 66 ]
+        "num": [1, 14, 26, 40, 53, 66]
     },
     {
         "idDepartamento": 2,
         "Nombre": "Seguridad de Estado",
         "Descripcion": "Superintendencia de Seguridad de Estado",
-        "num": [2, 15, 27, 41, 54, 67 ]
+        "num": [2, 15, 27, 41, 54, 67]
     },
     {
         "idDepartamento": 3,
         "Nombre": "Seguridad y Custodia",
         "Descripcion": "Superintendencia de Seguridad y Custodia",
-        "num": [3, 16, 28, 42, 55, 68 ]
+        "num": [3, 16, 28, 42, 55, 68]
     },
     {
         "idDepartamento": 4,
         "Nombre": "Drogas Peligrosas",
         "Descripcion": "Superintendencia de Drogas Peligrosas",
-        "num": [4, 17, 29, 43, 56, 69 ]
+        "num": [4, 17, 29, 43, 56, 69]
     },
     {
         "idDepartamento": 5,
         "Nombre": "Bomberos",
         "Descripcion": "Superintendencia Federal de Bomberos",
-        "num": [5, 18, 30, 44, 57 ]
+        "num": [5, 18, 30, 44, 57]
     },
     {
         "idDepartamento": 6,
         "Nombre": "Tecnologías",
         "Descripcion": "Tecnologías de la Información y Comunicación",
-        "num": [6, 19, 31, 45, 58 ]
+        "num": [6, 19, 31, 45, 58]
     }, {
         "idDepartamento": 7,
         "Nombre": "Orden Público",
         "Descripcion": "Superintendencia Federal de Orden Público",
-        "num": [7, 20, 32, 46, 59 ]
+        "num": [7, 20, 32, 46, 59]
     }, {
         "idDepartamento": 8,
         "Nombre": "Transporte",
         "Descripcion": "Superintendencia Federal de Transporte",
-        "num": [8, 21, 33, 47, 60 ]
+        "num": [8, 21, 33, 47, 60]
     }, {
         "idDepartamento": 9,
         "Nombre": "Investigaciones Federales",
         "Descripcion": "Superintendencia de Investigaciones Federales",
-        "num": [9, 22, 34, 48, 61 ]
+        "num": [9, 22, 34, 48, 61]
     }, {
         "idDepartamento": 10,
         "Nombre": "Planeamiento Policial",
         "Descripcion": "Superintendencia de Planeamiento Policial",
-        "num": [10, 23, 35, 49, 62 ]
+        "num": [10, 23, 35, 49, 62]
     }, {
         "idDepartamento": 11,
         "Nombre": "Interior",
         "Descripcion": "Interior y Delitos Federales Complejos",
-        "num": [11, 24, 36, 50, 63 ]
+        "num": [11, 24, 36, 50, 63]
     }, {
         "idDepartamento": 12,
         "Nombre": "Bienestar",
         "Descripcion": "Superintendencia de Bienestar",
-        "num": [12, 25, 37, 51, 64 ]
+        "num": [12, 25, 37, 51, 64]
     }
 ]

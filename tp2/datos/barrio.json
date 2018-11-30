@@ -1,87 +1,86 @@
-[
-	{
-		"idBarrio" : 0,
-		"Nombre" : "Belgrano",
-		"idDireccion" : [43]
-	},
-	{
-		"idBarrio" : 1,
-		"Nombre" : "Balvanera",
-		"idDireccion" : [8, 17, 37, 38, 49, 54, 65, 77]
-	},
-	{
-		"idBarrio" : 2,
-		"Nombre" : "Boedo",
-		"idDireccion" : [9, 46, 56, 58, 60]
-	},
-	{
-		"idBarrio" : 3,
-		"Nombre" : "Núñez",
-		"idDireccion" : [25, 26, 28, 34, 36, 50, 79, 84]
-	},
-	{
-		"idBarrio" : 4,
-		"Nombre" : "Congreso",
-		"idDireccion" : [13, 15, 22, 55, 57, 75]
-	},
-	{
-		"idBarrio" : 5,
-		"Nombre" : "Constitución",
-		"idDireccion" : [20, 53, 61, 80]
-	},
-	{
-		"idBarrio" : 6,
-		"Nombre" : "Villa Lugano",
-		"idDireccion" : [62, 63, 71, 72]
-	},
-	{
-		"idBarrio" : 7,
-		"Nombre" : "Villa Real",
-		"idDireccion" : [23, 70, 78]
-	},
-	{
-		"idBarrio" : 8,
-		"Nombre" : "Villa Pueyrredón",
-		"idDireccion" : [4, 14, 21, 42, 51, 66, 67, 83, 89]
-	},
-	{
-		"idBarrio" : 9,
-		"Nombre" : "Once",
-		"idDireccion" : [0, 1, 2, 7, 16, 29, 35, 40, 81]
-	},
-	{
-		"idBarrio" : 10,
-		"Nombre" : "Nueva Pompeya",
-		"idDireccion" : [10, 11, 24, 30, 64]
-	},
-	{
-		"idBarrio" : 11,
-		"Nombre" : "Parque Chas",
-		"idDireccion" : [3,44]
-	},
-	{
-		"idBarrio" : 12,
-		"Nombre" : "Villa Ortúzar",
-		"idDireccion" : [5, 41, 48, 52, 59, 88]
-	},
-	{
-		"idBarrio" : 13,
-		"Nombre" : "San Nicolás",
-		"idDireccion" : [32, 68, 73, 76, 87]
-	},
-	{
-		"idBarrio" : 14,
-		"Nombre" : "Retiro",
-		"idDireccion" : [12, 19, 27, 39, 69, 74, 82, 86]
-	},
-	{
-		"idBarrio" : 15,
-		"Nombre" : "Villa Urquiza",
-		"idDireccion" : [6, 31, 45, 47]
-	},
-	{
-		"idBarrio" : 16,
-		"Nombre" : "Saavedra",
-		"idDireccion" : [18, 33, 85]
-	}
+[{
+        "idBarrio": 0,
+        "Nombre": "Belgrano",
+        "idDireccion": [43]
+    },
+    {
+        "idBarrio": 1,
+        "Nombre": "Balvanera",
+        "idDireccion": [8, 17, 37, 38, 49, 54, 65, 77]
+    },
+    {
+        "idBarrio": 2,
+        "Nombre": "Boedo",
+        "idDireccion": [9, 46, 56, 58, 60]
+    },
+    {
+        "idBarrio": 3,
+        "Nombre": "Núñez",
+        "idDireccion": [25, 26, 28, 34, 36, 50, 79, 84]
+    },
+    {
+        "idBarrio": 4,
+        "Nombre": "Congreso",
+        "idDireccion": [13, 15, 22, 55, 57, 75]
+    },
+    {
+        "idBarrio": 5,
+        "Nombre": "Constitución",
+        "idDireccion": [20, 53, 61, 80]
+    },
+    {
+        "idBarrio": 6,
+        "Nombre": "Villa Lugano",
+        "idDireccion": [62, 63, 71, 72]
+    },
+    {
+        "idBarrio": 7,
+        "Nombre": "Villa Real",
+        "idDireccion": [23, 70, 78]
+    },
+    {
+        "idBarrio": 8,
+        "Nombre": "Villa Pueyrredón",
+        "idDireccion": [4, 14, 21, 42, 51, 66, 67, 83, 89]
+    },
+    {
+        "idBarrio": 9,
+        "Nombre": "Once",
+        "idDireccion": [0, 1, 2, 7, 16, 29, 35, 40, 81]
+    },
+    {
+        "idBarrio": 10,
+        "Nombre": "Nueva Pompeya",
+        "idDireccion": [10, 11, 24, 30, 64]
+    },
+    {
+        "idBarrio": 11,
+        "Nombre": "Parque Chas",
+        "idDireccion": [3, 44]
+    },
+    {
+        "idBarrio": 12,
+        "Nombre": "Villa Ortúzar",
+        "idDireccion": [5, 41, 48, 52, 59, 88]
+    },
+    {
+        "idBarrio": 13,
+        "Nombre": "San Nicolás",
+        "idDireccion": [32, 68, 73, 76, 87]
+    },
+    {
+        "idBarrio": 14,
+        "Nombre": "Retiro",
+        "idDireccion": [12, 19, 27, 39, 69, 74, 82, 86]
+    },
+    {
+        "idBarrio": 15,
+        "Nombre": "Villa Urquiza",
+        "idDireccion": [6, 31, 45, 47]
+    },
+    {
+        "idBarrio": 16,
+        "Nombre": "Saavedra",
+        "idDireccion": [18, 33, 85]
+    }
 ]
