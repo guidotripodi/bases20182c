@@ -1,5 +1,5 @@
-.DS_Store
 **/.DS_Store
-
+.DS_Store
+tp2/node_modules/
 tp2/.ipynb_checkpoints/
 **/*.ipynb
