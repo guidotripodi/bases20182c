@@ -1,251 +1,1252 @@
-num,idIncidente,Rol
-0,27,"Designado en manzana"
-0,55,"Guardia en comisaría"
-0,90,Patrullero
-0,99,"Seguridad asignada"
-0,101,"Designado en manzana"
-0,102,"Guardia en comisaría"
-0,136,"Designado en manzana"
-1,20,"Oficial de civil"
-1,35,"Guardia en comisaría"
-1,55,Patrullero
-1,58,"Seguridad asignada"
-1,102,"Designado en manzana"
-1,105,"Guardia en comisaría"
-2,11,Investigador
-2,53,"Oficial de civil"
-2,121,"Designado en manzana"
-3,4,"Designado en manzana"
-3,14,"Guardia en comisaría"
-3,80,"Oficial de civil"
-4,52,Patrullero
-4,84,Patrullero
-4,86,"Guardia en comisaría"
-4,87,Investigador
-4,111,"Seguridad asignada"
-5,116,"Guardia en comisaría"
-5,127,"Seguridad asignada"
-6,28,"Guardia en comisaría"
-6,72,Patrullero
-6,97,Patrullero
-6,110,Patrullero
-6,134,Investigador
-7,19,"Guardia en comisaría"
-7,65,Patrullero
-7,80,"Oficial de civil"
-7,81,Investigador
-7,85,"Guardia en comisaría"
-7,112,Patrullero
-7,115,"Guardia en comisaría"
-7,120,"Seguridad asignada"
-8,1,"Guardia en comisaría"
-8,64,Investigador
-8,106,"Oficial de civil"
-8,114,"Guardia en comisaría"
-8,126,Investigador
-9,75,"Guardia en comisaría"
-9,135,"Guardia en comisaría"
-10,19,Investigador
-10,48,"Oficial de civil"
-10,126,Patrullero
-10,135,"Oficial de civil"
-11,29,"Designado en manzana"
-11,103,"Guardia en comisaría"
-11,110,Patrullero
-12,14,Investigador
-12,33,Investigador
-12,60,"Oficial de civil"
-12,63,"Designado en manzana"
-12,75,Patrullero
-13,116,Investigador
-14,43,Investigador
-14,67,Investigador
-14,87,"Seguridad asignada"
-15,20,Patrullero
-15,94,"Designado en manzana"
-15,102,"Oficial de civil"
-15,133,"Oficial de civil"
-16,48,"Oficial de civil"
-16,73,"Oficial de civil"
-16,141,Investigador
-17,1,"Oficial de civil"
-17,9,Patrullero
-18,63,"Seguridad asignada"
-18,94,"Oficial de civil"
-18,96,Patrullero
-18,134,Investigador
-19,3,"Guardia en comisaría"
-19,5,Investigador
-19,10,Investigador
-19,96,"Designado en manzana"
-21,6,Patrullero
-21,13,Patrullero
-21,20,"Designado en manzana"
-21,21,"Oficial de civil"
-21,103,"Guardia en comisaría"
-21,122,"Seguridad asignada"
-22,15,"Seguridad asignada"
-22,38,"Designado en manzana"
-22,106,"Guardia en comisaría"
-22,145,Investigador
-23,40,"Guardia en comisaría"
-23,74,"Seguridad asignada"
-24,37,Patrullero
-24,116,"Seguridad asignada"
-25,4,"Oficial de civil"
-25,14,"Seguridad asignada"
-25,35,"Designado en manzana"
-25,112,"Guardia en comisaría"
-25,132,Patrullero
-25,142,"Guardia en comisaría"
-26,57,"Guardia en comisaría"
-26,71,Patrullero
-26,73,Patrullero
-27,79,"Seguridad asignada"
-27,88,"Seguridad asignada"
-27,111,Patrullero
-27,117,"Designado en manzana"
-28,11,"Seguridad asignada"
-28,78,Patrullero
-28,101,Investigador
-29,0,"Guardia en comisaría"
-29,32,"Seguridad asignada"
-29,74,"Oficial de civil"
-29,88,Investigador
-30,36,"Oficial de civil"
-30,53,"Designado en manzana"
-30,114,"Designado en manzana"
-30,121,"Guardia en comisaría"
-31,23,"Oficial de civil"
-31,56,"Designado en manzana"
-31,67,Investigador
-31,100,"Oficial de civil"
-31,108,"Seguridad asignada"
-31,126,"Designado en manzana"
-32,23,Patrullero
-33,30,"Designado en manzana"
-33,55,Investigador
-34,5,Investigador
-34,22,Investigador
-34,28,"Designado en manzana"
-34,34,"Oficial de civil"
-34,57,Investigador
-34,72,"Oficial de civil"
-35,35,"Oficial de civil"
-35,36,"Guardia en comisaría"
-35,85,"Guardia en comisaría"
-35,99,"Guardia en comisaría"
-36,1,"Guardia en comisaría"
-36,88,"Oficial de civil"
-37,34,"Designado en manzana"
-37,74,"Guardia en comisaría"
-39,20,Investigador
-39,87,"Designado en manzana"
-39,135,"Designado en manzana"
-39,148,Patrullero
-40,28,Investigador
-40,29,Patrullero
-40,30,Investigador
-40,139,"Guardia en comisaría"
-41,82,"Oficial de civil"
-41,106,"Seguridad asignada"
-42,15,"Designado en manzana"
-42,17,Patrullero
-42,36,"Designado en manzana"
-42,61,"Seguridad asignada"
-42,76,"Guardia en comisaría"
-42,78,"Oficial de civil"
-43,68,Patrullero
-43,98,"Guardia en comisaría"
-43,105,"Oficial de civil"
-43,110,Investigador
-43,118,Investigador
-43,125,"Oficial de civil"
-43,138,"Guardia en comisaría"
-44,5,"Oficial de civil"
-44,28,"Designado en manzana"
-44,51,Investigador
-44,55,Investigador
-44,65,"Seguridad asignada"
-44,85,"Seguridad asignada"
-44,128,"Oficial de civil"
-44,146,"Seguridad asignada"
-45,68,"Designado en manzana"
-45,87,"Oficial de civil"
-46,25,"Oficial de civil"
-46,50,Patrullero
-46,72,"Designado en manzana"
-46,146,"Designado en manzana"
-47,132,"Seguridad asignada"
-48,38,"Guardia en comisaría"
-48,113,"Seguridad asignada"
-49,10,Investigador
-49,24,"Seguridad asignada"
-49,39,Patrullero
-49,94,Patrullero
-49,130,Patrullero
-49,134,Investigador
-50,13,"Oficial de civil"
-50,41,Investigador
-50,95,"Guardia en comisaría"
-50,114,"Seguridad asignada"
-50,148,"Seguridad asignada"
-52,30,"Guardia en comisaría"
-53,13,"Designado en manzana"
-53,42,"Oficial de civil"
-53,79,"Oficial de civil"
-53,94,"Oficial de civil"
-54,1,"Oficial de civil"
-54,11,"Guardia en comisaría"
-54,42,"Seguridad asignada"
-54,111,"Seguridad asignada"
-54,112,"Guardia en comisaría"
-55,13,Patrullero
-55,22,Investigador
-55,75,"Oficial de civil"
-55,89,"Guardia en comisaría"
-55,94,"Oficial de civil"
-55,114,"Guardia en comisaría"
-56,29,"Seguridad asignada"
-56,43,"Oficial de civil"
-56,48,Patrullero
-56,69,"Guardia en comisaría"
-56,77,Patrullero
-56,114,Investigador
-56,132,"Oficial de civil"
-57,60,Patrullero
-58,13,Investigador
-58,113,"Guardia en comisaría"
-58,116,"Guardia en comisaría"
-58,135,"Guardia en comisaría"
-59,32,"Seguridad asignada"
-59,68,Patrullero
-60,1,"Seguridad asignada"
-60,85,"Seguridad asignada"
-60,136,"Designado en manzana"
-61,55,Investigador
-61,118,Investigador
-61,145,Patrullero
-62,8,"Designado en manzana"
-62,106,Investigador
-63,73,"Designado en manzana"
-64,70,Patrullero
-65,30,"Oficial de civil"
-66,11,"Designado en manzana"
-66,69,Patrullero
-66,104,"Guardia en comisaría"
-66,105,Investigador
-66,113,"Seguridad asignada"
-67,5,"Seguridad asignada"
-67,23,"Guardia en comisaría"
-67,117,Patrullero
-68,54,"Oficial de civil"
-68,82,"Guardia en comisaría"
-68,88,Investigador
-69,16,Investigador
-69,34,"Seguridad asignada"
-69,55,"Designado en manzana"
-69,58,"Designado en manzana"
-69,73,"Seguridad asignada"
-69,88,"Seguridad asignada"
-69,90,"Seguridad asignada"
+[
+	{
+		"num" : 0,
+		"idIncidente" : 27,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 0,
+		"idIncidente" : 55,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 0,
+		"idIncidente" : 90,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 0,
+		"idIncidente" : 99,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 0,
+		"idIncidente" : 101,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 0,
+		"idIncidente" : 102,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 0,
+		"idIncidente" : 136,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 1,
+		"idIncidente" : 20,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 1,
+		"idIncidente" : 35,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 1,
+		"idIncidente" : 55,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 1,
+		"idIncidente" : 58,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 1,
+		"idIncidente" : 102,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 1,
+		"idIncidente" : 105,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 2,
+		"idIncidente" : 11,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 2,
+		"idIncidente" : 53,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 2,
+		"idIncidente" : 121,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 3,
+		"idIncidente" : 4,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 3,
+		"idIncidente" : 14,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 3,
+		"idIncidente" : 80,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 4,
+		"idIncidente" : 52,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 4,
+		"idIncidente" : 84,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 4,
+		"idIncidente" : 86,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 4,
+		"idIncidente" : 87,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 4,
+		"idIncidente" : 111,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 5,
+		"idIncidente" : 116,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 5,
+		"idIncidente" : 127,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 6,
+		"idIncidente" : 28,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 6,
+		"idIncidente" : 72,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 6,
+		"idIncidente" : 97,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 6,
+		"idIncidente" : 110,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 6,
+		"idIncidente" : 134,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 7,
+		"idIncidente" : 19,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 7,
+		"idIncidente" : 65,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 7,
+		"idIncidente" : 80,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 7,
+		"idIncidente" : 81,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 7,
+		"idIncidente" : 85,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 7,
+		"idIncidente" : 112,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 7,
+		"idIncidente" : 115,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 7,
+		"idIncidente" : 120,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 8,
+		"idIncidente" : 1,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 8,
+		"idIncidente" : 64,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 8,
+		"idIncidente" : 106,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 8,
+		"idIncidente" : 114,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 8,
+		"idIncidente" : 126,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 9,
+		"idIncidente" : 75,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 9,
+		"idIncidente" : 135,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 10,
+		"idIncidente" : 19,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 10,
+		"idIncidente" : 48,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 10,
+		"idIncidente" : 126,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 10,
+		"idIncidente" : 135,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 11,
+		"idIncidente" : 29,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 11,
+		"idIncidente" : 103,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 11,
+		"idIncidente" : 110,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 12,
+		"idIncidente" : 14,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 12,
+		"idIncidente" : 33,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 12,
+		"idIncidente" : 60,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 12,
+		"idIncidente" : 63,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 12,
+		"idIncidente" : 75,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 13,
+		"idIncidente" : 116,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 14,
+		"idIncidente" : 43,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 14,
+		"idIncidente" : 67,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 14,
+		"idIncidente" : 87,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 15,
+		"idIncidente" : 20,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 15,
+		"idIncidente" : 94,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 15,
+		"idIncidente" : 102,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 15,
+		"idIncidente" : 133,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 16,
+		"idIncidente" : 48,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 16,
+		"idIncidente" : 73,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 16,
+		"idIncidente" : 141,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 17,
+		"idIncidente" : 1,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 17,
+		"idIncidente" : 9,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 18,
+		"idIncidente" : 63,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 18,
+		"idIncidente" : 94,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 18,
+		"idIncidente" : 96,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 18,
+		"idIncidente" : 134,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 19,
+		"idIncidente" : 3,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 19,
+		"idIncidente" : 5,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 19,
+		"idIncidente" : 10,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 19,
+		"idIncidente" : 96,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 21,
+		"idIncidente" : 6,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 21,
+		"idIncidente" : 13,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 21,
+		"idIncidente" : 20,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 21,
+		"idIncidente" : 21,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 21,
+		"idIncidente" : 103,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 21,
+		"idIncidente" : 122,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 22,
+		"idIncidente" : 15,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 22,
+		"idIncidente" : 38,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 22,
+		"idIncidente" : 106,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 22,
+		"idIncidente" : 145,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 23,
+		"idIncidente" : 40,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 23,
+		"idIncidente" : 74,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 24,
+		"idIncidente" : 37,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 24,
+		"idIncidente" : 116,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 25,
+		"idIncidente" : 4,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 25,
+		"idIncidente" : 14,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 25,
+		"idIncidente" : 35,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 25,
+		"idIncidente" : 112,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 25,
+		"idIncidente" : 132,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 25,
+		"idIncidente" : 142,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 26,
+		"idIncidente" : 57,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 26,
+		"idIncidente" : 71,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 26,
+		"idIncidente" : 73,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 27,
+		"idIncidente" : 79,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 27,
+		"idIncidente" : 88,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 27,
+		"idIncidente" : 111,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 27,
+		"idIncidente" : 117,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 28,
+		"idIncidente" : 11,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 28,
+		"idIncidente" : 78,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 28,
+		"idIncidente" : 101,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 29,
+		"idIncidente" : 0,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 29,
+		"idIncidente" : 32,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 29,
+		"idIncidente" : 74,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 29,
+		"idIncidente" : 88,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 30,
+		"idIncidente" : 36,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 30,
+		"idIncidente" : 53,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 30,
+		"idIncidente" : 114,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 30,
+		"idIncidente" : 121,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 31,
+		"idIncidente" : 23,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 31,
+		"idIncidente" : 56,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 31,
+		"idIncidente" : 67,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 31,
+		"idIncidente" : 100,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 31,
+		"idIncidente" : 108,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 31,
+		"idIncidente" : 126,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 32,
+		"idIncidente" : 23,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 33,
+		"idIncidente" : 30,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 33,
+		"idIncidente" : 55,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 34,
+		"idIncidente" : 5,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 34,
+		"idIncidente" : 22,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 34,
+		"idIncidente" : 28,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 34,
+		"idIncidente" : 34,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 34,
+		"idIncidente" : 57,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 34,
+		"idIncidente" : 72,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 35,
+		"idIncidente" : 35,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 35,
+		"idIncidente" : 36,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 35,
+		"idIncidente" : 85,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 35,
+		"idIncidente" : 99,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 36,
+		"idIncidente" : 1,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 36,
+		"idIncidente" : 88,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 37,
+		"idIncidente" : 34,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 37,
+		"idIncidente" : 74,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 39,
+		"idIncidente" : 20,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 39,
+		"idIncidente" : 87,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 39,
+		"idIncidente" : 135,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 39,
+		"idIncidente" : 148,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 40,
+		"idIncidente" : 28,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 40,
+		"idIncidente" : 29,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 40,
+		"idIncidente" : 30,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 40,
+		"idIncidente" : 139,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 41,
+		"idIncidente" : 82,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 41,
+		"idIncidente" : 106,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 42,
+		"idIncidente" : 15,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 42,
+		"idIncidente" : 17,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 42,
+		"idIncidente" : 36,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 42,
+		"idIncidente" : 61,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 42,
+		"idIncidente" : 76,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 42,
+		"idIncidente" : 78,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 43,
+		"idIncidente" : 68,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 43,
+		"idIncidente" : 98,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 43,
+		"idIncidente" : 105,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 43,
+		"idIncidente" : 110,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 43,
+		"idIncidente" : 118,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 43,
+		"idIncidente" : 125,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 43,
+		"idIncidente" : 138,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 44,
+		"idIncidente" : 5,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 44,
+		"idIncidente" : 28,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 44,
+		"idIncidente" : 51,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 44,
+		"idIncidente" : 55,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 44,
+		"idIncidente" : 65,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 44,
+		"idIncidente" : 85,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 44,
+		"idIncidente" : 128,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 44,
+		"idIncidente" : 146,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 45,
+		"idIncidente" : 68,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 45,
+		"idIncidente" : 87,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 46,
+		"idIncidente" : 25,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 46,
+		"idIncidente" : 50,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 46,
+		"idIncidente" : 72,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 46,
+		"idIncidente" : 146,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 47,
+		"idIncidente" : 132,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 48,
+		"idIncidente" : 38,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 48,
+		"idIncidente" : 113,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 49,
+		"idIncidente" : 10,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 49,
+		"idIncidente" : 24,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 49,
+		"idIncidente" : 39,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 49,
+		"idIncidente" : 94,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 49,
+		"idIncidente" : 130,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 49,
+		"idIncidente" : 134,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 50,
+		"idIncidente" : 13,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 50,
+		"idIncidente" : 41,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 50,
+		"idIncidente" : 95,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 50,
+		"idIncidente" : 114,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 50,
+		"idIncidente" : 148,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 52,
+		"idIncidente" : 30,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 53,
+		"idIncidente" : 13,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 53,
+		"idIncidente" : 42,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 53,
+		"idIncidente" : 79,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 53,
+		"idIncidente" : 94,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 54,
+		"idIncidente" : 1,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 54,
+		"idIncidente" : 11,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 54,
+		"idIncidente" : 42,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 54,
+		"idIncidente" : 111,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 54,
+		"idIncidente" : 112,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 55,
+		"idIncidente" : 13,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 55,
+		"idIncidente" : 22,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 55,
+		"idIncidente" : 75,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 55,
+		"idIncidente" : 89,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 55,
+		"idIncidente" : 94,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 55,
+		"idIncidente" : 114,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 56,
+		"idIncidente" : 29,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 56,
+		"idIncidente" : 43,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 56,
+		"idIncidente" : 48,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 56,
+		"idIncidente" : 69,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 56,
+		"idIncidente" : 77,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 56,
+		"idIncidente" : 114,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 56,
+		"idIncidente" : 132,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 57,
+		"idIncidente" : 60,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 58,
+		"idIncidente" : 13,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 58,
+		"idIncidente" : 113,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 58,
+		"idIncidente" : 116,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 58,
+		"idIncidente" : 135,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 59,
+		"idIncidente" : 32,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 59,
+		"idIncidente" : 68,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 60,
+		"idIncidente" : 1,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 60,
+		"idIncidente" : 85,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 60,
+		"idIncidente" : 136,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 61,
+		"idIncidente" : 55,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 61,
+		"idIncidente" : 118,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 61,
+		"idIncidente" : 145,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 62,
+		"idIncidente" : 8,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 62,
+		"idIncidente" : 106,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 63,
+		"idIncidente" : 73,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 64,
+		"idIncidente" : 70,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 65,
+		"idIncidente" : 30,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 66,
+		"idIncidente" : 11,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 66,
+		"idIncidente" : 69,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 66,
+		"idIncidente" : 104,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 66,
+		"idIncidente" : 105,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 66,
+		"idIncidente" : 113,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 67,
+		"idIncidente" : 5,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 67,
+		"idIncidente" : 23,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 67,
+		"idIncidente" : 117,
+		"Rol" : "Patrullero"
+	},
+	{
+		"num" : 68,
+		"idIncidente" : 54,
+		"Rol" : "Oficial de civil"
+	},
+	{
+		"num" : 68,
+		"idIncidente" : 82,
+		"Rol" : "Guardia en comisaría"
+	},
+	{
+		"num" : 68,
+		"idIncidente" : 88,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 69,
+		"idIncidente" : 16,
+		"Rol" : "Investigador"
+	},
+	{
+		"num" : 69,
+		"idIncidente" : 34,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 69,
+		"idIncidente" : 55,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 69,
+		"idIncidente" : 58,
+		"Rol" : "Designado en manzana"
+	},
+	{
+		"num" : 69,
+		"idIncidente" : 73,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 69,
+		"idIncidente" : 88,
+		"Rol" : "Seguridad asignada"
+	},
+	{
+		"num" : 69,
+		"idIncidente" : 90,
+		"Rol" : "Seguridad asignada"
+	}
+]

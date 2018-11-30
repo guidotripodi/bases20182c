@@ -4,7 +4,6 @@
         "interviene": 0,
         "fecha": "2017-07-12 00:00:00",
         "descripcion": "Choque de autos",
-        "seguimientos": [],
         "participan": [6, 8, 16]
     }, {
         "idIncidente": 1,
@@ -12,6 +11,9 @@
         "interviene": 1,
         "fecha": "2017-02-17 00:00:00",
         "descripcion": "Robo",
+        "proceso":  [{
+            "idIncidente": 1,
+
         "seguimientos": [{
             "idSeguimiento": 80,
             "descripcion": "Se toman declaraciones",
@@ -37,7 +39,7 @@
             "descripcion": "Se cita a testigos",
             "fecha": "2018-07-01 00:00:00",
             "num": 30
-        }],
+        }]}],
         "participan": [4, 16]
     }, {
         "idIncidente": 2,
@@ -45,7 +47,6 @@
         "interviene": 2,
         "fecha": "2017-04-12 00:00:00",
         "descripcion": "Felonía",
-        "seguimientos": [],
         "participan": []
     }, {
         "idIncidente": 3,
@@ -53,7 +54,6 @@
         "interviene": 3,
         "fecha": "2017-02-28 00:00:00",
         "descripcion": "Felonía",
-        "seguimientos": [],
         "participan": [4]
     }, {
         "idIncidente": 4,
@@ -61,7 +61,6 @@
         "interviene": 4,
         "fecha": "2017-04-02 00:00:00",
         "descripcion": "Ruidos molestos",
-        "seguimientos": [],
         "participan": [5, 13]
     }, {
         "idIncidente": 5,
@@ -69,7 +68,6 @@
         "interviene": 5,
         "fecha": "2017-08-20 00:00:00",
         "descripcion": "Ruidos molestos",
-        "seguimientos": [],
         "participan": [25, 27, 28]
     }, {
         "idIncidente": 6,
@@ -77,6 +75,9 @@
         "interviene": 6,
         "fecha": "2017-06-13 00:00:00",
         "descripcion": "Robo",
+        "proceso":  [{
+            "idIncidente": 6,
+
         "seguimientos": [{
             "idSeguimiento": 73,
             "descripcion": "Se impone condena",
@@ -92,7 +93,7 @@
             "descripcion": "Se toman declaraciones",
             "fecha": "2018-08-26 00:00:00",
             "num": 25
-        }],
+        }]}],
         "participan": [24]
     }, {
         "idIncidente": 7,
@@ -100,7 +101,6 @@
         "interviene": 7,
         "fecha": "2017-06-08 00:00:00",
         "descripcion": "Robo",
-        "seguimientos": [],
         "participan": [17]
     }, {
         "idIncidente": 8,
@@ -108,12 +108,15 @@
         "interviene": 8,
         "fecha": "2017-11-28 00:00:00",
         "descripcion": "Asalto a comercio",
+        "proceso":  [{
+            "idIncidente": 8,
+
         "seguimientos": [{
             "idSeguimiento": 31,
             "descripcion": "Se impone multa",
             "fecha": "2018-04-07 00:00:00",
             "num": 66
-        }],
+        }]}],
         "participan": [12]
     }, {
         "idIncidente": 9,
@@ -121,6 +124,9 @@
         "interviene": 9,
         "fecha": "2017-05-18 00:00:00",
         "descripcion": "Asalto a comercio",
+        "proceso":  [{
+            "idIncidente": 9,
+
         "seguimientos": [{
             "idSeguimiento": 41,
             "descripcion": "Se toman declaraciones",
@@ -156,7 +162,7 @@
             "descripcion": "Pasa de despacho",
             "fecha": "2018-06-07 00:00:00",
             "num": 15
-        }],
+        }]}],
         "participan": [23]
     }, {
         "idIncidente": 10,
@@ -164,6 +170,9 @@
         "interviene": 10,
         "fecha": "2017-09-20 00:00:00",
         "descripcion": "Asalto a transeúnte",
+        "proceso":  [{
+            "idIncidente": 10,
+
         "seguimientos": [{
             "idSeguimiento": 64,
             "descripcion": "Se cita a testigos",
@@ -194,7 +203,7 @@
             "descripcion": "Se revisan cámaras de tv",
             "fecha": "2018-01-02 00:00:00",
             "num": 53
-        }],
+        }]}],
         "participan": []
     }, {
         "idIncidente": 11,
@@ -202,7 +211,6 @@
         "interviene": 11,
         "fecha": "2017-01-30 00:00:00",
         "descripcion": "Ruidos molestos",
-        "seguimientos": [],
         "participan": []
     }, {
         "idIncidente": 12,
@@ -210,6 +218,9 @@
         "interviene": 12,
         "fecha": "2017-04-13 00:00:00",
         "descripcion": "Pelea callejera",
+        "proceso":  [{
+            "idIncidente": 12,
+
         "seguimientos": [{
             "idSeguimiento": 36,
             "descripcion": "Se cita a testigos",
@@ -230,7 +241,7 @@
             "descripcion": "Se informa a juzgado",
             "fecha": "2018-08-12 00:00:00",
             "num": 60
-        }],
+        }]}],
         "participan": [0]
     }, {
         "idIncidente": 13,
@@ -238,7 +249,6 @@
         "interviene": 13,
         "fecha": "2017-12-02 00:00:00",
         "descripcion": "Robo",
-        "seguimientos": [],
         "participan": [12]
     }, {
         "idIncidente": 14,
@@ -246,7 +256,6 @@
         "interviene": 14,
         "fecha": "2017-03-26 00:00:00",
         "descripcion": "Robo",
-        "seguimientos": [],
         "participan": [12, 16, 20]
     }, {
         "idIncidente": 15,
@@ -254,6 +263,9 @@
         "interviene": 15,
         "fecha": "2017-10-09 00:00:00",
         "descripcion": "Robo",
+        "proceso":  [{
+            "idIncidente": 15,
+
         "seguimientos": [{
             "idSeguimiento": 39,
             "descripcion": "Se amplía denuncia",
@@ -264,7 +276,7 @@
             "descripcion": "Se impone condena",
             "fecha": "2018-10-24 00:00:00",
             "num": 55
-        }],
+        }]}],
         "participan": [2, 13, 20]
     }, {
         "idIncidente": 16,
@@ -272,6 +284,9 @@
         "interviene": 16,
         "fecha": "2017-12-19 00:00:00",
         "descripcion": "Robo",
+        "proceso":  [{
+            "idIncidente": 16,
+
         "seguimientos": [{
             "idSeguimiento": 20,
             "descripcion": "Se revisan cámaras de tv",
@@ -312,7 +327,7 @@
             "descripcion": "Se toman declaraciones",
             "fecha": "2018-08-08 00:00:00",
             "num": 46
-        }],
+        }]}],
         "participan": [13, 17]
     }, {
         "idIncidente": 17,
@@ -320,6 +335,9 @@
         "interviene": 17,
         "fecha": "2017-11-13 00:00:00",
         "descripcion": "Hurto",
+        "proceso":  [{
+            "idIncidente": 17,
+
         "seguimientos": [{
             "idSeguimiento": 37,
             "descripcion": "Peritos analizan caso",
@@ -370,7 +388,7 @@
             "descripcion": "Se amplía denuncia",
             "fecha": "2018-01-06 00:00:00",
             "num": 30
-        }],
+        }]}],
         "participan": [11, 18, 24]
     }, {
         "idIncidente": 18,
@@ -378,6 +396,9 @@
         "interviene": 18,
         "fecha": "2017-11-01 00:00:00",
         "descripcion": "Hurto",
+        "proceso":  [{
+            "idIncidente": 18,
+
         "seguimientos": [{
             "idSeguimiento": 45,
             "descripcion": "Se impone condena",
@@ -388,7 +409,7 @@
             "descripcion": "Se revisan cámaras de tv",
             "fecha": "2018-10-11 00:00:00",
             "num": 20
-        }],
+        }]}],
         "participan": [7, 22, 27]
     }, {
         "idIncidente": 19,
@@ -396,6 +417,9 @@
         "interviene": 19,
         "fecha": "2017-12-23 00:00:00",
         "descripcion": "No especificado",
+        "proceso":  [{
+            "idIncidente": 19,
+
         "seguimientos": [{
             "idSeguimiento": 255,
             "descripcion": "Peritos analizan caso",
@@ -406,7 +430,7 @@
             "descripcion": "Se toman declaraciones",
             "fecha": "2018-01-14 00:00:00",
             "num": 48
-        }],
+        }]}],
         "participan": [1]
     }, {
         "idIncidente": 20,
@@ -414,7 +438,6 @@
         "interviene": 20,
         "fecha": "2017-11-17 00:00:00",
         "descripcion": "Ruidos molestos",
-        "seguimientos": [],
         "participan": [13, 17, 27]
     }, {
         "idIncidente": 21,
@@ -422,12 +445,15 @@
         "interviene": 21,
         "fecha": "2017-08-04 00:00:00",
         "descripcion": "Explosión",
+        "proceso":  [{
+            "idIncidente": 21,
+
         "seguimientos": [{
             "idSeguimiento": 175,
             "descripcion": "Se revisan cámaras de tv",
             "fecha": "2018-02-07 00:00:00",
             "num": 1
-        }],
+        }]}],
         "participan": [15, 20]
     }, {
         "idIncidente": 22,
@@ -435,6 +461,9 @@
         "interviene": 22,
         "fecha": "2017-12-11 00:00:00",
         "descripcion": "Choque de autos",
+        "proceso":  [{
+            "idIncidente": 22,
+
         "seguimientos": [{
             "idSeguimiento": 90,
             "descripcion": "Se cita a testigos",
@@ -450,7 +479,7 @@
             "descripcion": "Pasa de despacho",
             "fecha": "2018-04-02 00:00:00",
             "num": 67
-        }],
+        }]}],
         "participan": [0, 20]
     }, {
         "idIncidente": 23,
@@ -458,7 +487,6 @@
         "interviene": 23,
         "fecha": "2017-10-21 00:00:00",
         "descripcion": "Desacato",
-        "seguimientos": [],
         "participan": [7, 13]
     }, {
         "idIncidente": 24,
@@ -466,7 +494,6 @@
         "interviene": 24,
         "fecha": "2017-11-04 00:00:00",
         "descripcion": "Estafa",
-        "seguimientos": [],
         "participan": [17, 18, 28]
     }, {
         "idIncidente": 25,
@@ -474,6 +501,9 @@
         "interviene": 25,
         "fecha": "2017-01-18 00:00:00",
         "descripcion": "Amenazas",
+        "proceso":  [{
+            "idIncidente": 25,
+
         "seguimientos": [{
             "idSeguimiento": 7,
             "descripcion": "Se impone condena",
@@ -509,7 +539,7 @@
             "descripcion": "Pasa de despacho",
             "fecha": "2018-07-22 00:00:00",
             "num": 64
-        }],
+        }]}],
         "participan": [8]
     }, {
         "idIncidente": 26,
@@ -517,6 +547,9 @@
         "interviene": 26,
         "fecha": "2017-10-22 00:00:00",
         "descripcion": "Ruidos molestos",
+        "proceso":  [{
+            "idIncidente": 26,
+
         "seguimientos": [{
             "idSeguimiento": 1,
             "descripcion": "Se impone multa",
@@ -547,7 +580,7 @@
             "descripcion": "Se toman declaraciones",
             "fecha": "2018-09-18 00:00:00",
             "num": 21
-        }],
+        }]}],
         "participan": [19, 25]
     }, {
         "idIncidente": 27,
@@ -555,7 +588,6 @@
         "interviene": 27,
         "fecha": "2017-09-28 00:00:00",
         "descripcion": "Estafa",
-        "seguimientos": [],
         "participan": [2, 6, 16]
     }, {
         "idIncidente": 28,
@@ -563,6 +595,9 @@
         "interviene": 28,
         "fecha": "2017-01-18 00:00:00",
         "descripcion": "Explosión",
+        "proceso":  [{
+        "idIncidente": 28,
+
         "seguimientos": [{
             "idSeguimiento": 143,
             "descripcion": "Se impone condena",
@@ -583,7 +618,7 @@
             "descripcion": "Se revisan cámaras de tv",
             "fecha": "2018-09-15 00:00:00",
             "num": 43
-        }],
+        }]}],
         "participan": []
     }, {
         "idIncidente": 29,
@@ -591,7 +626,6 @@
         "interviene": 29,
         "fecha": "2017-07-06 00:00:00",
         "descripcion": "Venta ambulante",
-        "seguimientos": [],
         "participan": []
     },
     [{
@@ -600,7 +634,6 @@
         "interviene": 0,
         "fecha": "2017-07-12 00:00:00",
         "descripcion": "Choque de autos",
-        "seguimientos": [],
         "participan": [6, 8, 16]
     }, {
         "idIncidente": 1,
@@ -608,6 +641,9 @@
         "interviene": 1,
         "fecha": "2017-02-17 00:00:00",
         "descripcion": "Robo",
+        "proceso":  [{
+        "idIncidente": 1,
+
         "seguimientos": [{
             "idSeguimiento": 80,
             "descripcion": "Se toman declaraciones",
@@ -633,7 +669,7 @@
             "descripcion": "Se cita a testigos",
             "fecha": "2018-07-01 00:00:00",
             "num": 30
-        }],
+        }]}],
         "participan": [4, 16]
     }, {
         "idIncidente": 2,
@@ -641,7 +677,6 @@
         "interviene": 2,
         "fecha": "2017-04-12 00:00:00",
         "descripcion": "Felonía",
-        "seguimientos": [],
         "participan": []
     }, {
         "idIncidente": 3,
@@ -649,7 +684,6 @@
         "interviene": 3,
         "fecha": "2017-02-28 00:00:00",
         "descripcion": "Felonía",
-        "seguimientos": [],
         "participan": [4]
     }, {
         "idIncidente": 4,
@@ -657,7 +691,6 @@
         "interviene": 4,
         "fecha": "2017-04-02 00:00:00",
         "descripcion": "Ruidos molestos",
-        "seguimientos": [],
         "participan": [5, 13]
     }, {
         "idIncidente": 5,
@@ -665,7 +698,6 @@
         "interviene": 5,
         "fecha": "2017-08-20 00:00:00",
         "descripcion": "Ruidos molestos",
-        "seguimientos": [],
         "participan": [25, 27, 28]
     }, {
         "idIncidente": 6,
@@ -673,6 +705,9 @@
         "interviene": 6,
         "fecha": "2017-06-13 00:00:00",
         "descripcion": "Robo",
+        "proceso":  [{
+        "idIncidente": 6,
+
         "seguimientos": [{
             "idSeguimiento": 73,
             "descripcion": "Se impone condena",
@@ -688,7 +723,7 @@
             "descripcion": "Se toman declaraciones",
             "fecha": "2018-08-26 00:00:00",
             "num": 25
-        }],
+        }]}],
         "participan": [24]
     }, {
         "idIncidente": 7,
@@ -696,7 +731,6 @@
         "interviene": 7,
         "fecha": "2017-06-08 00:00:00",
         "descripcion": "Robo",
-        "seguimientos": [],
         "participan": [17]
     }, {
         "idIncidente": 8,
@@ -704,12 +738,15 @@
         "interviene": 8,
         "fecha": "2017-11-28 00:00:00",
         "descripcion": "Asalto a comercio",
+        "proceso":  [{
+        "idIncidente": 8,
+
         "seguimientos": [{
             "idSeguimiento": 31,
             "descripcion": "Se impone multa",
             "fecha": "2018-04-07 00:00:00",
             "num": 66
-        }],
+        }]}],
         "participan": [12]
     }, {
         "idIncidente": 9,
@@ -717,6 +754,9 @@
         "interviene": 9,
         "fecha": "2017-05-18 00:00:00",
         "descripcion": "Asalto a comercio",
+        "proceso":  [{
+        "idIncidente": 9,
+
         "seguimientos": [{
             "idSeguimiento": 41,
             "descripcion": "Se toman declaraciones",
@@ -752,7 +792,7 @@
             "descripcion": "Pasa de despacho",
             "fecha": "2018-06-07 00:00:00",
             "num": 15
-        }],
+        }]}],
         "participan": [23]
     }, {
         "idIncidente": 10,
@@ -760,6 +800,9 @@
         "interviene": 10,
         "fecha": "2017-09-20 00:00:00",
         "descripcion": "Asalto a transeúnte",
+        "proceso":  [{
+        "idIncidente": 10,
+
         "seguimientos": [{
             "idSeguimiento": 64,
             "descripcion": "Se cita a testigos",
@@ -790,7 +833,7 @@
             "descripcion": "Se revisan cámaras de tv",
             "fecha": "2018-01-02 00:00:00",
             "num": 53
-        }],
+        }]}],
         "participan": []
     }, {
         "idIncidente": 11,
@@ -798,7 +841,6 @@
         "interviene": 11,
         "fecha": "2017-01-30 00:00:00",
         "descripcion": "Ruidos molestos",
-        "seguimientos": [],
         "participan": []
     }, {
         "idIncidente": 12,
@@ -806,6 +848,9 @@
         "interviene": 12,
         "fecha": "2017-04-13 00:00:00",
         "descripcion": "Pelea callejera",
+        "proceso":  [{
+        "idIncidente": 12,
+
         "seguimientos": [{
             "idSeguimiento": 36,
             "descripcion": "Se cita a testigos",
@@ -826,7 +871,7 @@
             "descripcion": "Se informa a juzgado",
             "fecha": "2018-08-12 00:00:00",
             "num": 60
-        }],
+        }]}],
         "participan": [0]
     }, {
         "idIncidente": 13,
@@ -834,7 +879,6 @@
         "interviene": 13,
         "fecha": "2017-12-02 00:00:00",
         "descripcion": "Robo",
-        "seguimientos": [],
         "participan": [12]
     }, {
         "idIncidente": 14,
@@ -842,7 +886,6 @@
         "interviene": 14,
         "fecha": "2017-03-26 00:00:00",
         "descripcion": "Robo",
-        "seguimientos": [],
         "participan": [12, 16, 20]
     }, {
         "idIncidente": 15,
@@ -850,6 +893,9 @@
         "interviene": 15,
         "fecha": "2017-10-09 00:00:00",
         "descripcion": "Robo",
+        "proceso":  [{
+        "idIncidente": 15,
+
         "seguimientos": [{
             "idSeguimiento": 39,
             "descripcion": "Se amplía denuncia",
@@ -860,7 +906,7 @@
             "descripcion": "Se impone condena",
             "fecha": "2018-10-24 00:00:00",
             "num": 55
-        }],
+        }]}],
         "participan": [2, 13, 20]
     }, {
         "idIncidente": 16,
@@ -868,6 +914,9 @@
         "interviene": 16,
         "fecha": "2017-12-19 00:00:00",
         "descripcion": "Robo",
+        "proceso":  [{
+        "idIncidente": 16,
+
         "seguimientos": [{
             "idSeguimiento": 20,
             "descripcion": "Se revisan cámaras de tv",
@@ -908,7 +957,7 @@
             "descripcion": "Se toman declaraciones",
             "fecha": "2018-08-08 00:00:00",
             "num": 46
-        }],
+        }]}],
         "participan": [13, 17]
     }, {
         "idIncidente": 17,
@@ -916,6 +965,9 @@
         "interviene": 17,
         "fecha": "2017-11-13 00:00:00",
         "descripcion": "Hurto",
+        "proceso":  [{
+        "idIncidente": 17,
+
         "seguimientos": [{
             "idSeguimiento": 37,
             "descripcion": "Peritos analizan caso",
@@ -966,7 +1018,7 @@
             "descripcion": "Se amplía denuncia",
             "fecha": "2018-01-06 00:00:00",
             "num": 30
-        }],
+        }]}],
         "participan": [11, 18, 24]
     }, {
         "idIncidente": 18,
@@ -974,6 +1026,9 @@
         "interviene": 18,
         "fecha": "2017-11-01 00:00:00",
         "descripcion": "Hurto",
+        "proceso":  [{
+        "idIncidente": 18,
+
         "seguimientos": [{
             "idSeguimiento": 45,
             "descripcion": "Se impone condena",
@@ -984,7 +1039,7 @@
             "descripcion": "Se revisan cámaras de tv",
             "fecha": "2018-10-11 00:00:00",
             "num": 20
-        }],
+        }]}],
         "participan": [7, 22, 27]
     }, {
         "idIncidente": 19,
@@ -992,6 +1047,9 @@
         "interviene": 19,
         "fecha": "2017-12-23 00:00:00",
         "descripcion": "No especificado",
+        "proceso":  [{
+        "idIncidente": 19,
+
         "seguimientos": [{
             "idSeguimiento": 255,
             "descripcion": "Peritos analizan caso",
@@ -1002,7 +1060,7 @@
             "descripcion": "Se toman declaraciones",
             "fecha": "2018-01-14 00:00:00",
             "num": 48
-        }],
+        }]}],
         "participan": [1]
     }, {
         "idIncidente": 20,
@@ -1010,7 +1068,6 @@
         "interviene": 20,
         "fecha": "2017-11-17 00:00:00",
         "descripcion": "Ruidos molestos",
-        "seguimientos": [],
         "participan": [13, 17, 27]
     }, {
         "idIncidente": 21,
@@ -1018,12 +1075,15 @@
         "interviene": 21,
         "fecha": "2017-08-04 00:00:00",
         "descripcion": "Explosión",
+        "proceso":  [{
+        "idIncidente": 21,
+
         "seguimientos": [{
             "idSeguimiento": 175,
             "descripcion": "Se revisan cámaras de tv",
             "fecha": "2018-02-07 00:00:00",
             "num": 1
-        }],
+        }]}],
         "participan": [15, 20]
     }, {
         "idIncidente": 22,
@@ -1031,6 +1091,9 @@
         "interviene": 22,
         "fecha": "2017-12-11 00:00:00",
         "descripcion": "Choque de autos",
+        "proceso":  [{
+        "idIncidente": 22,
+
         "seguimientos": [{
             "idSeguimiento": 90,
             "descripcion": "Se cita a testigos",
@@ -1046,7 +1109,7 @@
             "descripcion": "Pasa de despacho",
             "fecha": "2018-04-02 00:00:00",
             "num": 67
-        }],
+        }]}],
         "participan": [0, 20]
     }, {
         "idIncidente": 23,
@@ -1054,7 +1117,6 @@
         "interviene": 23,
         "fecha": "2017-10-21 00:00:00",
         "descripcion": "Desacato",
-        "seguimientos": [],
         "participan": [7, 13]
     }, {
         "idIncidente": 24,
@@ -1062,7 +1124,6 @@
         "interviene": 24,
         "fecha": "2017-11-04 00:00:00",
         "descripcion": "Estafa",
-        "seguimientos": [],
         "participan": [17, 18, 28]
     }, {
         "idIncidente": 25,
@@ -1070,6 +1131,9 @@
         "interviene": 25,
         "fecha": "2017-01-18 00:00:00",
         "descripcion": "Amenazas",
+        "proceso":  [{
+        "idIncidente": 25,
+
         "seguimientos": [{
             "idSeguimiento": 7,
             "descripcion": "Se impone condena",
@@ -1105,7 +1169,7 @@
             "descripcion": "Pasa de despacho",
             "fecha": "2018-07-22 00:00:00",
             "num": 64
-        }],
+        }]}],
         "participan": [8]
     }, {
         "idIncidente": 26,
@@ -1113,6 +1177,9 @@
         "interviene": 26,
         "fecha": "2017-10-22 00:00:00",
         "descripcion": "Ruidos molestos",
+        "proceso":  [{
+        "idIncidente": 26,
+
         "seguimientos": [{
             "idSeguimiento": 1,
             "descripcion": "Se impone multa",
@@ -1143,7 +1210,7 @@
             "descripcion": "Se toman declaraciones",
             "fecha": "2018-09-18 00:00:00",
             "num": 21
-        }],
+        }]}],
         "participan": [19, 25]
     }, {
         "idIncidente": 27,
@@ -1151,7 +1218,6 @@
         "interviene": 27,
         "fecha": "2017-09-28 00:00:00",
         "descripcion": "Estafa",
-        "seguimientos": [],
         "participan": [2, 6, 16]
     }, {
         "idIncidente": 28,
@@ -1159,6 +1225,9 @@
         "interviene": 28,
         "fecha": "2017-01-18 00:00:00",
         "descripcion": "Explosión",
+        "proceso":  [{
+        "idIncidente": 28,
+
         "seguimientos": [{
             "idSeguimiento": 143,
             "descripcion": "Se impone condena",
@@ -1179,7 +1248,7 @@
             "descripcion": "Se revisan cámaras de tv",
             "fecha": "2018-09-15 00:00:00",
             "num": 43
-        }],
+        }]}],
         "participan": []
     }, {
         "idIncidente": 29,
@@ -1187,14 +1256,16 @@
         "interviene": 29,
         "fecha": "2017-07-06 00:00:00",
         "descripcion": "Venta ambulante",
-        "seguimientos": [],
         "participan": []
-    }], {
+    }]}], {
         "idIncidente": 30,
         "idDireccion": 9,
         "interviene": 30,
         "fecha": "2017-05-21 00:00:00",
         "descripcion": "Amenazas",
+        "proceso":  [{
+        "idIncidente": 30,
+
         "seguimientos": [{
             "idSeguimiento": 14,
             "descripcion": "Se amplía denuncia",
@@ -1220,7 +1291,7 @@
             "descripcion": "Pasa de despacho",
             "fecha": "2018-05-19 00:00:00",
             "num": 19
-        }],
+        }]}],
         "participan": [20, 21, 24]
     }, {
         "idIncidente": 31,
@@ -1228,7 +1299,6 @@
         "interviene": 31,
         "fecha": "2017-11-09 00:00:00",
         "descripcion": "Desacato",
-        "seguimientos": [],
         "participan": []
     }, {
         "idIncidente": 32,
@@ -1236,6 +1306,9 @@
         "interviene": 32,
         "fecha": "2017-07-28 00:00:00",
         "descripcion": "Venta ambulante",
+        "proceso":  [{
+        "idIncidente": 32,
+
         "seguimientos": [{
             "idSeguimiento": 148,
             "descripcion": "Se impone condena",
@@ -1266,7 +1339,7 @@
             "descripcion": "Se cita a testigos",
             "fecha": "2018-11-15 00:00:00",
             "num": 54
-        }],
+        }]}],
         "participan": [2, 10, 14, 15, 23, 27]
     }, {
         "idIncidente": 33,
@@ -1274,7 +1347,6 @@
         "interviene": 33,
         "fecha": "2017-11-12 00:00:00",
         "descripcion": "Ruidos molestos",
-        "seguimientos": [],
         "participan": [10, 20]
     }, {
         "idIncidente": 34,
@@ -1282,6 +1354,9 @@
         "interviene": 34,
         "fecha": "2017-04-10 00:00:00",
         "descripcion": "Robo",
+        "proceso":  [{
+        "idIncidente": 34,
+
         "seguimientos": [{
             "idSeguimiento": 54,
             "descripcion": "Se cita a testigos",
@@ -1297,7 +1372,7 @@
             "descripcion": "Se toman declaraciones",
             "fecha": "2018-04-04 00:00:00",
             "num": 43
-        }],
+        }]}],
         "participan": []
     }, {
         "idIncidente": 35,
@@ -1305,7 +1380,6 @@
         "interviene": 35,
         "fecha": "2017-02-07 00:00:00",
         "descripcion": "Ebriedad",
-        "seguimientos": [],
         "participan": [29]
     }, {
         "idIncidente": 36,
@@ -1313,6 +1387,9 @@
         "interviene": 36,
         "fecha": "2017-07-19 00:00:00",
         "descripcion": "Merodeo",
+        "proceso":  [{
+        "idIncidente": 36,
+
         "seguimientos": [{
             "idSeguimiento": 91,
             "descripcion": "Pasa de despacho",
@@ -1328,7 +1405,7 @@
             "descripcion": "Se impone multa",
             "fecha": "2018-08-21 00:00:00",
             "num": 37
-        }],
+        }]}],
         "participan": [6, 28]
     }, {
         "idIncidente": 37,
@@ -1336,12 +1413,15 @@
         "interviene": 37,
         "fecha": "2017-11-29 00:00:00",
         "descripcion": "Vagancia",
+        "proceso":  [{
+        "idIncidente": 37,
+
         "seguimientos": [{
             "idSeguimiento": 198,
             "descripcion": "Pasa de despacho",
             "fecha": "2018-12-17 00:00:00",
             "num": 7
-        }],
+        }]}],
         "participan": [12, 22]
     }, {
         "idIncidente": 38,
@@ -1349,6 +1429,9 @@
         "interviene": 38,
         "fecha": "2017-04-06 00:00:00",
         "descripcion": "Robo",
+        "proceso":  [{
+        "idIncidente": 38,
+
         "seguimientos": [{
             "idSeguimiento": 61,
             "descripcion": "Se amplía denuncia",
@@ -1359,7 +1442,7 @@
             "descripcion": "Se revisan cámaras de tv",
             "fecha": "2018-08-05 00:00:00",
             "num": 38
-        }],
+        }]}],
         "participan": [12, 16]
     }, {
         "idIncidente": 39,
@@ -1367,6 +1450,9 @@
         "interviene": 39,
         "fecha": "2017-03-28 00:00:00",
         "descripcion": "Robo",
+        "proceso":  [{
+        "idIncidente": 39,
+
         "seguimientos": [{
             "idSeguimiento": 176,
             "descripcion": "Se cita a testigos",
@@ -1382,7 +1468,7 @@
             "descripcion": "Se informa a juzgado",
             "fecha": "2018-01-22 00:00:00",
             "num": 13
-        }],
+        }]}],
         "participan": [15]
     }, {
         "idIncidente": 40,
@@ -1390,7 +1476,6 @@
         "interviene": 40,
         "fecha": "2017-05-22 00:00:00",
         "descripcion": "Hurto",
-        "seguimientos": [],
         "participan": []
     }, {
         "idIncidente": 41,
@@ -1398,7 +1483,6 @@
         "interviene": 41,
         "fecha": "2017-03-18 00:00:00",
         "descripcion": "Violencia",
-        "seguimientos": [],
         "participan": [23]
     }, {
         "idIncidente": 42,
@@ -1406,6 +1490,9 @@
         "interviene": 42,
         "fecha": "2017-12-19 00:00:00",
         "descripcion": "Choque de autos",
+        "proceso":  [{
+        "idIncidente": 42,
+
         "seguimientos": [{
             "idSeguimiento": 29,
             "descripcion": "Se revisan cámaras de tv",
@@ -1426,7 +1513,7 @@
             "descripcion": "Se impone multa",
             "fecha": "2018-07-12 00:00:00",
             "num": 8
-        }],
+        }]}],
         "participan": [27]
     }, {
         "idIncidente": 43,
@@ -1434,7 +1521,6 @@
         "interviene": 43,
         "fecha": "2017-06-30 00:00:00",
         "descripcion": "Ruidos molestos",
-        "seguimientos": [],
         "participan": [14]
     }, {
         "idIncidente": 44,
@@ -1442,7 +1528,6 @@
         "interviene": 44,
         "fecha": "2017-11-28 00:00:00",
         "descripcion": "Asalto a comercio",
-        "seguimientos": [],
         "participan": [15, 26]
     }, {
         "idIncidente": 45,
@@ -1450,6 +1535,9 @@
         "interviene": 45,
         "fecha": "2017-02-01 00:00:00",
         "descripcion": "Robo",
+        "proceso":  [{
+        "idIncidente": 45,
+
         "seguimientos": [{
             "idSeguimiento": 53,
             "descripcion": "Se cita a testigos",
@@ -1470,7 +1558,7 @@
             "descripcion": "Se toman declaraciones",
             "fecha": "2018-01-04 00:00:00",
             "num": 54
-        }],
+        }]}],
         "participan": [0, 3]
     }, {
         "idIncidente": 46,
@@ -1478,7 +1566,6 @@
         "interviene": 46,
         "fecha": "2017-01-18 00:00:00",
         "descripcion": "Venta ilegal",
-        "seguimientos": [],
         "participan": [3, 5, 21]
     }, {
         "idIncidente": 47,
@@ -1486,12 +1573,15 @@
         "interviene": 47,
         "fecha": "2017-12-11 00:00:00",
         "descripcion": "Estupefacientes",
+        "proceso":  [{
+        "idIncidente": 47,
+
         "seguimientos": [{
             "idSeguimiento": 88,
             "descripcion": "Se impone condena",
             "fecha": "2018-10-11 00:00:00",
             "num": 15
-        }],
+        }]}],
         "participan": [1, 7, 21, 23, 29]
     }, {
         "idIncidente": 48,
@@ -1499,7 +1589,6 @@
         "interviene": 48,
         "fecha": "2017-09-16 00:00:00",
         "descripcion": "Venta de estupefacientes",
-        "seguimientos": [],
         "participan": [8, 20]
     }, {
         "idIncidente": 49,
@@ -1507,7 +1596,6 @@
         "interviene": 49,
         "fecha": "2017-03-29 00:00:00",
         "descripcion": "Venta ilegal",
-        "seguimientos": [],
         "participan": [12]
     }, {
         "idIncidente": 50,
@@ -1515,7 +1603,6 @@
         "interviene": 50,
         "fecha": "2017-12-02 00:00:00",
         "descripcion": "Pelea callejera",
-        "seguimientos": [],
         "participan": [11]
     }, {
         "idIncidente": 51,
@@ -1523,7 +1610,6 @@
         "interviene": 51,
         "fecha": "2017-06-16 00:00:00",
         "descripcion": "Choque de autos",
-        "seguimientos": [],
         "participan": [11, 13]
     }, {
         "idIncidente": 52,
@@ -1531,7 +1617,6 @@
         "interviene": 52,
         "fecha": "2017-02-21 00:00:00",
         "descripcion": "Pirotecnia peligrosa",
-        "seguimientos": [],
         "participan": [6, 11, 26]
     }, {
         "idIncidente": 53,
@@ -1539,6 +1624,9 @@
         "interviene": 53,
         "fecha": "2017-08-24 00:00:00",
         "descripcion": "Choque de autos",
+        "proceso":  [{
+        "idIncidente": 53,
+
         "seguimientos": [{
             "idSeguimiento": 15,
             "descripcion": "Peritos analizan caso",
@@ -1564,7 +1652,7 @@
             "descripcion": "Se revisan cámaras de tv",
             "fecha": "2018-04-24 00:00:00",
             "num": 18
-        }],
+        }]}],
         "participan": [17, 26]
     }, {
         "idIncidente": 54,
@@ -1572,6 +1660,9 @@
         "interviene": 54,
         "fecha": "2017-12-19 00:00:00",
         "descripcion": "Venta de estupefacientes",
+        "proceso":  [{
+        "idIncidente": 54,
+
         "seguimientos": [{
             "idSeguimiento": 13,
             "descripcion": "Se impone condena",
@@ -1587,7 +1678,7 @@
             "descripcion": "Se impone condena",
             "fecha": "2018-11-18 00:00:00",
             "num": 11
-        }],
+        }]}],
         "participan": [10, 28]
     }, {
         "idIncidente": 55,
@@ -1595,6 +1686,9 @@
         "interviene": 55,
         "fecha": "2017-03-24 00:00:00",
         "descripcion": "Intento de suicidio",
+        "proceso":  [{
+        "idIncidente": 55,
+
         "seguimientos": [{
             "idSeguimiento": 21,
             "descripcion": "Peritos analizan caso",
@@ -1605,7 +1699,7 @@
             "descripcion": "Se impone condena",
             "fecha": "2018-06-23 00:00:00",
             "num": 62
-        }],
+        }]}],
         "participan": [2]
     }, {
         "idIncidente": 56,
@@ -1613,6 +1707,9 @@
         "interviene": 56,
         "fecha": "2017-08-30 00:00:00",
         "descripcion": "Choque de motocicleta",
+        "proceso":  [{
+        "idIncidente": 56,
+
         "seguimientos": [{
             "idSeguimiento": 28,
             "descripcion": "Se cita a testigos",
@@ -1633,7 +1730,7 @@
             "descripcion": "Se cita a testigos",
             "fecha": "2018-10-15 00:00:00",
             "num": 1
-        }],
+        }]}],
         "participan": [13]
     }, {
         "idIncidente": 57,
@@ -1641,7 +1738,6 @@
         "interviene": 57,
         "fecha": "2017-01-14 00:00:00",
         "descripcion": "Caída en pozo",
-        "seguimientos": [],
         "participan": [27]
     }, {
         "idIncidente": 58,
@@ -1649,6 +1745,9 @@
         "interviene": 58,
         "fecha": "2017-05-22 00:00:00",
         "descripcion": "Choque de autos",
+        "proceso":  [{
+        "idIncidente": 58,
+
         "seguimientos": [{
             "idSeguimiento": 287,
             "descripcion": "Se impone condena",
@@ -1659,7 +1758,7 @@
             "descripcion": "Se amplía denuncia",
             "fecha": "2018-04-18 00:00:00",
             "num": 47
-        }],
+        }]}],
         "participan": [12]
     }, {
         "idIncidente": 59,
@@ -1667,6 +1766,9 @@
         "interviene": 59,
         "fecha": "2017-04-29 00:00:00",
         "descripcion": "Venta de estupefacientes",
+        "proceso":  [{
+        "idIncidente": 59,
+
         "seguimientos": [{
             "idSeguimiento": 4,
             "descripcion": "Se cita a testigos",
@@ -1707,7 +1809,7 @@
             "descripcion": "Se impone condena",
             "fecha": "2018-09-24 00:00:00",
             "num": 16
-        }],
+        }]}],
         "participan": []
     }, {
         "idIncidente": 60,
@@ -1715,12 +1817,15 @@
         "interviene": 60,
         "fecha": "2017-04-27 00:00:00",
         "descripcion": "Choque de autos",
+        "proceso":  [{
+        "idIncidente": 60,
+
         "seguimientos": [{
             "idSeguimiento": 153,
             "descripcion": "Se impone multa",
             "fecha": "2018-11-06 00:00:00",
             "num": 5
-        }],
+        }]}],
         "participan": []
     }, {
         "idIncidente": 61,
@@ -1728,7 +1833,6 @@
         "interviene": 61,
         "fecha": "2017-10-21 00:00:00",
         "descripcion": "Destrucción de propiedad pública",
-        "seguimientos": [],
         "participan": [7, 24]
     }, {
         "idIncidente": 62,
@@ -1736,6 +1840,9 @@
         "interviene": 62,
         "fecha": "2017-02-18 00:00:00",
         "descripcion": "Choque de autos",
+        "proceso":  [{
+        "idIncidente": 62,
+
         "seguimientos": [{
             "idSeguimiento": 30,
             "descripcion": "Se revisan cámaras de tv",
@@ -1761,7 +1868,7 @@
             "descripcion": "Se revisan cámaras de tv",
             "fecha": "2018-05-03 00:00:00",
             "num": 1
-        }],
+        }]}],
         "participan": [4, 22]
     }, {
         "idIncidente": 63,
@@ -1769,7 +1876,6 @@
         "interviene": 63,
         "fecha": "2017-09-20 00:00:00",
         "descripcion": "Corte de calle",
-        "seguimientos": [],
         "participan": [4, 14]
     }, {
         "idIncidente": 64,
@@ -1777,6 +1883,9 @@
         "interviene": 64,
         "fecha": "2017-04-30 00:00:00",
         "descripcion": "Venta de estupefacientes",
+        "proceso":  [{
+        "idIncidente": 64,
+
         "seguimientos": [{
             "idSeguimiento": 57,
             "descripcion": "Se revisan cámaras de tv",
@@ -1812,7 +1921,7 @@
             "descripcion": "Peritos analizan caso",
             "fecha": "2018-07-28 00:00:00",
             "num": 27
-        }],
+        }]}],
         "participan": [16, 24]
     }, {
         "idIncidente": 65,
@@ -1820,7 +1929,6 @@
         "interviene": 65,
         "fecha": "2017-04-14 00:00:00",
         "descripcion": "Corte de calle",
-        "seguimientos": [],
         "participan": [16, 29]
     }, {
         "idIncidente": 66,
@@ -1828,7 +1936,6 @@
         "interviene": 66,
         "fecha": "2017-04-13 00:00:00",
         "descripcion": "Amenaza de bomba",
-        "seguimientos": [],
         "participan": [28]
     }, {
         "idIncidente": 67,
@@ -1836,6 +1943,9 @@
         "interviene": 67,
         "fecha": "2017-12-28 00:00:00",
         "descripcion": "Amenaza de bomba",
+        "proceso":  [{
+        "idIncidente": 67,
+
         "seguimientos": [{
             "idSeguimiento": 48,
             "descripcion": "Se amplía denuncia",
@@ -1846,7 +1956,7 @@
             "descripcion": "Se informa a juzgado",
             "fecha": "2018-05-18 00:00:00",
             "num": 28
-        }],
+        }]}],
         "participan": []
     }, {
         "idIncidente": 68,
@@ -1854,12 +1964,15 @@
         "interviene": 68,
         "fecha": "2017-05-27 00:00:00",
         "descripcion": "Venta de estupefacientes",
+        "proceso":  [{
+        "idIncidente": 68,
+
         "seguimientos": [{
             "idSeguimiento": 268,
             "descripcion": "Se toman declaraciones",
             "fecha": "2018-01-15 00:00:00",
             "num": 60
-        }],
+        }]}],
         "participan": [5, 15]
     }, {
         "idIncidente": 69,
@@ -1867,7 +1980,6 @@
         "interviene": 69,
         "fecha": "2017-05-16 00:00:00",
         "descripcion": "Choque de autos",
-        "seguimientos": [],
         "participan": [16]
     }, {
         "idIncidente": 70,
@@ -1875,6 +1987,9 @@
         "interviene": 70,
         "fecha": "2017-04-24 00:00:00",
         "descripcion": "Amenaza de bomba",
+        "proceso":  [{
+        "idIncidente": 70,
+
         "seguimientos": [{
             "idSeguimiento": 2,
             "descripcion": "Pasa de despacho",
@@ -1885,7 +2000,7 @@
             "descripcion": "Se revisan cámaras de tv",
             "fecha": "2018-01-26 00:00:00",
             "num": 64
-        }],
+        }]}],
         "participan": [15, 28]
     }, {
         "idIncidente": 71,
@@ -1893,7 +2008,6 @@
         "interviene": 71,
         "fecha": "2017-08-22 00:00:00",
         "descripcion": "Choque de autos",
-        "seguimientos": [],
         "participan": [6, 22, 25, 26, 27]
     }, {
         "idIncidente": 72,
@@ -1901,7 +2015,6 @@
         "interviene": 72,
         "fecha": "2017-11-09 00:00:00",
         "descripcion": "Amenaza de bomba",
-        "seguimientos": [],
         "participan": [6, 16, 26]
     }, {
         "idIncidente": 73,
@@ -1909,7 +2022,6 @@
         "interviene": 73,
         "fecha": "2017-03-30 00:00:00",
         "descripcion": "Juego ilegal",
-        "seguimientos": [],
         "participan": [17, 22]
     }, {
         "idIncidente": 74,
@@ -1917,7 +2029,6 @@
         "interviene": 74,
         "fecha": "2017-09-18 00:00:00",
         "descripcion": "Amenaza de bomba",
-        "seguimientos": [],
         "participan": [6]
     }, {
         "idIncidente": 75,
@@ -1925,6 +2036,9 @@
         "interviene": 75,
         "fecha": "2017-12-04 00:00:00",
         "descripcion": "Apuestas ilegales",
+        "proceso":  [{
+        "idIncidente": 75,
+
         "seguimientos": [{
             "idSeguimiento": 81,
             "descripcion": "Se amplía denuncia",
@@ -1955,7 +2069,7 @@
             "descripcion": "Se revisan cámaras de tv",
             "fecha": "2018-07-08 00:00:00",
             "num": 2
-        }],
+        }]}],
         "participan": [12]
     }, {
         "idIncidente": 76,
@@ -1963,6 +2077,9 @@
         "interviene": 76,
         "fecha": "2017-03-29 00:00:00",
         "descripcion": "Juego ilegal",
+        "proceso":  [{
+        "idIncidente": 76,
+
         "seguimientos": [{
             "idSeguimiento": 71,
             "descripcion": "Peritos analizan caso",
@@ -1983,7 +2100,7 @@
             "descripcion": "Se informa a juzgado",
             "fecha": "2018-07-19 00:00:00",
             "num": 41
-        }],
+        }]}],
         "participan": [24, 29]
     }, {
         "idIncidente": 77,
@@ -1991,6 +2108,9 @@
         "interviene": 77,
         "fecha": "2017-10-06 00:00:00",
         "descripcion": "Venta de estupefacientes",
+        "proceso":  [{
+        "idIncidente": 77,
+
         "seguimientos": [{
             "idSeguimiento": 193,
             "descripcion": "Se impone multa",
@@ -2006,7 +2126,7 @@
             "descripcion": "Pasa de despacho",
             "fecha": "2018-11-04 00:00:00",
             "num": 57
-        }],
+        }]}],
         "participan": [27]
     }, {
         "idIncidente": 78,
@@ -2014,6 +2134,9 @@
         "interviene": 78,
         "fecha": "2017-11-16 00:00:00",
         "descripcion": "Choque de autos",
+        "proceso":  [{
+        "idIncidente": 78,
+
         "seguimientos": [{
             "idSeguimiento": 70,
             "descripcion": "Se informa a juzgado",
@@ -2049,7 +2172,7 @@
             "descripcion": "Peritos analizan caso",
             "fecha": "2018-11-10 00:00:00",
             "num": 54
-        }],
+        }]}],
         "participan": []
     }, {
         "idIncidente": 79,
@@ -2057,6 +2180,9 @@
         "interviene": 79,
         "fecha": "2017-06-11 00:00:00",
         "descripcion": "Carrera de autos",
+        "proceso":  [{
+        "idIncidente": 79,
+
         "seguimientos": [{
             "idSeguimiento": 23,
             "descripcion": "Se revisan cámaras de tv",
@@ -2077,7 +2203,7 @@
             "descripcion": "Se impone condena",
             "fecha": "2018-04-11 00:00:00",
             "num": 40
-        }],
+        }]}],
         "participan": [24]
     }, {
         "idIncidente": 80,
@@ -2085,7 +2211,6 @@
         "interviene": 80,
         "fecha": "2017-05-11 00:00:00",
         "descripcion": "Llamado anónimo",
-        "seguimientos": [],
         "participan": [4, 6, 8]
     }, {
         "idIncidente": 81,
@@ -2093,7 +2218,6 @@
         "interviene": 81,
         "fecha": "2017-02-09 00:00:00",
         "descripcion": "Choque de autos",
-        "seguimientos": [],
         "participan": [21]
     }, {
         "idIncidente": 82,
@@ -2101,6 +2225,9 @@
         "interviene": 82,
         "fecha": "2017-01-18 00:00:00",
         "descripcion": "Amenazas públicas",
+        "proceso":  [{
+        "idIncidente": 82,
+
         "seguimientos": [{
             "idSeguimiento": 32,
             "descripcion": "Se cita a testigos",
@@ -2126,7 +2253,7 @@
             "descripcion": "Se impone condena",
             "fecha": "2018-10-24 00:00:00",
             "num": 55
-        }],
+        }]}],
         "participan": []
     }, {
         "idIncidente": 83,
@@ -2134,7 +2261,6 @@
         "interviene": 83,
         "fecha": "2017-05-23 00:00:00",
         "descripcion": "Venta de estupefacientes",
-        "seguimientos": [],
         "participan": [22, 28, 29]
     }, {
         "idIncidente": 84,
@@ -2142,6 +2268,9 @@
         "interviene": 84,
         "fecha": "2017-09-11 00:00:00",
         "descripcion": "Choque de autos",
+        "proceso":  [{
+        "idIncidente": 84,
+
         "seguimientos": [{
             "idSeguimiento": 51,
             "descripcion": "Se informa a juzgado",
@@ -2172,7 +2301,7 @@
             "descripcion": "Peritos analizan caso",
             "fecha": "2018-06-20 00:00:00",
             "num": 65
-        }],
+        }]}],
         "participan": []
     }, {
         "idIncidente": 85,
@@ -2180,7 +2309,6 @@
         "interviene": 85,
         "fecha": "2017-04-08 00:00:00",
         "descripcion": "Choque de autos",
-        "seguimientos": [],
         "participan": []
     }, {
         "idIncidente": 86,
@@ -2188,7 +2316,6 @@
         "interviene": 86,
         "fecha": "2017-09-26 00:00:00",
         "descripcion": "Ruidos molestos",
-        "seguimientos": [],
         "participan": [0, 10, 17, 26]
     }, {
         "idIncidente": 87,
@@ -2196,6 +2323,9 @@
         "interviene": 87,
         "fecha": "2017-03-17 00:00:00",
         "descripcion": "Juego ilegal",
+        "proceso":  [{
+        "idIncidente": 87,
+
         "seguimientos": [{
             "idSeguimiento": 75,
             "descripcion": "Se toman declaraciones",
@@ -2206,7 +2336,7 @@
             "descripcion": "Se impone condena",
             "fecha": "2018-02-02 00:00:00",
             "num": 49
-        }],
+        }]}],
         "participan": []
     }, {
         "idIncidente": 88,
@@ -2214,7 +2344,6 @@
         "interviene": 88,
         "fecha": "2017-04-29 00:00:00",
         "descripcion": "Venta de estupefacientes",
-        "seguimientos": [],
         "participan": [20]
     }, {
         "idIncidente": 89,
@@ -2222,6 +2351,9 @@
         "interviene": 89,
         "fecha": "2017-12-18 00:00:00",
         "descripcion": "Juego ilegal",
+        "proceso":  [{
+        "idIncidente": 89,
+
         "seguimientos": [{
             "idSeguimiento": 34,
             "descripcion": "Se impone condena",
@@ -2252,7 +2384,7 @@
             "descripcion": "Se impone condena",
             "fecha": "2018-06-12 00:00:00",
             "num": 5
-        }],
+        }]}],
         "participan": [13]
     }, {
         "idIncidente": 90,
@@ -2260,7 +2392,6 @@
         "interviene": 90,
         "fecha": "2017-07-18 00:00:00",
         "descripcion": "Choque de autos",
-        "seguimientos": [],
         "participan": [0]
     }, {
         "idIncidente": 91,
@@ -2268,7 +2399,6 @@
         "interviene": 91,
         "fecha": "2017-10-16 00:00:00",
         "descripcion": "Juego ilegal",
-        "seguimientos": [],
         "participan": [8]
     }, {
         "idIncidente": 92,
@@ -2276,7 +2406,6 @@
         "interviene": 92,
         "fecha": "2017-07-29 00:00:00",
         "descripcion": "Robo",
-        "seguimientos": [],
         "participan": [3]
     }, {
         "idIncidente": 93,
@@ -2284,6 +2413,9 @@
         "interviene": 93,
         "fecha": "2017-02-22 00:00:00",
         "descripcion": "Venta de estupefacientes",
+        "proceso":  [{
+        "idIncidente": 93,
+
         "seguimientos": [{
             "idSeguimiento": 44,
             "descripcion": "Se informa a juzgado",
@@ -2304,7 +2436,7 @@
             "descripcion": "Se cita a testigos",
             "fecha": "2018-03-02 00:00:00",
             "num": 23
-        }],
+        }]}],
         "participan": [4, 23]
     }, {
         "idIncidente": 94,
@@ -2312,6 +2444,9 @@
         "interviene": 94,
         "fecha": "2017-10-10 00:00:00",
         "descripcion": "Juego ilegal",
+        "proceso":  [{
+        "idIncidente": 94,
+
         "seguimientos": [{
             "idSeguimiento": 24,
             "descripcion": "Se toman declaraciones",
@@ -2337,7 +2472,7 @@
             "descripcion": "Se revisan cámaras de tv",
             "fecha": "2018-01-23 00:00:00",
             "num": 64
-        }],
+        }]}],
         "participan": [8, 23]
     }, {
         "idIncidente": 95,
@@ -2345,7 +2480,6 @@
         "interviene": 95,
         "fecha": "2017-02-01 00:00:00",
         "descripcion": "Juego ilegal",
-        "seguimientos": [],
         "participan": []
     }, {
         "idIncidente": 96,
@@ -2353,7 +2487,6 @@
         "interviene": 96,
         "fecha": "2017-10-12 00:00:00",
         "descripcion": "Juego ilegal",
-        "seguimientos": [],
         "participan": []
     }, {
         "idIncidente": 97,
@@ -2361,7 +2494,6 @@
         "interviene": 97,
         "fecha": "2017-08-18 00:00:00",
         "descripcion": "Juego ilegal",
-        "seguimientos": [],
         "participan": [1]
     }, {
         "idIncidente": 98,
@@ -2369,6 +2501,9 @@
         "interviene": 98,
         "fecha": "2017-10-29 00:00:00",
         "descripcion": "Venta de estupefacientes",
+        "proceso":  [{
+        "idIncidente": 98,
+
         "seguimientos": [{
             "idSeguimiento": 16,
             "descripcion": "Se cita a testigos",
@@ -2389,7 +2524,7 @@
             "descripcion": "Se revisan cámaras de tv",
             "fecha": "2018-08-14 00:00:00",
             "num": 50
-        }],
+        }]}],
         "participan": [15]
     }, {
         "idIncidente": 99,
@@ -2397,6 +2532,9 @@
         "interviene": 99,
         "fecha": "2017-07-03 00:00:00",
         "descripcion": "Juego ilegal",
+        "proceso":  [{
+        "idIncidente": 99,
+
         "seguimientos": [{
             "idSeguimiento": 58,
             "descripcion": "Se toman declaraciones",
@@ -2412,7 +2550,7 @@
             "descripcion": "Se cita a testigos",
             "fecha": "2018-08-18 00:00:00",
             "num": 57
-        }],
+        }]}],
         "participan": [16, 17, 21]
     }, {
         "idIncidente": 100,
@@ -2420,12 +2558,15 @@
         "interviene": 10,
         "fecha": "2017-04-14 00:00:00",
         "descripcion": "Choque de autos",
+        "proceso":  [{
+        "idIncidente": 100,
+
         "seguimientos": [{
             "idSeguimiento": 243,
             "descripcion": "Se amplía denuncia",
             "fecha": "2018-05-09 00:00:00",
             "num": 16
-        }],
+        }]}],
         "participan": []
     }, {
         "idIncidente": 101,
@@ -2433,6 +2574,9 @@
         "interviene": 10,
         "fecha": "2017-11-09 00:00:00",
         "descripcion": "Juego ilegal",
+        "proceso":  [{
+        "idIncidente": 101,
+
         "seguimientos": [{
             "idSeguimiento": 10,
             "descripcion": "Se impone multa",
@@ -2463,7 +2607,7 @@
             "descripcion": "Se toman declaraciones",
             "fecha": "2018-11-20 00:00:00",
             "num": 6
-        }],
+        }]}],
         "participan": [0, 4, 29]
     }, {
         "idIncidente": 102,
@@ -2471,7 +2615,6 @@
         "interviene": 10,
         "fecha": "2017-08-03 00:00:00",
         "descripcion": "Venta ilegal",
-        "seguimientos": [],
         "participan": [3]
     }, {
         "idIncidente": 103,
@@ -2479,7 +2622,6 @@
         "interviene": 10,
         "fecha": "2017-06-08 00:00:00",
         "descripcion": "Pirotecnia peligros",
-        "seguimientos": [],
         "participan": []
     }, {
         "idIncidente": 104,
@@ -2487,7 +2629,6 @@
         "interviene": 10,
         "fecha": "2017-11-02 00:00:00",
         "descripcion": "Corte de calle",
-        "seguimientos": [],
         "participan": [5, 9]
     }, {
         "idIncidente": 105,
@@ -2495,7 +2636,6 @@
         "interviene": 10,
         "fecha": "2017-08-26 00:00:00",
         "descripcion": "Consumo de estupefacientes",
-        "seguimientos": [],
         "participan": [3, 5, 20]
     }, {
         "idIncidente": 106,
@@ -2503,7 +2643,6 @@
         "interviene": 10,
         "fecha": "2017-01-10 00:00:00",
         "descripcion": "Venta de alcohol ilegal",
-        "seguimientos": [],
         "participan": [15]
     }, {
         "idIncidente": 107,
@@ -2511,7 +2650,6 @@
         "interviene": 10,
         "fecha": "2017-06-16 00:00:00",
         "descripcion": "Atentado contra la autoridad",
-        "seguimientos": [],
         "participan": [15, 17]
     }, {
         "idIncidente": 108,
@@ -2519,6 +2657,9 @@
         "interviene": 10,
         "fecha": "2017-11-23 00:00:00",
         "descripcion": "Pirotecnia ilegal",
+        "proceso":  [{
+        "idIncidente": 108,
+
         "seguimientos": [{
             "idSeguimiento": 171,
             "descripcion": "Se impone condena",
@@ -2529,7 +2670,7 @@
             "descripcion": "Se informa a juzgado",
             "fecha": "2018-06-21 00:00:00",
             "num": 61
-        }],
+        }]}],
         "participan": [11, 13, 15]
     }, {
         "idIncidente": 109,
@@ -2537,6 +2678,9 @@
         "interviene": 10,
         "fecha": "2017-03-02 00:00:00",
         "descripcion": "Venta de estupefacientes",
+        "proceso":  [{
+        "idIncidente": 109,
+
         "seguimientos": [{
             "idSeguimiento": 112,
             "descripcion": "Se impone condena",
@@ -2552,7 +2696,7 @@
             "descripcion": "Se impone multa",
             "fecha": "2018-04-17 00:00:00",
             "num": 54
-        }],
+        }]}],
         "participan": []
     }, {
         "idIncidente": 110,
@@ -2560,7 +2704,6 @@
         "interviene": 11,
         "fecha": "2017-09-13 00:00:00",
         "descripcion": "Ruidos molestos",
-        "seguimientos": [],
         "participan": []
     }, {
         "idIncidente": 111,
@@ -2568,6 +2711,9 @@
         "interviene": 11,
         "fecha": "2017-04-20 00:00:00",
         "descripcion": "Pelea callejera",
+        "proceso":  [{
+        "idIncidente": 111,
+
         "seguimientos": [{
             "idSeguimiento": 106,
             "descripcion": "Se toman declaraciones",
@@ -2578,7 +2724,7 @@
             "descripcion": "Peritos analizan caso",
             "fecha": "2018-11-18 00:00:00",
             "num": 28
-        }],
+        }]}],
         "participan": [9, 10, 24]
     }, {
         "idIncidente": 112,
@@ -2586,7 +2732,6 @@
         "interviene": 11,
         "fecha": "2017-09-18 00:00:00",
         "descripcion": "Venta de estupefacientes",
-        "seguimientos": [],
         "participan": [6, 8]
     }, {
         "idIncidente": 113,
@@ -2594,7 +2739,6 @@
         "interviene": 11,
         "fecha": "2017-05-27 00:00:00",
         "descripcion": "Venta de estupefacientes",
-        "seguimientos": [],
         "participan": [9, 12, 26, 27]
     }, {
         "idIncidente": 114,
@@ -2602,12 +2746,15 @@
         "interviene": 11,
         "fecha": "2017-07-11 00:00:00",
         "descripcion": "Hurto",
+        "proceso":  [{
+        "idIncidente": 114,
+
         "seguimientos": [{
             "idSeguimiento": 180,
             "descripcion": "Pasa de despacho",
             "fecha": "2018-06-22 00:00:00",
             "num": 64
-        }],
+        }]}],
         "participan": []
     }, {
         "idIncidente": 115,
@@ -2615,6 +2762,9 @@
         "interviene": 11,
         "fecha": "2017-10-24 00:00:00",
         "descripcion": "Felonía",
+        "proceso":  [{
+        "idIncidente": 115,
+
         "seguimientos": [{
             "idSeguimiento": 50,
             "descripcion": "Se revisan cámaras de tv",
@@ -2645,7 +2795,7 @@
             "descripcion": "Se toman declaraciones",
             "fecha": "2018-02-27 00:00:00",
             "num": 2
-        }],
+        }]}],
         "participan": [6, 13, 21]
     }, {
         "idIncidente": 116,
@@ -2653,7 +2803,6 @@
         "interviene": 11,
         "fecha": "2017-12-14 00:00:00",
         "descripcion": "Alteración del orden público",
-        "seguimientos": [],
         "participan": [2, 6, 25]
     }, {
         "idIncidente": 117,
@@ -2661,6 +2810,9 @@
         "interviene": 11,
         "fecha": "2017-11-09 00:00:00",
         "descripcion": "Venta ambulante",
+        "proceso":  [{
+        "idIncidente": 117,
+
         "seguimientos": [{
             "idSeguimiento": 27,
             "descripcion": "Se amplía denuncia",
@@ -2671,7 +2823,7 @@
             "descripcion": "Se informa a juzgado",
             "fecha": "2018-03-12 00:00:00",
             "num": 23
-        }],
+        }]}],
         "participan": [21]
     }, {
         "idIncidente": 118,
@@ -2679,6 +2831,9 @@
         "interviene": 11,
         "fecha": "2017-02-25 00:00:00",
         "descripcion": "Corte de calle",
+        "proceso":  [{
+        "idIncidente": 118,
+
         "seguimientos": [{
             "idSeguimiento": 52,
             "descripcion": "Se toman declaraciones",
@@ -2699,7 +2854,7 @@
             "descripcion": "Se toman declaraciones",
             "fecha": "2018-04-02 00:00:00",
             "num": 0
-        }],
+        }]}],
         "participan": [4, 23]
     }, {
         "idIncidente": 119,
@@ -2707,6 +2862,9 @@
         "interviene": 11,
         "fecha": "2017-07-10 00:00:00",
         "descripcion": "Choque de autos",
+        "proceso":  [{
+        "idIncidente": 119,
+
         "seguimientos": [{
             "idSeguimiento": 3,
             "descripcion": "Se informa a juzgado",
@@ -2732,7 +2890,7 @@
             "descripcion": "Pasa de despacho",
             "fecha": "2018-09-15 00:00:00",
             "num": 20
-        }],
+        }]}],
         "participan": [4, 5, 6, 9, 12, 17]
     }, {
         "idIncidente": 120,
@@ -2740,6 +2898,9 @@
         "interviene": 12,
         "fecha": "2017-06-02 00:00:00",
         "descripcion": "Choque de autos",
+        "proceso":  [{
+        "idIncidente": 120,
+
         "seguimientos": [{
             "idSeguimiento": 85,
             "descripcion": "Peritos analizan caso",
@@ -2765,7 +2926,7 @@
             "descripcion": "Se amplía denuncia",
             "fecha": "2018-08-22 00:00:00",
             "num": 59
-        }],
+        }]}],
         "participan": [0, 5]
     }, {
         "idIncidente": 121,
@@ -2773,6 +2934,9 @@
         "interviene": 12,
         "fecha": "2017-03-06 00:00:00",
         "descripcion": "Robo",
+        "proceso":  [{
+        "idIncidente": 121,
+
         "seguimientos": [{
             "idSeguimiento": 94,
             "descripcion": "Se toman declaraciones",
@@ -2788,7 +2952,7 @@
             "descripcion": "Pasa de despacho",
             "fecha": "2018-12-15 00:00:00",
             "num": 67
-        }],
+        }]}],
         "participan": [11]
     }, {
         "idIncidente": 122,
@@ -2796,7 +2960,6 @@
         "interviene": 12,
         "fecha": "2017-08-18 00:00:00",
         "descripcion": "Hurto",
-        "seguimientos": [],
         "participan": [10, 11, 24]
     }, {
         "idIncidente": 123,
@@ -2804,7 +2967,6 @@
         "interviene": 12,
         "fecha": "2017-03-13 00:00:00",
         "descripcion": "Asalto a comercio",
-        "seguimientos": [],
         "participan": [11, 18, 21]
     }, {
         "idIncidente": 124,
@@ -2812,7 +2974,6 @@
         "interviene": 12,
         "fecha": "2017-10-24 00:00:00",
         "descripcion": "Pelea callejera",
-        "seguimientos": [],
         "participan": [22]
     }, {
         "idIncidente": 125,
@@ -2820,12 +2981,15 @@
         "interviene": 12,
         "fecha": "2017-02-21 00:00:00",
         "descripcion": "Violencia callejera",
+        "proceso":  [{
+        "idIncidente": 125,
+
         "seguimientos": [{
             "idSeguimiento": 35,
             "descripcion": "Se informa a juzgado",
             "fecha": "2018-01-02 00:00:00",
             "num": 49
-        }],
+        }]}],
         "participan": [6, 21]
     }, {
         "idIncidente": 126,
@@ -2833,7 +2997,6 @@
         "interviene": 12,
         "fecha": "2017-12-15 00:00:00",
         "descripcion": "Robo",
-        "seguimientos": [],
         "participan": [16]
     }, {
         "idIncidente": 127,
@@ -2841,7 +3004,6 @@
         "interviene": 12,
         "fecha": "2017-07-11 00:00:00",
         "descripcion": "Ruidos molestos",
-        "seguimientos": [],
         "participan": [10]
     }, {
         "idIncidente": 128,
@@ -2849,6 +3011,9 @@
         "interviene": 12,
         "fecha": "2017-10-30 00:00:00",
         "descripcion": "Explosión",
+        "proceso":  [{
+        "idIncidente": 128,
+
         "seguimientos": [{
             "idSeguimiento": 43,
             "descripcion": "Pasa de despacho",
@@ -2864,7 +3029,7 @@
             "descripcion": "Se revisan cámaras de tv",
             "fecha": "2018-04-28 00:00:00",
             "num": 55
-        }],
+        }]}],
         "participan": [10, 19]
     }, {
         "idIncidente": 129,
@@ -2872,6 +3037,9 @@
         "interviene": 12,
         "fecha": "2017-05-10 00:00:00",
         "descripcion": "Venta de estupefacientes",
+        "proceso":  [{
+        "idIncidente": 129,
+
         "seguimientos": [{
             "idSeguimiento": 18,
             "descripcion": "Se amplía denuncia",
@@ -2912,7 +3080,7 @@
             "descripcion": "Se revisan cámaras de tv",
             "fecha": "2018-02-19 00:00:00",
             "num": 1
-        }],
+        }]}],
         "participan": [15, 17]
     }, {
         "idIncidente": 130,
@@ -2920,7 +3088,6 @@
         "interviene": 13,
         "fecha": "2017-03-25 00:00:00",
         "descripcion": "Coacción ilegal",
-        "seguimientos": [],
         "participan": [1, 14, 19]
     }, {
         "idIncidente": 131,
@@ -2928,6 +3095,9 @@
         "interviene": 13,
         "fecha": "2017-04-28 00:00:00",
         "descripcion": "Robo",
+        "proceso":  [{
+        "idIncidente": 131,
+
         "seguimientos": [{
             "idSeguimiento": 12,
             "descripcion": "Se impone multa",
@@ -2943,7 +3113,7 @@
             "descripcion": "Se amplía denuncia",
             "fecha": "2018-03-08 00:00:00",
             "num": 23
-        }],
+        }]}],
         "participan": [2]
     }, {
         "idIncidente": 132,
@@ -2951,7 +3121,6 @@
         "interviene": 13,
         "fecha": "2017-06-29 00:00:00",
         "descripcion": "Hurto",
-        "seguimientos": [],
         "participan": [0, 9, 18, 27]
     }, {
         "idIncidente": 133,
@@ -2959,6 +3128,9 @@
         "interviene": 13,
         "fecha": "2017-02-08 00:00:00",
         "descripcion": "Robo",
+        "proceso":  [{
+        "idIncidente": 133,
+
         "seguimientos": [{
             "idSeguimiento": 128,
             "descripcion": "Se impone multa",
@@ -2994,7 +3166,7 @@
             "descripcion": "Se cita a testigos",
             "fecha": "2018-02-03 00:00:00",
             "num": 32
-        }],
+        }]}],
         "participan": [19]
     }, {
         "idIncidente": 134,
@@ -3002,7 +3174,6 @@
         "interviene": 13,
         "fecha": "2017-12-18 00:00:00",
         "descripcion": "Ruidos molestos",
-        "seguimientos": [],
         "participan": [8]
     }, {
         "idIncidente": 135,
@@ -3010,7 +3181,6 @@
         "interviene": 13,
         "fecha": "2017-06-14 00:00:00",
         "descripcion": "Venta de estupefacientes",
-        "seguimientos": [],
         "participan": [14]
     }, {
         "idIncidente": 136,
@@ -3018,6 +3188,9 @@
         "interviene": 13,
         "fecha": "2017-11-22 00:00:00",
         "descripcion": "Estupro",
+        "proceso":  [{
+        "idIncidente": 136,
+
         "seguimientos": [{
             "idSeguimiento": 42,
             "descripcion": "Se revisan cámaras de tv",
@@ -3038,7 +3211,7 @@
             "descripcion": "Peritos analizan caso",
             "fecha": "2018-12-24 00:00:00",
             "num": 62
-        }],
+        }]}],
         "participan": [2, 26]
     }, {
         "idIncidente": 137,
@@ -3046,7 +3219,6 @@
         "interviene": 13,
         "fecha": "2017-05-01 00:00:00",
         "descripcion": "Exhibicionismo",
-        "seguimientos": [],
         "participan": [16, 27]
     }, {
         "idIncidente": 138,
@@ -3054,6 +3226,9 @@
         "interviene": 13,
         "fecha": "2017-01-29 00:00:00",
         "descripcion": "Destrucción de la propiedad",
+        "proceso":  [{
+        "idIncidente": 138,
+
         "seguimientos": [{
             "idSeguimiento": 0,
             "descripcion": "Se informa a juzgado",
@@ -3089,7 +3264,7 @@
             "descripcion": "Se amplía denuncia",
             "fecha": "2018-06-10 00:00:00",
             "num": 32
-        }],
+        }]}],
         "participan": [13, 19, 25]
     }, {
         "idIncidente": 139,
@@ -3097,7 +3272,6 @@
         "interviene": 13,
         "fecha": "2017-08-16 00:00:00",
         "descripcion": "Violencia callejera",
-        "seguimientos": [],
         "participan": [9]
     }, {
         "idIncidente": 140,
@@ -3105,6 +3279,9 @@
         "interviene": 14,
         "fecha": "2017-02-17 00:00:00",
         "descripcion": "Venta de estupefacientes",
+        "proceso":  [{
+        "idIncidente": 140,
+
         "seguimientos": [{
             "idSeguimiento": 6,
             "descripcion": "Se informa a juzgado",
@@ -3135,7 +3312,7 @@
             "descripcion": "Se cita a testigos",
             "fecha": "2018-07-19 00:00:00",
             "num": 29
-        }],
+        }]}],
         "participan": [11, 17]
     }, {
         "idIncidente": 141,
@@ -3143,6 +3320,9 @@
         "interviene": 14,
         "fecha": "2017-11-20 00:00:00",
         "descripcion": "Vagancia",
+        "proceso":  [{
+        "idIncidente": 141,
+
         "seguimientos": [{
             "idSeguimiento": 17,
             "descripcion": "Pasa de despacho",
@@ -3163,7 +3343,7 @@
             "descripcion": "Se impone multa",
             "fecha": "2018-09-17 00:00:00",
             "num": 48
-        }],
+        }]}],
         "participan": [6, 8, 23]
     }, {
         "idIncidente": 142,
@@ -3171,7 +3351,6 @@
         "interviene": 14,
         "fecha": "2017-01-23 00:00:00",
         "descripcion": "Merodeo",
-        "seguimientos": [],
         "participan": [2]
     }, {
         "idIncidente": 143,
@@ -3179,12 +3358,15 @@
         "interviene": 14,
         "fecha": "2017-04-20 00:00:00",
         "descripcion": "Hurto",
+        "proceso":  [{
+        "idIncidente": 143,
+
         "seguimientos": [{
             "idSeguimiento": 152,
             "descripcion": "Se toman declaraciones",
             "fecha": "2018-08-06 00:00:00",
             "num": 22
-        }],
+        }]}],
         "participan": [7, 29]
     }, {
         "idIncidente": 144,
@@ -3192,6 +3374,9 @@
         "interviene": 14,
         "fecha": "2017-07-16 00:00:00",
         "descripcion": "Venta de estupefacientes",
+        "proceso":  [{
+        "idIncidente": 144,
+
         "seguimientos": [{
             "idSeguimiento": 26,
             "descripcion": "Se amplía denuncia",
@@ -3237,7 +3422,7 @@
             "descripcion": "Se impone condena",
             "fecha": "2018-12-18 00:00:00",
             "num": 1
-        }],
+        }]}],
         "participan": [12, 28]
     }, {
         "idIncidente": 145,
@@ -3245,7 +3430,6 @@
         "interviene": 14,
         "fecha": "2017-08-14 00:00:00",
         "descripcion": "Robo",
-        "seguimientos": [],
         "participan": [16]
     }, {
         "idIncidente": 146,
@@ -3253,6 +3437,9 @@
         "interviene": 14,
         "fecha": "2017-10-25 00:00:00",
         "descripcion": "Robo",
+        "proceso":  [{
+        "idIncidente": 146,
+
         "seguimientos": [{
             "idSeguimiento": 78,
             "descripcion": "Se toman declaraciones",
@@ -3268,7 +3455,7 @@
             "descripcion": "Se revisan cámaras de tv",
             "fecha": "2018-01-09 00:00:00",
             "num": 42
-        }],
+        }]}],
         "participan": []
     }, {
         "idIncidente": 147,
@@ -3276,7 +3463,6 @@
         "interviene": 14,
         "fecha": "2017-02-01 00:00:00",
         "descripcion": "Venta de estupefacientes",
-        "seguimientos": [],
         "participan": [11, 28]
     }, {
         "idIncidente": 148,
@@ -3284,7 +3470,6 @@
         "interviene": 14,
         "fecha": "2017-08-29 00:00:00",
         "descripcion": "Robo",
-        "seguimientos": [],
         "participan": [0, 1, 21]
     }
 ]
