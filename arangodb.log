@@ -1,0 +1,2 @@
+2018-11-30T17:43:51-03:00 |INFO| Starting arangodb version 0.13.7, build bdac926 component=arangodb
+2018-11-30T17:43:57-03:00 |FATA| Port 8528 is already in use component=arangodb
