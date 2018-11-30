@@ -1,0 +1,2133 @@
+[{
+        "idIncidente": 1,
+        "seguimientos": [{
+            "idSeguimiento": 80,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-03-11 00:00:00",
+            "num": 61
+        }, {
+            "idSeguimiento": 114,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-03-17 00:00:00",
+            "num": 15
+        }, {
+            "idSeguimiento": 149,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-08-27 00:00:00",
+            "num": 20
+        }, {
+            "idSeguimiento": 194,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-02-27 00:00:00",
+            "num": 37
+        }, {
+            "idSeguimiento": 219,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-07-01 00:00:00",
+            "num": 30
+        }]
+    },{
+        "idIncidente": 6,
+        "seguimientos": [{
+            "idSeguimiento": 73,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-05-25 00:00:00",
+            "num": 36
+        }, {
+            "idSeguimiento": 125,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-06-17 00:00:00",
+            "num": 68
+        }, {
+            "idSeguimiento": 226,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-08-26 00:00:00",
+            "num": 25
+        }]
+    },{
+        "idIncidente": 8,
+        "seguimientos": [{
+            "idSeguimiento": 31,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-04-07 00:00:00",
+            "num": 66
+        }]
+    }
+        , {
+        "idIncidente": 9,
+        "seguimientos": [{
+            "idSeguimiento": 41,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-03-08 00:00:00",
+            "num": 67
+        }, {
+            "idSeguimiento": 47,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-11-15 00:00:00",
+            "num": 48
+        }, {
+            "idSeguimiento": 59,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-07-28 00:00:00",
+            "num": 36
+        }, {
+            "idSeguimiento": 134,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-01-04 00:00:00",
+            "num": 53
+        }, {
+            "idSeguimiento": 186,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-07-23 00:00:00",
+            "num": 45
+        }, {
+            "idSeguimiento": 211,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-04-26 00:00:00",
+            "num": 62
+        }, {
+            "idSeguimiento": 222,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-06-07 00:00:00",
+            "num": 15
+        }]
+        }
+        , {
+        "idIncidente": 10,
+        "seguimientos": [{
+            "idSeguimiento": 64,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-04-17 00:00:00",
+            "num": 64
+        }, {
+            "idSeguimiento": 126,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-04-05 00:00:00",
+            "num": 11
+        }, {
+            "idSeguimiento": 144,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-03-28 00:00:00",
+            "num": 34
+        }, {
+            "idSeguimiento": 218,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-05-11 00:00:00",
+            "num": 41
+        }, {
+            "idSeguimiento": 246,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-11-07 00:00:00",
+            "num": 40
+        }, {
+            "idSeguimiento": 260,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-01-02 00:00:00",
+            "num": 53
+        }]
+    },{
+        "idIncidente": 12,
+        "seguimientos": [{
+            "idSeguimiento": 36,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-04-06 00:00:00",
+            "num": 51
+        }, {
+            "idSeguimiento": 66,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-12-12 00:00:00",
+            "num": 40
+        }, {
+            "idSeguimiento": 249,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-12-26 00:00:00",
+            "num": 52
+        }, {
+            "idSeguimiento": 280,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-08-12 00:00:00",
+            "num": 60
+        }]
+    },{
+        "idIncidente": 15,
+        "seguimientos": [{
+            "idSeguimiento": 39,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-08-16 00:00:00",
+            "num": 47
+        }, {
+            "idSeguimiento": 261,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-10-24 00:00:00",
+            "num": 55
+        }]}
+        , {
+        "idIncidente": 16,
+        "seguimientos": [{
+            "idSeguimiento": 20,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-01-21 00:00:00",
+            "num": 26
+        }, {
+            "idSeguimiento": 82,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-11-08 00:00:00",
+            "num": 23
+        }, {
+            "idSeguimiento": 87,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-07-13 00:00:00",
+            "num": 5
+        }, {
+            "idSeguimiento": 89,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-07-02 00:00:00",
+            "num": 46
+        }, {
+            "idSeguimiento": 97,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-07-06 00:00:00",
+            "num": 32
+        }, {
+            "idSeguimiento": 224,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-01-01 00:00:00",
+            "num": 16
+        }, {
+            "idSeguimiento": 257,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-07-13 00:00:00",
+            "num": 51
+        }, {
+            "idSeguimiento": 265,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-08-08 00:00:00",
+            "num": 46
+        }]}
+        , {
+        "idIncidente": 17,
+        "seguimientos": [{
+            "idSeguimiento": 37,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-03-02 00:00:00",
+            "num": 53
+        }, {
+            "idSeguimiento": 46,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-08-28 00:00:00",
+            "num": 53
+        }, {
+            "idSeguimiento": 55,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-11-11 00:00:00",
+            "num": 61
+        }, {
+            "idSeguimiento": 147,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-11-24 00:00:00",
+            "num": 44
+        }, {
+            "idSeguimiento": 154,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-11-25 00:00:00",
+            "num": 68
+        }, {
+            "idSeguimiento": 181,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-05-20 00:00:00",
+            "num": 3
+        }, {
+            "idSeguimiento": 184,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-12-12 00:00:00",
+            "num": 57
+        }, {
+            "idSeguimiento": 189,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-01-09 00:00:00",
+            "num": 63
+        }, {
+            "idSeguimiento": 192,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-03-12 00:00:00",
+            "num": 7
+        }, {
+            "idSeguimiento": 253,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-01-06 00:00:00",
+            "num": 30
+        }]}
+        , {
+        "idIncidente": 18,
+        "seguimientos": [{
+            "idSeguimiento": 45,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-08-22 00:00:00",
+            "num": 33
+        }, {
+            "idSeguimiento": 139,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-10-11 00:00:00",
+            "num": 20
+        }]}
+        , {
+        "idIncidente": 19,
+        "seguimientos": [{
+            "idSeguimiento": 255,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-08-07 00:00:00",
+            "num": 35
+        }, {
+            "idSeguimiento": 258,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-01-14 00:00:00",
+            "num": 48
+        }]
+    },{
+        "idIncidente": 21,
+        "seguimientos": [{
+            "idSeguimiento": 175,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-02-07 00:00:00",
+            "num": 1
+        }]}
+        , {
+        "idIncidente": 22,
+        "seguimientos": [{
+            "idSeguimiento": 90,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-03-24 00:00:00",
+            "num": 12
+        }, {
+            "idSeguimiento": 188,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-10-01 00:00:00",
+            "num": 30
+        }, {
+            "idSeguimiento": 221,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-04-02 00:00:00",
+            "num": 67
+        }]
+    },{
+        "idIncidente": 25,
+        "seguimientos": [{
+            "idSeguimiento": 7,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-04-22 00:00:00",
+            "num": 17
+        }, {
+            "idSeguimiento": 11,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-10-16 00:00:00",
+            "num": 12
+        }, {
+            "idSeguimiento": 19,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-06-20 00:00:00",
+            "num": 44
+        }, {
+            "idSeguimiento": 136,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-02-15 00:00:00",
+            "num": 50
+        }, {
+            "idSeguimiento": 213,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-06-14 00:00:00",
+            "num": 22
+        }, {
+            "idSeguimiento": 245,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-04-08 00:00:00",
+            "num": 55
+        }, {
+            "idSeguimiento": 295,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-07-22 00:00:00",
+            "num": 64
+        }]}
+        , {
+        "idIncidente": 26,
+        "seguimientos": [{
+            "idSeguimiento": 1,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-11-22 00:00:00",
+            "num": 51
+        }, {
+            "idSeguimiento": 33,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-03-12 00:00:00",
+            "num": 61
+        }, {
+            "idSeguimiento": 234,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-06-15 00:00:00",
+            "num": 36
+        }, {
+            "idSeguimiento": 244,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-03-23 00:00:00",
+            "num": 45
+        }, {
+            "idSeguimiento": 271,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-06-16 00:00:00",
+            "num": 38
+        }, {
+            "idSeguimiento": 276,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-09-18 00:00:00",
+            "num": 21
+        }]
+    },{
+        "idIncidente": 28,
+        "seguimientos": [{
+            "idSeguimiento": 143,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-05-11 00:00:00",
+            "num": 14
+        }, {
+            "idSeguimiento": 266,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-03-11 00:00:00",
+            "num": 2
+        }, {
+            "idSeguimiento": 282,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-07-17 00:00:00",
+            "num": 15
+        }, {
+            "idSeguimiento": 298,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-09-15 00:00:00",
+            "num": 43
+        }]
+          },
+    , {
+        "idIncidente": 1,
+        "seguimientos": [{
+            "idSeguimiento": 80,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-03-11 00:00:00",
+            "num": 61
+        }, {
+            "idSeguimiento": 114,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-03-17 00:00:00",
+            "num": 15
+        }, {
+            "idSeguimiento": 149,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-08-27 00:00:00",
+            "num": 20
+        }, {
+            "idSeguimiento": 194,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-02-27 00:00:00",
+            "num": 37
+        }, {
+            "idSeguimiento": 219,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-07-01 00:00:00",
+            "num": 30
+        }]
+    },{
+        "idIncidente": 6,
+        "seguimientos": [{
+            "idSeguimiento": 73,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-05-25 00:00:00",
+            "num": 36
+        }, {
+            "idSeguimiento": 125,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-06-17 00:00:00",
+            "num": 68
+        }, {
+            "idSeguimiento": 226,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-08-26 00:00:00",
+            "num": 25
+        }]
+    },{
+        "idIncidente": 8,
+        "seguimientos": [{
+            "idSeguimiento": 31,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-04-07 00:00:00",
+            "num": 66
+        }]}
+        , {
+        "idIncidente": 9,
+        "seguimientos": [{
+            "idSeguimiento": 41,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-03-08 00:00:00",
+            "num": 67
+        }, {
+            "idSeguimiento": 47,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-11-15 00:00:00",
+            "num": 48
+        }, {
+            "idSeguimiento": 59,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-07-28 00:00:00",
+            "num": 36
+        }, {
+            "idSeguimiento": 134,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-01-04 00:00:00",
+            "num": 53
+        }, {
+            "idSeguimiento": 186,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-07-23 00:00:00",
+            "num": 45
+        }, {
+            "idSeguimiento": 211,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-04-26 00:00:00",
+            "num": 62
+        }, {
+            "idSeguimiento": 222,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-06-07 00:00:00",
+            "num": 15
+        }]}
+        , {
+        "idIncidente": 10,
+        "seguimientos": [{
+            "idSeguimiento": 64,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-04-17 00:00:00",
+            "num": 64
+        }, {
+            "idSeguimiento": 126,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-04-05 00:00:00",
+            "num": 11
+        }, {
+            "idSeguimiento": 144,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-03-28 00:00:00",
+            "num": 34
+        }, {
+            "idSeguimiento": 218,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-05-11 00:00:00",
+            "num": 41
+        }, {
+            "idSeguimiento": 246,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-11-07 00:00:00",
+            "num": 40
+        }, {
+            "idSeguimiento": 260,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-01-02 00:00:00",
+            "num": 53
+        }]
+    },{
+        "idIncidente": 12,
+        "seguimientos": [{
+            "idSeguimiento": 36,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-04-06 00:00:00",
+            "num": 51
+        }, {
+            "idSeguimiento": 66,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-12-12 00:00:00",
+            "num": 40
+        }, {
+            "idSeguimiento": 249,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-12-26 00:00:00",
+            "num": 52
+        }, {
+            "idSeguimiento": 280,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-08-12 00:00:00",
+            "num": 60
+        }]
+    },{
+        "idIncidente": 15,
+        "seguimientos": [{
+            "idSeguimiento": 39,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-08-16 00:00:00",
+            "num": 47
+        }, {
+            "idSeguimiento": 261,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-10-24 00:00:00",
+            "num": 55
+        }]}
+        , {
+        "idIncidente": 16,
+        "seguimientos": [{
+            "idSeguimiento": 20,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-01-21 00:00:00",
+            "num": 26
+        }, {
+            "idSeguimiento": 82,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-11-08 00:00:00",
+            "num": 23
+        }, {
+            "idSeguimiento": 87,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-07-13 00:00:00",
+            "num": 5
+        }, {
+            "idSeguimiento": 89,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-07-02 00:00:00",
+            "num": 46
+        }, {
+            "idSeguimiento": 97,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-07-06 00:00:00",
+            "num": 32
+        }, {
+            "idSeguimiento": 224,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-01-01 00:00:00",
+            "num": 16
+        }, {
+            "idSeguimiento": 257,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-07-13 00:00:00",
+            "num": 51
+        }, {
+            "idSeguimiento": 265,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-08-08 00:00:00",
+            "num": 46
+        }]}
+        , {
+        "idIncidente": 17,
+        "seguimientos": [{
+            "idSeguimiento": 37,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-03-02 00:00:00",
+            "num": 53
+        }, {
+            "idSeguimiento": 46,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-08-28 00:00:00",
+            "num": 53
+        }, {
+            "idSeguimiento": 55,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-11-11 00:00:00",
+            "num": 61
+        }, {
+            "idSeguimiento": 147,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-11-24 00:00:00",
+            "num": 44
+        }, {
+            "idSeguimiento": 154,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-11-25 00:00:00",
+            "num": 68
+        }, {
+            "idSeguimiento": 181,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-05-20 00:00:00",
+            "num": 3
+        }, {
+            "idSeguimiento": 184,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-12-12 00:00:00",
+            "num": 57
+        }, {
+            "idSeguimiento": 189,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-01-09 00:00:00",
+            "num": 63
+        }, {
+            "idSeguimiento": 192,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-03-12 00:00:00",
+            "num": 7
+        }, {
+            "idSeguimiento": 253,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-01-06 00:00:00",
+            "num": 30
+        }]}
+        , {
+        "idIncidente": 18,
+        "seguimientos": [{
+            "idSeguimiento": 45,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-08-22 00:00:00",
+            "num": 33
+        }, {
+            "idSeguimiento": 139,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-10-11 00:00:00",
+            "num": 20
+        }]}
+        , {
+        "idIncidente": 19,
+        "seguimientos": [{
+            "idSeguimiento": 255,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-08-07 00:00:00",
+            "num": 35
+        }, {
+            "idSeguimiento": 258,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-01-14 00:00:00",
+            "num": 48
+        }]
+    },{
+        "idIncidente": 21,
+        "seguimientos": [{
+            "idSeguimiento": 175,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-02-07 00:00:00",
+            "num": 1
+        }]}
+        , {
+        "idIncidente": 22,
+        "seguimientos": [{
+            "idSeguimiento": 90,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-03-24 00:00:00",
+            "num": 12
+        }, {
+            "idSeguimiento": 188,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-10-01 00:00:00",
+            "num": 30
+        }, {
+            "idSeguimiento": 221,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-04-02 00:00:00",
+            "num": 67
+        }]
+    },{
+        "idIncidente": 25,
+        "seguimientos": [{
+            "idSeguimiento": 7,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-04-22 00:00:00",
+            "num": 17
+        }, {
+            "idSeguimiento": 11,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-10-16 00:00:00",
+            "num": 12
+        }, {
+            "idSeguimiento": 19,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-06-20 00:00:00",
+            "num": 44
+        }, {
+            "idSeguimiento": 136,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-02-15 00:00:00",
+            "num": 50
+        }, {
+            "idSeguimiento": 213,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-06-14 00:00:00",
+            "num": 22
+        }, {
+            "idSeguimiento": 245,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-04-08 00:00:00",
+            "num": 55
+        }, {
+            "idSeguimiento": 295,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-07-22 00:00:00",
+            "num": 64
+        }]}
+        , {
+        "idIncidente": 26,
+        "seguimientos": [{
+            "idSeguimiento": 1,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-11-22 00:00:00",
+            "num": 51
+        }, {
+            "idSeguimiento": 33,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-03-12 00:00:00",
+            "num": 61
+        }, {
+            "idSeguimiento": 234,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-06-15 00:00:00",
+            "num": 36
+        }, {
+            "idSeguimiento": 244,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-03-23 00:00:00",
+            "num": 45
+        }, {
+            "idSeguimiento": 271,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-06-16 00:00:00",
+            "num": 38
+        }, {
+            "idSeguimiento": 276,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-09-18 00:00:00",
+            "num": 21
+        }]
+    },{
+        "idIncidente": 28,
+        "seguimientos": [{
+            "idSeguimiento": 143,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-05-11 00:00:00",
+            "num": 14
+        }, {
+            "idSeguimiento": 266,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-03-11 00:00:00",
+            "num": 2
+        }, {
+            "idSeguimiento": 282,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-07-17 00:00:00",
+            "num": 15
+        }, {
+            "idSeguimiento": 298,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-09-15 00:00:00",
+            "num": 43
+        }]}
+        , {
+        "idIncidente": 30,
+        "seguimientos": [{
+            "idSeguimiento": 14,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-11-03 00:00:00",
+            "num": 12
+        }, {
+            "idSeguimiento": 69,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-03-05 00:00:00",
+            "num": 51
+        }, {
+            "idSeguimiento": 137,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-01-14 00:00:00",
+            "num": 67
+        }, {
+            "idSeguimiento": 262,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-04-05 00:00:00",
+            "num": 46
+        }, {
+            "idSeguimiento": 289,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-05-19 00:00:00",
+            "num": 19
+        }]
+    },{
+        "idIncidente": 32,
+        "seguimientos": [{
+            "idSeguimiento": 148,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-11-23 00:00:00",
+            "num": 9
+        }, {
+            "idSeguimiento": 170,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-02-18 00:00:00",
+            "num": 20
+        }, {
+            "idSeguimiento": 215,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-05-19 00:00:00",
+            "num": 56
+        }, {
+            "idSeguimiento": 247,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-08-25 00:00:00",
+            "num": 52
+        }, {
+            "idSeguimiento": 256,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-08-22 00:00:00",
+            "num": 47
+        }, {
+            "idSeguimiento": 290,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-11-15 00:00:00",
+            "num": 54
+        }]
+    },{
+        "idIncidente": 34,
+        "seguimientos": [{
+            "idSeguimiento": 54,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-03-03 00:00:00",
+            "num": 54
+        }, {
+            "idSeguimiento": 201,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-03-25 00:00:00",
+            "num": 5
+        }, {
+            "idSeguimiento": 264,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-04-04 00:00:00",
+            "num": 43
+        }]
+    },{
+        "idIncidente": 36,
+        "seguimientos": [{
+            "idSeguimiento": 91,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-03-20 00:00:00",
+            "num": 7
+        }, {
+            "idSeguimiento": 177,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-09-26 00:00:00",
+            "num": 48
+        }, {
+            "idSeguimiento": 239,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-08-21 00:00:00",
+            "num": 37
+        }]}
+        , {
+        "idIncidente": 37,
+        "seguimientos": [{
+            "idSeguimiento": 198,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-12-17 00:00:00",
+            "num": 7
+        }]}
+        , {
+        "idIncidente": 38,
+        "seguimientos": [{
+            "idSeguimiento": 61,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-10-19 00:00:00",
+            "num": 34
+        }, {
+            "idSeguimiento": 157,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-08-05 00:00:00",
+            "num": 38
+        }]}
+        , {
+        "idIncidente": 39,
+        "seguimientos": [{
+            "idSeguimiento": 176,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-11-28 00:00:00",
+            "num": 49
+        }, {
+            "idSeguimiento": 210,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-04-01 00:00:00",
+            "num": 47
+        }, {
+            "idSeguimiento": 273,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-01-22 00:00:00",
+            "num": 13
+        }]
+    },{
+        "idIncidente": 42,
+        "seguimientos": [{
+            "idSeguimiento": 29,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-10-09 00:00:00",
+            "num": 55
+        }, {
+            "idSeguimiento": 92,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-09-22 00:00:00",
+            "num": 11
+        }, {
+            "idSeguimiento": 95,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-11-14 00:00:00",
+            "num": 62
+        }, {
+            "idSeguimiento": 288,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-07-12 00:00:00",
+            "num": 8
+        }]
+    },{
+        "idIncidente": 45,
+        "seguimientos": [{
+            "idSeguimiento": 53,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-06-26 00:00:00",
+            "num": 38
+        }, {
+            "idSeguimiento": 86,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-08-13 00:00:00",
+            "num": 59
+        }, {
+            "idSeguimiento": 103,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-07-24 00:00:00",
+            "num": 12
+        }, {
+            "idSeguimiento": 122,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-01-04 00:00:00",
+            "num": 54
+        }]
+    },{
+        "idIncidente": 47,
+        "seguimientos": [{
+            "idSeguimiento": 88,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-10-11 00:00:00",
+            "num": 15
+        }]
+    },{
+        "idIncidente": 53,
+        "seguimientos": [{
+            "idSeguimiento": 15,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-06-16 00:00:00",
+            "num": 0
+        }, {
+            "idSeguimiento": 138,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-10-10 00:00:00",
+            "num": 10
+        }, {
+            "idSeguimiento": 161,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-04-04 00:00:00",
+            "num": 56
+        }, {
+            "idSeguimiento": 195,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-12-21 00:00:00",
+            "num": 49
+        }, {
+            "idSeguimiento": 229,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-04-24 00:00:00",
+            "num": 18
+        }]}
+        , {
+        "idIncidente": 54,
+        "seguimientos": [{
+            "idSeguimiento": 13,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-08-04 00:00:00",
+            "num": 4
+        }, {
+            "idSeguimiento": 40,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-11-17 00:00:00",
+            "num": 20
+        }, {
+            "idSeguimiento": 83,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-11-18 00:00:00",
+            "num": 11
+        }]}
+        , {
+        "idIncidente": 55,
+        "seguimientos": [{
+            "idSeguimiento": 21,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-09-08 00:00:00",
+            "num": 14
+        }, {
+            "idSeguimiento": 38,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-06-23 00:00:00",
+            "num": 62
+        }]}
+        , {
+        "idIncidente": 56,
+        "seguimientos": [{
+            "idSeguimiento": 28,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-05-10 00:00:00",
+            "num": 34
+        }, {
+            "idSeguimiento": 67,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-06-25 00:00:00",
+            "num": 61
+        }, {
+            "idSeguimiento": 132,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-07-27 00:00:00",
+            "num": 13
+        }, {
+            "idSeguimiento": 163,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-10-15 00:00:00",
+            "num": 1
+        }]
+    },{
+        "idIncidente": 58,
+        "seguimientos": [{
+            "idSeguimiento": 287,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-08-28 00:00:00",
+            "num": 51
+        }, {
+            "idSeguimiento": 296,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-04-18 00:00:00",
+            "num": 47
+        }]}
+        , {
+        "idIncidente": 59,
+        "seguimientos": [{
+            "idSeguimiento": 4,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-03-25 00:00:00",
+            "num": 43
+        }, {
+            "idSeguimiento": 5,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-02-04 00:00:00",
+            "num": 24
+        }, {
+            "idSeguimiento": 8,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-06-06 00:00:00",
+            "num": 54
+        }, {
+            "idSeguimiento": 9,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-10-10 00:00:00",
+            "num": 36
+        }, {
+            "idSeguimiento": 22,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-01-17 00:00:00",
+            "num": 4
+        }, {
+            "idSeguimiento": 102,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-03-03 00:00:00",
+            "num": 28
+        }, {
+            "idSeguimiento": 104,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-04-09 00:00:00",
+            "num": 57
+        }, {
+            "idSeguimiento": 165,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-09-24 00:00:00",
+            "num": 16
+        }]}
+        , {
+        "idIncidente": 60,
+        "seguimientos": [{
+            "idSeguimiento": 153,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-11-06 00:00:00",
+            "num": 5
+        }]
+    },{
+        "idIncidente": 62,
+        "seguimientos": [{
+            "idSeguimiento": 30,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-02-20 00:00:00",
+            "num": 32
+        }, {
+            "idSeguimiento": 74,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-04-28 00:00:00",
+            "num": 0
+        }, {
+            "idSeguimiento": 113,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-12-20 00:00:00",
+            "num": 18
+        }, {
+            "idSeguimiento": 190,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-01-11 00:00:00",
+            "num": 16
+        }, {
+            "idSeguimiento": 206,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-05-03 00:00:00",
+            "num": 1
+        }]
+    },{
+        "idIncidente": 64,
+        "seguimientos": [{
+            "idSeguimiento": 57,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-03-10 00:00:00",
+            "num": 8
+        }, {
+            "idSeguimiento": 124,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-05-24 00:00:00",
+            "num": 4
+        }, {
+            "idSeguimiento": 135,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-05-04 00:00:00",
+            "num": 2
+        }, {
+            "idSeguimiento": 169,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-02-01 00:00:00",
+            "num": 53
+        }, {
+            "idSeguimiento": 183,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-06-27 00:00:00",
+            "num": 68
+        }, {
+            "idSeguimiento": 227,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-02-08 00:00:00",
+            "num": 66
+        }, {
+            "idSeguimiento": 293,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-07-28 00:00:00",
+            "num": 27
+        }]
+    },{
+        "idIncidente": 67,
+        "seguimientos": [{
+            "idSeguimiento": 48,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-12-09 00:00:00",
+            "num": 48
+        }, {
+            "idSeguimiento": 238,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-05-18 00:00:00",
+            "num": 28
+        }]}
+        , {
+        "idIncidente": 68,
+        "seguimientos": [{
+            "idSeguimiento": 268,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-01-15 00:00:00",
+            "num": 60
+        }]
+    },{
+        "idIncidente": 70,
+        "seguimientos": [{
+            "idSeguimiento": 2,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-03-21 00:00:00",
+            "num": 0
+        }, {
+            "idSeguimiento": 68,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-01-26 00:00:00",
+            "num": 64
+        }]
+    },{
+        "idIncidente": 75,
+        "seguimientos": [{
+            "idSeguimiento": 81,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-05-07 00:00:00",
+            "num": 13
+        }, {
+            "idSeguimiento": 108,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-09-26 00:00:00",
+            "num": 30
+        }, {
+            "idSeguimiento": 119,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-07-24 00:00:00",
+            "num": 66
+        }, {
+            "idSeguimiento": 197,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-11-10 00:00:00",
+            "num": 29
+        }, {
+            "idSeguimiento": 230,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-04-14 00:00:00",
+            "num": 7
+        }, {
+            "idSeguimiento": 286,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-07-08 00:00:00",
+            "num": 2
+        }]}
+        , {
+        "idIncidente": 76,
+        "seguimientos": [{
+            "idSeguimiento": 71,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-04-06 00:00:00",
+            "num": 25
+        }, {
+            "idSeguimiento": 159,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-04-24 00:00:00",
+            "num": 54
+        }, {
+            "idSeguimiento": 235,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-02-04 00:00:00",
+            "num": 6
+        }, {
+            "idSeguimiento": 242,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-07-19 00:00:00",
+            "num": 41
+        }]}
+        , {
+        "idIncidente": 77,
+        "seguimientos": [{
+            "idSeguimiento": 193,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-02-14 00:00:00",
+            "num": 14
+        }, {
+            "idSeguimiento": 208,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-08-08 00:00:00",
+            "num": 36
+        }, {
+            "idSeguimiento": 248,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-11-04 00:00:00",
+            "num": 57
+        }]}
+        , {
+        "idIncidente": 78,
+        "seguimientos": [{
+            "idSeguimiento": 70,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-06-09 00:00:00",
+            "num": 32
+        }, {
+            "idSeguimiento": 72,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-08-14 00:00:00",
+            "num": 62
+        }, {
+            "idSeguimiento": 141,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-12-10 00:00:00",
+            "num": 36
+        }, {
+            "idSeguimiento": 205,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-03-02 00:00:00",
+            "num": 39
+        }, {
+            "idSeguimiento": 236,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-10-17 00:00:00",
+            "num": 66
+        }, {
+            "idSeguimiento": 237,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-11-11 00:00:00",
+            "num": 1
+        }, {
+            "idSeguimiento": 240,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-11-10 00:00:00",
+            "num": 54
+        }]}
+        , {
+        "idIncidente": 79,
+        "seguimientos": [{
+            "idSeguimiento": 23,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-11-25 00:00:00",
+            "num": 0
+        }, {
+            "idSeguimiento": 123,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-08-25 00:00:00",
+            "num": 38
+        }, {
+            "idSeguimiento": 160,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-04-17 00:00:00",
+            "num": 51
+        }, {
+            "idSeguimiento": 187,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-04-11 00:00:00",
+            "num": 40
+        }]
+    },{
+        "idIncidente": 82,
+        "seguimientos": [{
+            "idSeguimiento": 32,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-02-07 00:00:00",
+            "num": 11
+        }, {
+            "idSeguimiento": 65,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-04-27 00:00:00",
+            "num": 42
+        }, {
+            "idSeguimiento": 166,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-02-24 00:00:00",
+            "num": 19
+        }, {
+            "idSeguimiento": 196,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-05-11 00:00:00",
+            "num": 35
+        }, {
+            "idSeguimiento": 279,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-10-24 00:00:00",
+            "num": 55
+        }]
+    },{
+        "idIncidente": 84,
+        "seguimientos": [{
+            "idSeguimiento": 51,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-07-26 00:00:00",
+            "num": 56
+        }, {
+            "idSeguimiento": 100,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-01-20 00:00:00",
+            "num": 68
+        }, {
+            "idSeguimiento": 209,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-10-04 00:00:00",
+            "num": 16
+        }, {
+            "idSeguimiento": 214,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-03-06 00:00:00",
+            "num": 1
+        }, {
+            "idSeguimiento": 254,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-11-19 00:00:00",
+            "num": 24
+        }, {
+            "idSeguimiento": 269,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-06-20 00:00:00",
+            "num": 65
+        }]
+    },{
+        "idIncidente": 87,
+        "seguimientos": [{
+            "idSeguimiento": 75,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-02-02 00:00:00",
+            "num": 32
+        }, {
+            "idSeguimiento": 155,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-02-02 00:00:00",
+            "num": 49
+        }]
+    },{
+        "idIncidente": 89,
+        "seguimientos": [{
+            "idSeguimiento": 34,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-08-20 00:00:00",
+            "num": 32
+        }, {
+            "idSeguimiento": 77,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-08-22 00:00:00",
+            "num": 9
+        }, {
+            "idSeguimiento": 105,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-06-01 00:00:00",
+            "num": 39
+        }, {
+            "idSeguimiento": 133,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-12-09 00:00:00",
+            "num": 68
+        }, {
+            "idSeguimiento": 272,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-12-15 00:00:00",
+            "num": 60
+        }, {
+            "idSeguimiento": 292,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-06-12 00:00:00",
+            "num": 5
+        }]
+    },{
+        "idIncidente": 93,
+        "seguimientos": [{
+            "idSeguimiento": 44,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-11-27 00:00:00",
+            "num": 26
+        }, {
+            "idSeguimiento": 79,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-01-16 00:00:00",
+            "num": 25
+        }, {
+            "idSeguimiento": 232,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-09-11 00:00:00",
+            "num": 52
+        }, {
+            "idSeguimiento": 283,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-03-02 00:00:00",
+            "num": 23
+        }]}
+        , {
+        "idIncidente": 94,
+        "seguimientos": [{
+            "idSeguimiento": 24,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-01-26 00:00:00",
+            "num": 20
+        }, {
+            "idSeguimiento": 84,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-03-19 00:00:00",
+            "num": 53
+        }, {
+            "idSeguimiento": 109,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-11-25 00:00:00",
+            "num": 23
+        }, {
+            "idSeguimiento": 115,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-07-24 00:00:00",
+            "num": 2
+        }, {
+            "idSeguimiento": 200,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-01-23 00:00:00",
+            "num": 64
+        }]
+    },{
+        "idIncidente": 98,
+        "seguimientos": [{
+            "idSeguimiento": 16,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-01-28 00:00:00",
+            "num": 21
+        }, {
+            "idSeguimiento": 101,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-04-24 00:00:00",
+            "num": 36
+        }, {
+            "idSeguimiento": 173,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-04-19 00:00:00",
+            "num": 5
+        }, {
+            "idSeguimiento": 270,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-08-14 00:00:00",
+            "num": 50
+        }]}
+        , {
+        "idIncidente": 99,
+        "seguimientos": [{
+            "idSeguimiento": 58,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-04-22 00:00:00",
+            "num": 46
+        }, {
+            "idSeguimiento": 60,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-01-22 00:00:00",
+            "num": 46
+        }, {
+            "idSeguimiento": 297,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-08-18 00:00:00",
+            "num": 57
+        }]}
+        , {
+        "idIncidente": 100,
+        "seguimientos": [{
+            "idSeguimiento": 243,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-05-09 00:00:00",
+            "num": 16
+        }]}
+        , {
+        "idIncidente": 101,
+        "seguimientos": [{
+            "idSeguimiento": 10,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-02-10 00:00:00",
+            "num": 40
+        }, {
+            "idSeguimiento": 63,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-03-04 00:00:00",
+            "num": 21
+        }, {
+            "idSeguimiento": 178,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-03-28 00:00:00",
+            "num": 63
+        }, {
+            "idSeguimiento": 203,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-05-15 00:00:00",
+            "num": 64
+        }, {
+            "idSeguimiento": 204,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-10-27 00:00:00",
+            "num": 49
+        }, {
+            "idSeguimiento": 220,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-11-20 00:00:00",
+            "num": 6
+        }]
+    },{
+        "idIncidente": 108,
+        "seguimientos": [{
+            "idSeguimiento": 171,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-11-04 00:00:00",
+            "num": 48
+        }, {
+            "idSeguimiento": 182,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-06-21 00:00:00",
+            "num": 61
+        }]}
+        , {
+        "idIncidente": 109,
+        "seguimientos": [{
+            "idSeguimiento": 112,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-01-27 00:00:00",
+            "num": 15
+        }, {
+            "idSeguimiento": 281,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-09-28 00:00:00",
+            "num": 65
+        }, {
+            "idSeguimiento": 291,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-04-17 00:00:00",
+            "num": 54
+        }]
+    },{
+        "idIncidente": 111,
+        "seguimientos": [{
+            "idSeguimiento": 106,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-10-23 00:00:00",
+            "num": 10
+        }, {
+            "idSeguimiento": 111,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-11-18 00:00:00",
+            "num": 28
+        }]
+    },{
+        "idIncidente": 114,
+        "seguimientos": [{
+            "idSeguimiento": 180,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-06-22 00:00:00",
+            "num": 64
+        }]}
+        , {
+        "idIncidente": 115,
+        "seguimientos": [{
+            "idSeguimiento": 50,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-07-17 00:00:00",
+            "num": 26
+        }, {
+            "idSeguimiento": 140,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-03-27 00:00:00",
+            "num": 45
+        }, {
+            "idSeguimiento": 162,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-12-20 00:00:00",
+            "num": 22
+        }, {
+            "idSeguimiento": 225,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-01-24 00:00:00",
+            "num": 1
+        }, {
+            "idSeguimiento": 228,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-02-24 00:00:00",
+            "num": 23
+        }, {
+            "idSeguimiento": 277,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-02-27 00:00:00",
+            "num": 2
+        }]
+    },{
+        "idIncidente": 117,
+        "seguimientos": [{
+            "idSeguimiento": 27,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-04-02 00:00:00",
+            "num": 28
+        }, {
+            "idSeguimiento": 151,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-03-12 00:00:00",
+            "num": 23
+        }]}
+        , {
+        "idIncidente": 118,
+        "seguimientos": [{
+            "idSeguimiento": 52,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-03-17 00:00:00",
+            "num": 58
+        }, {
+            "idSeguimiento": 96,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-12-06 00:00:00",
+            "num": 35
+        }, {
+            "idSeguimiento": 107,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-09-10 00:00:00",
+            "num": 32
+        }, {
+            "idSeguimiento": 127,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-04-02 00:00:00",
+            "num": 0
+        }]}
+        , {
+        "idIncidente": 119,
+        "seguimientos": [{
+            "idSeguimiento": 3,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-06-12 00:00:00",
+            "num": 27
+        }, {
+            "idSeguimiento": 118,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-12-20 00:00:00",
+            "num": 9
+        }, {
+            "idSeguimiento": 168,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-03-25 00:00:00",
+            "num": 0
+        }, {
+            "idSeguimiento": 191,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-06-16 00:00:00",
+            "num": 62
+        }, {
+            "idSeguimiento": 285,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-09-15 00:00:00",
+            "num": 20
+        }]}
+        , {
+        "idIncidente": 120,
+        "seguimientos": [{
+            "idSeguimiento": 85,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-09-08 00:00:00",
+            "num": 22
+        }, {
+            "idSeguimiento": 121,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-08-07 00:00:00",
+            "num": 9
+        }, {
+            "idSeguimiento": 129,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-01-19 00:00:00",
+            "num": 54
+        }, {
+            "idSeguimiento": 145,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-01-15 00:00:00",
+            "num": 28
+        }, {
+            "idSeguimiento": 212,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-08-22 00:00:00",
+            "num": 59
+        }]}
+        , {
+        "idIncidente": 121,
+        "seguimientos": [{
+            "idSeguimiento": 94,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-01-19 00:00:00",
+            "num": 56
+        }, {
+            "idSeguimiento": 252,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-10-14 00:00:00",
+            "num": 15
+        }, {
+            "idSeguimiento": 274,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-12-15 00:00:00",
+            "num": 67
+        }]
+    },{
+        "idIncidente": 125,
+        "seguimientos": [{
+            "idSeguimiento": 35,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-01-02 00:00:00",
+            "num": 49
+        }]
+    },{
+        "idIncidente": 128,
+        "seguimientos": [{
+            "idSeguimiento": 43,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-06-17 00:00:00",
+            "num": 19
+        }, {
+            "idSeguimiento": 216,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-10-02 00:00:00",
+            "num": 30
+        }, {
+            "idSeguimiento": 250,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-04-28 00:00:00",
+            "num": 55
+        }]}
+        , {
+        "idIncidente": 129,
+        "seguimientos": [{
+            "idSeguimiento": 18,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-10-10 00:00:00",
+            "num": 58
+        }, {
+            "idSeguimiento": 49,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-08-08 00:00:00",
+            "num": 27
+        }, {
+            "idSeguimiento": 164,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-10-04 00:00:00",
+            "num": 26
+        }, {
+            "idSeguimiento": 217,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-08-02 00:00:00",
+            "num": 50
+        }, {
+            "idSeguimiento": 223,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-06-02 00:00:00",
+            "num": 3
+        }, {
+            "idSeguimiento": 231,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-02-10 00:00:00",
+            "num": 32
+        }, {
+            "idSeguimiento": 241,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-06-13 00:00:00",
+            "num": 2
+        }, {
+            "idSeguimiento": 263,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-02-19 00:00:00",
+            "num": 1
+        }]
+    },{
+        "idIncidente": 131,
+        "seguimientos": [{
+            "idSeguimiento": 12,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-11-16 00:00:00",
+            "num": 54
+        }, {
+            "idSeguimiento": 199,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-01-19 00:00:00",
+            "num": 53
+        }, {
+            "idSeguimiento": 275,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-03-08 00:00:00",
+            "num": 23
+        }]
+    },{
+        "idIncidente": 133,
+        "seguimientos": [{
+            "idSeguimiento": 128,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-06-02 00:00:00",
+            "num": 12
+        }, {
+            "idSeguimiento": 130,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-10-22 00:00:00",
+            "num": 36
+        }, {
+            "idSeguimiento": 150,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-01-15 00:00:00",
+            "num": 69
+        }, {
+            "idSeguimiento": 158,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-12-26 00:00:00",
+            "num": 44
+        }, {
+            "idSeguimiento": 167,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-11-13 00:00:00",
+            "num": 37
+        }, {
+            "idSeguimiento": 172,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-06-20 00:00:00",
+            "num": 62
+        }, {
+            "idSeguimiento": 251,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-02-03 00:00:00",
+            "num": 32
+        }]
+    },{
+        "idIncidente": 136,
+        "seguimientos": [{
+            "idSeguimiento": 42,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-05-24 00:00:00",
+            "num": 43
+        }, {
+            "idSeguimiento": 56,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-05-03 00:00:00",
+            "num": 24
+        }, {
+            "idSeguimiento": 62,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-10-01 00:00:00",
+            "num": 12
+        }, {
+            "idSeguimiento": 120,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-12-24 00:00:00",
+            "num": 62
+        }]
+    },{
+        "idIncidente": 138,
+        "seguimientos": [{
+            "idSeguimiento": 0,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-11-15 00:00:00",
+            "num": 32
+        }, {
+            "idSeguimiento": 93,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-11-06 00:00:00",
+            "num": 11
+        }, {
+            "idSeguimiento": 110,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-12-07 00:00:00",
+            "num": 40
+        }, {
+            "idSeguimiento": 117,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-10-03 00:00:00",
+            "num": 51
+        }, {
+            "idSeguimiento": 179,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-01-14 00:00:00",
+            "num": 64
+        }, {
+            "idSeguimiento": 233,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-02-03 00:00:00",
+            "num": 27
+        }, {
+            "idSeguimiento": 267,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-06-10 00:00:00",
+            "num": 32
+        }]
+    },{
+        "idIncidente": 140,
+        "seguimientos": [{
+            "idSeguimiento": 6,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-05-15 00:00:00",
+            "num": 37
+        }, {
+            "idSeguimiento": 25,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-01-04 00:00:00",
+            "num": 28
+        }, {
+            "idSeguimiento": 131,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-10-14 00:00:00",
+            "num": 11
+        }, {
+            "idSeguimiento": 259,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-09-15 00:00:00",
+            "num": 29
+        }, {
+            "idSeguimiento": 294,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-08-26 00:00:00",
+            "num": 52
+        }, {
+            "idSeguimiento": 299,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-07-19 00:00:00",
+            "num": 29
+        }]}
+        , {
+        "idIncidente": 141,
+        "seguimientos": [{
+            "idSeguimiento": 17,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-12-05 00:00:00",
+            "num": 22
+        }, {
+            "idSeguimiento": 76,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-10-12 00:00:00",
+            "num": 26
+        }, {
+            "idSeguimiento": 185,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-01-18 00:00:00",
+            "num": 52
+        }, {
+            "idSeguimiento": 207,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-09-17 00:00:00",
+            "num": 48
+        }]
+    },{
+        "idIncidente": 143,
+        "seguimientos": [{
+            "idSeguimiento": 152,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-08-06 00:00:00",
+            "num": 22
+        }]}
+        , {
+        "idIncidente": 144,
+        "seguimientos": [{
+            "idSeguimiento": 26,
+            "descripcion": "Se amplía denuncia",
+            "fecha": "2018-08-22 00:00:00",
+            "num": 35
+        }, {
+            "idSeguimiento": 98,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-05-12 00:00:00",
+            "num": 4
+        }, {
+            "idSeguimiento": 99,
+            "descripcion": "Se cita a testigos",
+            "fecha": "2018-10-12 00:00:00",
+            "num": 45
+        }, {
+            "idSeguimiento": 116,
+            "descripcion": "Peritos analizan caso",
+            "fecha": "2018-02-13 00:00:00",
+            "num": 39
+        }, {
+            "idSeguimiento": 142,
+            "descripcion": "Se impone multa",
+            "fecha": "2018-08-21 00:00:00",
+            "num": 57
+        }, {
+            "idSeguimiento": 174,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-01-17 00:00:00",
+            "num": 12
+        }, {
+            "idSeguimiento": 202,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-02-24 00:00:00",
+            "num": 10
+        }, {
+            "idSeguimiento": 278,
+            "descripcion": "Se informa a juzgado",
+            "fecha": "2018-02-13 00:00:00",
+            "num": 67
+        }, {
+            "idSeguimiento": 284,
+            "descripcion": "Se impone condena",
+            "fecha": "2018-12-18 00:00:00",
+            "num": 1
+        }]
+    },{
+        "idIncidente": 146,
+        "seguimientos": [{
+            "idSeguimiento": 78,
+            "descripcion": "Se toman declaraciones",
+            "fecha": "2018-08-07 00:00:00",
+            "num": 36
+        }, {
+            "idSeguimiento": 146,
+            "descripcion": "Pasa de despacho",
+            "fecha": "2018-10-21 00:00:00",
+            "num": 18
+        }, {
+            "idSeguimiento": 156,
+            "descripcion": "Se revisan cámaras de tv",
+            "fecha": "2018-01-09 00:00:00",
+            "num": 42
+        }]
+          }
+]

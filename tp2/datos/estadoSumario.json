@@ -1,0 +1,107 @@
+[
+	{
+		"idEstado" : 0,
+		"Descripcion" : "Iniciado",
+		"idSumario" : [18,24,42,58,63,81,83,84,98,104,110,124,128,142,164,175,183,184
+	]},
+	{
+		"idEstado" : 1,
+		"Descripcion" : "En Proceso",
+		"idSumario" :[ 46, 143, 147, 148
+	]},
+	{
+		"idEstado" : 2,
+		"Descripcion" : "En Investigación",
+		"idSumario" :[ 7, 31, 40, 41, 62, 116, 135, 139, 140, 141]
+	},
+	{
+		"idEstado" : 3,
+		"Descripcion" : "En Recusación",
+		"idSumario" : [11, 61, 74, 91, 108, 131, 153]
+	},
+	{
+		"idEstado" : 4,
+		"Descripcion" : "En Resolución",
+		"idSumario" : [21, 27, 30, 34, 37, 73, 96, 119, 120, 180
+	]},
+	{
+		"idEstado" : 5,
+		"Descripcion" : "En Proceso",
+		"idSumario" : [9, 66, 70, 155, 179, 194, 195
+	]},
+	{
+		"idEstado" : 6,
+		"Descripcion" : "Resuelto",
+		"idSumario" : [5, 15, 26, 149, 186, 198
+	]},
+	{
+		"idEstado" : 7,
+		"Descripcion" : "Impugnado",
+		"idSumario" : [12, 22, 25, 38, 54, 65, 69, 80, 85, 93, 146, 159, 177
+	]},
+	{
+		"idEstado" : 8,
+		"Descripcion" : "Rechazado",
+		"idSumario" : [60, 64, 95, 100, 150, 165
+	]},
+	{
+		"idEstado" : 9,
+		"Descripcion" : "Recusado",
+		"idSumario" : [2, 4, 32, 48, 82, 89, 97, 106, 133, 137, 152, 158, 187, 197
+	]},
+	{
+		"idEstado" : 10,
+		"Descripcion" : "Cancelado",
+		"idSumario" : [36, 53, 88, 101, 112, 123, 125, 126, 132, 145, 178
+	]},
+	{
+		"idEstado" : 11,
+		"Descripcion" : "Derivado a Fiscal",
+		"idSumario" : [13, 14, 75, 77, 86, 113, 118, 122, 136, 144, 157, 169, 185
+	]},
+	{
+		"idEstado" : 12,
+		"Descripcion" : "Interrumpido",
+		"idSumario" : [23,71,102,170,171,182,199
+	]},
+	{
+		"idEstado" : 13,
+		"Descripcion" : "Juez de vacaciones",
+		"idSumario" : [6,20,68,127,160,166,181,190
+	]},
+	{
+		"idEstado" : 14,
+		"Descripcion" : "Expediente extraviado",
+		"idSumario" : [45, 103, 105, 121, 151, 156, 192
+	]},
+	{
+		"idEstado" : 15,
+		"Descripcion" : "Oficial retirado",
+		"idSumario" : [1, 10, 43, 56, 57, 109, 114, 167, 193
+	]},
+	{
+		"idEstado" : 16,
+		"Descripcion" : "Testigo arrepentido",
+		"idSumario" : [50, 51, 94, 99, 129, 154, 161, 173, 189
+	]},
+	{
+		"idEstado" : 17,
+		"Descripcion" : "Testigo desaparecido",
+		"idSumario" : [0, 28, 33, 49, 55, 59, 72, 87, 90, 107, 138, 172, 174
+	]},
+	{
+		"idEstado" : 18,
+		"Descripcion" : "Testigo difunto",
+		"idSumario" : [35, 39, 44, 78, 130, 188, 196
+	]},
+	{
+		"idEstado" : 19,
+		"Descripcion" : "Oficial difunto",
+		"idSumario" : [3, 17, 29, 52, 76, 92, 111, 117, 162, 191
+	]},
+	{
+		"idEstado" : 20,
+		"Descripcion" : "Delegado a Juzgado",
+		"idSumario" : [8, 16, 19, 47, 67, 79, 115, 134, 163, 168, 176
+	]}
+]

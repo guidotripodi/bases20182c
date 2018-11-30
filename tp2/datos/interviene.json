@@ -1,0 +1,251 @@
+num,idIncidente,Rol
+0,27,"Designado en manzana"
+0,55,"Guardia en comisaría"
+0,90,Patrullero
+0,99,"Seguridad asignada"
+0,101,"Designado en manzana"
+0,102,"Guardia en comisaría"
+0,136,"Designado en manzana"
+1,20,"Oficial de civil"
+1,35,"Guardia en comisaría"
+1,55,Patrullero
+1,58,"Seguridad asignada"
+1,102,"Designado en manzana"
+1,105,"Guardia en comisaría"
+2,11,Investigador
+2,53,"Oficial de civil"
+2,121,"Designado en manzana"
+3,4,"Designado en manzana"
+3,14,"Guardia en comisaría"
+3,80,"Oficial de civil"
+4,52,Patrullero
+4,84,Patrullero
+4,86,"Guardia en comisaría"
+4,87,Investigador
+4,111,"Seguridad asignada"
+5,116,"Guardia en comisaría"
+5,127,"Seguridad asignada"
+6,28,"Guardia en comisaría"
+6,72,Patrullero
+6,97,Patrullero
+6,110,Patrullero
+6,134,Investigador
+7,19,"Guardia en comisaría"
+7,65,Patrullero
+7,80,"Oficial de civil"
+7,81,Investigador
+7,85,"Guardia en comisaría"
+7,112,Patrullero
+7,115,"Guardia en comisaría"
+7,120,"Seguridad asignada"
+8,1,"Guardia en comisaría"
+8,64,Investigador
+8,106,"Oficial de civil"
+8,114,"Guardia en comisaría"
+8,126,Investigador
+9,75,"Guardia en comisaría"
+9,135,"Guardia en comisaría"
+10,19,Investigador
+10,48,"Oficial de civil"
+10,126,Patrullero
+10,135,"Oficial de civil"
+11,29,"Designado en manzana"
+11,103,"Guardia en comisaría"
+11,110,Patrullero
+12,14,Investigador
+12,33,Investigador
+12,60,"Oficial de civil"
+12,63,"Designado en manzana"
+12,75,Patrullero
+13,116,Investigador
+14,43,Investigador
+14,67,Investigador
+14,87,"Seguridad asignada"
+15,20,Patrullero
+15,94,"Designado en manzana"
+15,102,"Oficial de civil"
+15,133,"Oficial de civil"
+16,48,"Oficial de civil"
+16,73,"Oficial de civil"
+16,141,Investigador
+17,1,"Oficial de civil"
+17,9,Patrullero
+18,63,"Seguridad asignada"
+18,94,"Oficial de civil"
+18,96,Patrullero
+18,134,Investigador
+19,3,"Guardia en comisaría"
+19,5,Investigador
+19,10,Investigador
+19,96,"Designado en manzana"
+21,6,Patrullero
+21,13,Patrullero
+21,20,"Designado en manzana"
+21,21,"Oficial de civil"
+21,103,"Guardia en comisaría"
+21,122,"Seguridad asignada"
+22,15,"Seguridad asignada"
+22,38,"Designado en manzana"
+22,106,"Guardia en comisaría"
+22,145,Investigador
+23,40,"Guardia en comisaría"
+23,74,"Seguridad asignada"
+24,37,Patrullero
+24,116,"Seguridad asignada"
+25,4,"Oficial de civil"
+25,14,"Seguridad asignada"
+25,35,"Designado en manzana"
+25,112,"Guardia en comisaría"
+25,132,Patrullero
+25,142,"Guardia en comisaría"
+26,57,"Guardia en comisaría"
+26,71,Patrullero
+26,73,Patrullero
+27,79,"Seguridad asignada"
+27,88,"Seguridad asignada"
+27,111,Patrullero
+27,117,"Designado en manzana"
+28,11,"Seguridad asignada"
+28,78,Patrullero
+28,101,Investigador
+29,0,"Guardia en comisaría"
+29,32,"Seguridad asignada"
+29,74,"Oficial de civil"
+29,88,Investigador
+30,36,"Oficial de civil"
+30,53,"Designado en manzana"
+30,114,"Designado en manzana"
+30,121,"Guardia en comisaría"
+31,23,"Oficial de civil"
+31,56,"Designado en manzana"
+31,67,Investigador
+31,100,"Oficial de civil"
+31,108,"Seguridad asignada"
+31,126,"Designado en manzana"
+32,23,Patrullero
+33,30,"Designado en manzana"
+33,55,Investigador
+34,5,Investigador
+34,22,Investigador
+34,28,"Designado en manzana"
+34,34,"Oficial de civil"
+34,57,Investigador
+34,72,"Oficial de civil"
+35,35,"Oficial de civil"
+35,36,"Guardia en comisaría"
+35,85,"Guardia en comisaría"
+35,99,"Guardia en comisaría"
+36,1,"Guardia en comisaría"
+36,88,"Oficial de civil"
+37,34,"Designado en manzana"
+37,74,"Guardia en comisaría"
+39,20,Investigador
+39,87,"Designado en manzana"
+39,135,"Designado en manzana"
+39,148,Patrullero
+40,28,Investigador
+40,29,Patrullero
+40,30,Investigador
+40,139,"Guardia en comisaría"
+41,82,"Oficial de civil"
+41,106,"Seguridad asignada"
+42,15,"Designado en manzana"
+42,17,Patrullero
+42,36,"Designado en manzana"
+42,61,"Seguridad asignada"
+42,76,"Guardia en comisaría"
+42,78,"Oficial de civil"
+43,68,Patrullero
+43,98,"Guardia en comisaría"
+43,105,"Oficial de civil"
+43,110,Investigador
+43,118,Investigador
+43,125,"Oficial de civil"
+43,138,"Guardia en comisaría"
+44,5,"Oficial de civil"
+44,28,"Designado en manzana"
+44,51,Investigador
+44,55,Investigador
+44,65,"Seguridad asignada"
+44,85,"Seguridad asignada"
+44,128,"Oficial de civil"
+44,146,"Seguridad asignada"
+45,68,"Designado en manzana"
+45,87,"Oficial de civil"
+46,25,"Oficial de civil"
+46,50,Patrullero
+46,72,"Designado en manzana"
+46,146,"Designado en manzana"
+47,132,"Seguridad asignada"
+48,38,"Guardia en comisaría"
+48,113,"Seguridad asignada"
+49,10,Investigador
+49,24,"Seguridad asignada"
+49,39,Patrullero
+49,94,Patrullero
+49,130,Patrullero
+49,134,Investigador
+50,13,"Oficial de civil"
+50,41,Investigador
+50,95,"Guardia en comisaría"
+50,114,"Seguridad asignada"
+50,148,"Seguridad asignada"
+52,30,"Guardia en comisaría"
+53,13,"Designado en manzana"
+53,42,"Oficial de civil"
+53,79,"Oficial de civil"
+53,94,"Oficial de civil"
+54,1,"Oficial de civil"
+54,11,"Guardia en comisaría"
+54,42,"Seguridad asignada"
+54,111,"Seguridad asignada"
+54,112,"Guardia en comisaría"
+55,13,Patrullero
+55,22,Investigador
+55,75,"Oficial de civil"
+55,89,"Guardia en comisaría"
+55,94,"Oficial de civil"
+55,114,"Guardia en comisaría"
+56,29,"Seguridad asignada"
+56,43,"Oficial de civil"
+56,48,Patrullero
+56,69,"Guardia en comisaría"
+56,77,Patrullero
+56,114,Investigador
+56,132,"Oficial de civil"
+57,60,Patrullero
+58,13,Investigador
+58,113,"Guardia en comisaría"
+58,116,"Guardia en comisaría"
+58,135,"Guardia en comisaría"
+59,32,"Seguridad asignada"
+59,68,Patrullero
+60,1,"Seguridad asignada"
+60,85,"Seguridad asignada"
+60,136,"Designado en manzana"
+61,55,Investigador
+61,118,Investigador
+61,145,Patrullero
+62,8,"Designado en manzana"
+62,106,Investigador
+63,73,"Designado en manzana"
+64,70,Patrullero
+65,30,"Oficial de civil"
+66,11,"Designado en manzana"
+66,69,Patrullero
+66,104,"Guardia en comisaría"
+66,105,Investigador
+66,113,"Seguridad asignada"
+67,5,"Seguridad asignada"
+67,23,"Guardia en comisaría"
+67,117,Patrullero
+68,54,"Oficial de civil"
+68,82,"Guardia en comisaría"
+68,88,Investigador
+69,16,Investigador
+69,34,"Seguridad asignada"
+69,55,"Designado en manzana"
+69,58,"Designado en manzana"
+69,73,"Seguridad asignada"
+69,88,"Seguridad asignada"
+69,90,"Seguridad asignada"
