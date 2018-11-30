@@ -1,0 +1,1045 @@
+[{
+        "dni": 42,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 46,
+            "fecha": "2017-01-18 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 42,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 60,
+            "fecha": "2017-04-27 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 42,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 74,
+            "fecha": "2017-09-18 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 19,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 19,
+            "fecha": "2017-12-23 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 19,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 74,
+            "fecha": "2017-09-18 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 96,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 90,
+            "fecha": "2017-07-18 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 97,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 24,
+            "fecha": "2017-11-04 00:00:00",
+            "descripcion": "null"}]
+        }, {
+            "dni": 97,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 27,
+            "fecha": "2017-09-28 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 0,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 81,
+            "fecha": "2017-02-09 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 28,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 70,
+            "fecha": "2017-04-24 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 9,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 34,
+            "fecha": "2017-04-10 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 9,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 91,
+            "fecha": "2017-10-16 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 23,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 46,
+            "fecha": "2017-01-18 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 23,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 67,
+            "fecha": "2017-12-28 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 23,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 139,
+            "fecha": "2017-08-16 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 23,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 148,
+            "fecha": "2017-08-29 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 47,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 97,
+            "fecha": "2017-08-18 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 30,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 17,
+            "fecha": "2017-11-13 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 30,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 129,
+            "fecha": "2017-05-10 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 34,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 28,
+            "fecha": "2017-01-18 00:00:00",
+            "descripcion": "null"}]
+        }, {
+            "dni": 34,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 119,
+            "fecha": "2017-07-10 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 46,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 0,
+            "fecha": "2017-07-12 00:00:00",
+            "descripcion": "null"}]
+        }, {
+             "dni": 46,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 116,
+            "fecha": "2017-12-14 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 95,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 21,
+            "fecha": "2017-08-04 00:00:00",
+            "descripcion": "null"}]
+        }, {
+            "dni": 95,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 37,
+            "fecha": "2017-11-29 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 95,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 89,
+            "fecha": "2017-12-18 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 95,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 144,
+            "fecha": "2017-07-16 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 35,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 110,
+            "fecha": "2017-09-13 00:00:00",
+            "descripcion": "null"}]
+        }, { "dni": 35,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 147,
+            "fecha": "2017-02-01 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 53,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 42,
+            "fecha": "2017-12-19 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 5,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 88,
+            "fecha": "2017-04-29 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 24,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 77,
+            "fecha": "2017-10-06 00:00:00",
+            "descripcion": "null"}]
+        }, { "dni": 24,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 85,
+            "fecha": "2017-04-08 00:00:00",
+            "descripcion": "null"}]
+        }, {
+             "dni": 24,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 97,
+            "fecha": "2017-08-18 00:00:00",
+            "descripcion": "null"}]
+        }, { "dni": 24,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 113,
+            "fecha": "2017-05-27 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 18,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 68,
+            "fecha": "2017-05-27 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 18,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 139,
+            "fecha": "2017-08-16 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 50,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 128,
+            "fecha": "2017-10-30 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 50,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 148,
+            "fecha": "2017-08-29 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 55,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 18,
+            "fecha": "2017-11-01 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 55,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 123,
+            "fecha": "2017-03-13 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 55,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 130,
+            "fecha": "2017-03-25 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 8,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 30,
+            "fecha": "2017-05-21 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 8,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 118,
+            "fecha": "2017-02-25 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 31,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 11,
+            "fecha": "2017-01-30 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 31,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 130,
+            "fecha": "2017-03-25 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 7,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 50,
+            "fecha": "2017-12-02 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 7,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 54,
+            "fecha": "2017-12-19 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 49,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 114,
+            "fecha": "2017-07-11 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 49,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 144,
+            "fecha": "2017-07-16 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 49,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 146,
+            "fecha": "2017-10-25 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 25,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 40,
+            "fecha": "2017-05-22 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 25,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 60,
+            "fecha": "2017-04-27 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 25,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 106,
+            "fecha": "2017-01-10 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 98,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 45,
+            "fecha": "2017-02-01 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 43,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 5,
+            "fecha": "2017-08-20 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 43,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 75,
+            "fecha": "2017-12-04 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 4,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 127,
+            "fecha": "2017-07-11 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 11,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 67,
+            "fecha": "2017-12-28 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 11,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 76,
+            "fecha": "2017-03-29 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 11,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 97,
+            "fecha": "2017-08-18 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 72,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 99,
+            "fecha": "2017-07-03 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 21,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 110,
+            "fecha": "2017-09-13 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 21,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 111,
+            "fecha": "2017-04-20 00:00:00",
+            "descripcion": "null"}]
+        }, {
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 129,
+            "fecha": "2017-05-10 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 29,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 10,
+            "fecha": "2017-09-20 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 29,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 28,
+            "fecha": "2017-01-18 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 29,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 36,
+            "fecha": "2017-07-19 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 29,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 81,
+            "fecha": "2017-02-09 00:00:00",
+            "descripcion": "null"}]
+        }, {  
+        "dni": 86,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 71,
+            "fecha": "2017-08-22 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 86,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 134,
+            "fecha": "2017-12-18 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 48,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 99,
+            "fecha": "2017-07-03 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 88,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 86,
+            "fecha": "2017-09-26 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 88,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 99,
+            "fecha": "2017-07-03 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 88,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 140,
+            "fecha": "2017-02-17 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 94,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 1,
+            "fecha": "2017-02-17 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 94,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 47,
+            "fecha": "2017-12-11 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 94,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 65,
+            "fecha": "2017-04-14 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 12,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 16,
+            "fecha": "2017-12-19 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 12,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 30,
+            "fecha": "2017-05-21 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 12,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 49,
+            "fecha": "2017-03-29 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 12,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 50,
+            "fecha": "2017-12-02 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 12,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 111,
+            "fecha": "2017-04-20 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 17,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 12,
+            "fecha": "2017-04-13 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 17,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 66,
+            "fecha": "2017-04-13 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 17,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 126,
+            "fecha": "2017-12-15 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 54,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 73,
+            "fecha": "2017-03-30 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 54,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 130,
+            "fecha": "2017-03-25 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 79,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 0,
+            "fecha": "2017-07-12 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 79,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 8,
+            "fecha": "2017-11-28 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 89,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 0,
+            "fecha": "2017-07-12 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 89,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 30,
+            "fecha": "2017-05-21 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 89,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 37,
+            "fecha": "2017-11-29 00:00:00",
+            "descripcion": "null"}]
+        }, {
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 85,
+            "fecha": "2017-04-08 00:00:00",
+            "descripcion": "null"}]
+        }, {
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 130,
+            "fecha": "2017-03-25 00:00:00",
+            "descripcion": "null"}]
+        }, {
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 133,
+            "fecha": "2017-02-08 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 58,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 56,
+            "fecha": "2017-08-30 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 58,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 137,
+            "fecha": "2017-05-01 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 73,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 60,
+            "fecha": "2017-04-27 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 73,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 61,
+            "fecha": "2017-10-21 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 73,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 117,
+            "fecha": "2017-11-09 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 33,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 12,
+            "fecha": "2017-04-13 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 33,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 44,
+            "fecha": "2017-11-28 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 33,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 59,
+            "fecha": "2017-04-29 00:00:00",
+            "descripcion": "null"}]
+        }, {
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 121,
+            "fecha": "2017-03-06 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 85,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 36,
+            "fecha": "2017-07-19 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 85,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 115,
+            "fecha": "2017-10-24 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 87,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 27,
+            "fecha": "2017-09-28 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 87,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 77,
+            "fecha": "2017-10-06 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 87,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 104,
+            "fecha": "2017-11-02 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 39,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 23,
+            "fecha": "2017-10-21 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 39,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 101,
+            "fecha": "2017-11-09 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 39,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 103,
+            "fecha": "2017-06-08 00:00:00",
+            "descripcion": "null"}]
+        }, {
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 108,
+            "fecha": "2017-11-23 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 90,
+             "rol": "Víctima",
+             "incidentes":[{
+            "idIncidente": 47,
+            "fecha": "2017-12-11 00:00:00",
+            "descripcion": "null"]}
+        }, {"dni": 90,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 67,
+            "fecha": "2017-12-28 00:00:00",
+            "descripcion": "null"}]
+        }, {     
+        "dni": 93,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 1,
+            "fecha": "2017-02-17 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 93,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 13,
+            "fecha": "2017-12-02 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 93,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 25,
+            "fecha": "2017-01-18 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 93,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 80,
+            "fecha": "2017-05-11 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 59,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 95,
+            "fecha": "2017-02-01 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 78,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 3,
+            "fecha": "2017-02-28 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 78,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 90,
+            "fecha": "2017-07-18 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 20,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 17,
+            "fecha": "2017-11-13 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 20,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 51,
+            "fecha": "2017-06-16 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 20,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 88,
+            "fecha": "2017-04-29 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 80,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 9,
+            "fecha": "2017-05-18 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 80,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 31,
+            "fecha": "2017-11-09 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 80,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 133,
+            "fecha": "2017-02-08 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 81,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 98,
+            "fecha": "2017-10-29 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 81,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 99,
+            "fecha": "2017-07-03 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 10,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 93,
+            "fecha": "2017-02-22 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 69,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 0,
+            "fecha": "2017-07-12 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 75,
+            "rol": "Víctima",
+            "incidentes":[{
+              "idIncidente": 123,
+            "fecha": "2017-03-13 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 15,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 132,
+            "fecha": "2017-06-29 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 62,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 7,
+            "fecha": "2017-06-08 00:00:00",
+            "descripcion": "null"}]
+        }, { "dni": 62,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 12,
+            "fecha": "2017-04-13 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 66,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 15,
+            "fecha": "2017-10-09 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 66,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 45,
+            "fecha": "2017-02-01 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 70,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 109,
+            "fecha": "2017-03-02 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 70,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 148,
+            "fecha": "2017-08-29 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 74,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 38,
+            "fecha": "2017-04-06 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 74,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 46,
+            "fecha": "2017-01-18 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 74,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 103,
+            "fecha": "2017-06-08 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 74,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 106,
+            "fecha": "2017-01-10 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 27,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 1,
+            "fecha": "2017-02-17 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 27,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 114,
+            "fecha": "2017-07-11 00:00:00",
+            "descripcion": "null"}]
+        }
+    , {
+        "dni": 22,
+            "rol": "Sospechoso",
+            "incidentes":[{
+            "idIncidente": 69,
+            "fecha": "2017-05-16 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 22,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 115,
+            "fecha": "2017-10-24 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 3,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 55,
+            "fecha": "2017-03-24 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 3,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 70,
+            "fecha": "2017-04-24 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 3,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 88,
+            "fecha": "2017-04-29 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 3,
+            "rol": "Testigo",
+            "incidentes":[{
+            "idIncidente": 112,
+            "fecha": "2017-09-18 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 3,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 127,
+            "fecha": "2017-07-11 00:00:00",
+            "descripcion": "null"}]
+        }, {
+        "dni": 13,
+            "rol": "Víctima",
+            "incidentes":[{
+            "idIncidente": 31,
+            "fecha": "2017-11-09 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 13,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 57,
+            "fecha": "2017-01-14 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 13,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 70,
+            "fecha": "2017-04-24 00:00:00",
+            "descripcion": "null"}]
+        }, {"dni": 13,
+            "rol": "Instigador",
+            "incidentes":[{
+            "idIncidente": 117,
+            "fecha": "2017-11-09 00:00:00",
+            "descripcion": "null"}]
+        }
+]
