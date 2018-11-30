@@ -46,7 +46,7 @@ const createAllFiles = () => {
     createAndLoadCollection("estadoSumario", "./datos/estadoSumario.json")
     createAndLoadCollection("habilidadSuperheroe", "./datos/habilidad Superheroe.json")
     createAndLoadCollection('incidentes', './datos/Incidentes.json')
-    // createAndLoadCollection('interviene', './datos/interviene.json')
+    createAndLoadCollection('interviene', './datos/interviene.json')
     createAndLoadCollection('involucrado', './datos/involucrado.json')
     createAndLoadCollection("oficiales", "./datos/Oficiales.json")
     createAndLoadCollection('organizacionesdelictivas', './datos/OrganizacionesDelictivas.json')
