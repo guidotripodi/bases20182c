@@ -70,8 +70,6 @@ END;//
 
 
 #INCIDENTE:
-select * from Incidente;//
-
 
 drop procedure if exists generarIncidentes; //
 CREATE PROCEDURE generarIncidentes(out v_incidentes varchar(20000), in minNum int, in maxNum int)
@@ -85,9 +83,10 @@ declare o_idIncidente INT;
 declare o_idDireccion INT;
 declare o_Numero INT;
 declare o_Fecha datetime;
+declare o_descripcion varchar(45);
 
 declare cursorIncidentes cursor for 
-select idIncidente,idDireccion,Numero,Fecha
+select idIncidente,idDireccion,Numero,Fecha,descripcion
 from Incidente
 where idIncidente between minNum and maxNum
 order by idIncidente;
@@ -96,7 +95,7 @@ DECLARE CONTINUE HANDLER FOR NOT FOUND SET v_finished = 1;
 set v_incidentes = "[";
 OPEN cursorIncidentes;
 armarIncidentes: LOOP
-  FETCH cursorIncidentes INTO o_idIncidente,o_idDireccion,o_Numero,o_Fecha; 
+  FETCH cursorIncidentes INTO o_idIncidente,o_idDireccion,o_Numero,o_Fecha,o_descripcion; 
   IF v_finished = 1 THEN LEAVE armarIncidentes; END IF;  
   call generarSeguimientoParaIncidente(@o_seguimientos,o_idIncidente);
   call generarParticipaParaIncidente (@o_participaciones,o_idIncidente);
@@ -105,6 +104,7 @@ armarIncidentes: LOOP
   set j_incidente = CONCAT(j_incidente,'"idDireccion": ',o_idDireccion,',');
   set j_incidente = CONCAT(j_incidente,'"interviene": ',o_Numero,',');
   set j_incidente = CONCAT(j_incidente,'"fecha": "',o_Fecha,'",');
+  set j_incidente = CONCAT(j_incidente,'"descripcion": "',o_descripcion,'",');
   set j_incidente = CONCAT(j_incidente,'"seguimientos": ',@o_seguimientos,',');
   set j_incidente = CONCAT(j_incidente,'"participan": ',@o_participaciones);
   set j_incidente = CONCAT(j_incidente,"}");
