@@ -37,27 +37,68 @@ const createDatabaseTP = () => {
     )
 }
 const createAllFiles = () => {
-    createAndLoadCollection("asuntosInternos", "./datos/asuntosInternos.json")
-    createAndLoadCollection("barrio", "./datos/barrio.json")
-    createAndLoadCollection("calle", "./datos/calle.json")
-    createAndLoadCollection("cerrado", "./datos/cerrado.json")
-    createAndLoadCollection("departamento", "./datos/Departamento.json")
-    createAndLoadCollection("designacion", "./datos/designacion.json")
-    createAndLoadCollection("estadoSumario", "./datos/estadoSumario.json")
-    createAndLoadCollection("habilidadSuperheroe", "./datos/habilidad Superheroe.json")
-    createAndLoadCollection('incidentes', './datos/Incidentes.json')
-    createAndLoadCollection('interviene', './datos/interviene.json')
-    createAndLoadCollection('involucrado', './datos/involucrado.json')
-    createAndLoadCollection("oficiales", "./datos/Oficiales.json")
-    createAndLoadCollection('organizacionesdelictivas', './datos/OrganizacionesDelictivas.json')
-    createAndLoadCollection("pendiente", "./datos/pendiente.json")
-    createAndLoadCollection("persona", "./datos/persona.json")
-    createAndLoadCollection("proceso", "./datos/proceso.json")
-    createAndLoadCollection("seguimiento", "./datos/seguimiento.json")
-    createAndLoadCollection("sumario", "./datos/sumario.json")
-    createAndLoadCollection("superheroe", "./datos/superheroe.json")
-    createAndLoadCollection("tipodesignacion", "./datos/tipodesignacion.json")
-    createAndLoadCollection("vinculo", "./datos/vinculo.json")
+    createAndLoadCollection("asuntosInternos", "./datos/asuntosInternos.json").then(
+        ()=> createAndLoadCollection("barrio", "./datos/barrio.json"),
+        err => console.log(err)
+    ).then(
+        ()=> createAndLoadCollection("calle", "./datos/calle.json"),
+        err => console.log(err)
+    ).then(
+        ()=> createAndLoadCollection("cerrado", "./datos/cerrado.json"),
+        err => console.log(err)
+    
+    ).then(
+        ()=> createAndLoadCollection("departamento", "./datos/Departamento.json"),
+        err => console.log(err)
+    ).then(
+        ()=> createAndLoadCollection("designacion", "./datos/designacion.json"),
+        err => console.log(err)
+    ).then(
+        ()=> createAndLoadCollection("estadoSumario", "./datos/estadoSumario.json"),
+        err => console.log(err)
+    ).then(
+        ()=> createAndLoadCollection("habilidadSuperheroe", "./datos/habilidad Superheroe.json"),
+        err => console.log(err)
+    ).then(
+        ()=> createAndLoadCollection('incidentes', './datos/Incidentes.json'),
+        err => console.log(err)
+    ).then(
+        ()=> createAndLoadCollection('interviene', './datos/interviene.json'),
+        err => console.log(err)
+    ).then(
+        ()=> createAndLoadCollection('involucrado', './datos/involucrado.json'),
+        err => console.log(err)
+    ).then(
+        ()=> createAndLoadCollection("oficiales", "./datos/Oficiales.json"),
+        err => console.log(err)
+    ).then(
+        ()=> createAndLoadCollection('organizacionesdelictivas', './datos/OrganizacionesDelictivas.json'),
+        err => console.log(err)
+    ).then(
+        ()=> createAndLoadCollection("pendiente", "./datos/pendiente.json"),
+        err => console.log(err)
+    ).then(
+        ()=> createAndLoadCollection("persona", "./datos/persona.json"),
+        err => console.log(err)
+    ).then(
+        ()=> createAndLoadCollection("proceso", "./datos/proceso.json"),
+        err => console.log(err)
+    ).then(
+        ()=> createAndLoadCollection("seguimiento", "./datos/seguimiento.json"),
+        err => console.log(err)
+    ).then(
+        ()=> createAndLoadCollection("sumario", "./datos/sumario.json"),
+        err => console.log(err)
+    ).then(
+        ()=> createAndLoadCollection("superheroe", "./datos/superheroe.json"),
+        err => console.log(err)
+    ).then(
+        ()=> createAndLoadCollection("tipodesignacion", "./datos/tipodesignacion.json"),
+        err => console.log(err)
+    ).then(
+    ()=> createAndLoadCollection("vinculo", "./datos/vinculo.json"),
+        err => console.log(err)
+    )
 }
 
 
@@ -66,13 +107,10 @@ const createAndLoadCollection = (collectionName, filename) => {
     const jsonContent = JSON.parse(content);
     collection = db.collection(collectionName)
 
-    collection.create().then(
+    return collection.create().then(
         () => {
-            collection.import(jsonContent).then(
-                result => console.log('Import complete:'),
-                err => console.error('Import failed:'+err)
-            );
+            return collection.import(jsonContent)
         },
         err => console.error('Failed to create collection:', err)
-    );
+    )
 }
