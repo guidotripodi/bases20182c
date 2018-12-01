@@ -184,7 +184,7 @@ armarSuperheroes: LOOP
   set j_superheroe = CONCAT(j_superheroe,'"archienemigos": ',@o_archienemigos,',');
   set j_superheroe = CONCAT(j_superheroe,'"contacta": ',@o_contacta,',');
   set j_superheroe = CONCAT(j_superheroe,'"conocidos": ',@o_conocido,',');
-  set j_superheroe = CONCAT(j_superheroe,'"idHabilidad": ',@o_habilidades,',');
+  set j_superheroe = CONCAT(j_superheroe,'"habilidades": ',@o_habilidades,',');
   set j_superheroe = CONCAT(j_superheroe,'"incidentes": ',@o_incidentes,',');
   set j_superheroe = CONCAT(j_superheroe,"}");
 
