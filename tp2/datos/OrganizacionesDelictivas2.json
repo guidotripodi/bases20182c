@@ -1,0 +1,1231 @@
+[{
+	"idOrganizacionDelictiva": 0,
+	"Nombre": "Cosa Nostra",
+	"personas": [{
+		"dni": 42,
+		"idDireccion": "14",
+		"rolInvolucrado": [{
+			"idIncidente": 46,
+			"fecha": "2017-01-18 00:00:00",
+			"descripcion": "Venta ilegal",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 60,
+			"fecha": "2017-04-27 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 74,
+			"fecha": "2017-09-18 00:00:00",
+			"descripcion": "Amenaza de bomba",
+			"rol": "Testigo"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 1,
+	"Nombre": "Camorra",
+	"personas": [{
+		"dni": 19,
+		"idDireccion": "36",
+		"rolInvolucrado": [{
+			"idIncidente": 19,
+			"fecha": "2017-12-23 00:00:00",
+			"descripcion": "No especificado",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 74,
+			"fecha": "2017-09-18 00:00:00",
+			"descripcion": "Amenaza de bomba",
+			"rol": "Testigo"
+		}]
+	}, {
+		"dni": 96,
+		"idDireccion": "36",
+		"rolInvolucrado": [{
+			"idIncidente": 90,
+			"fecha": "2017-07-18 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Instigador"
+		}]
+	}, {
+		"dni": 97,
+		"idDireccion": "38",
+		"rolInvolucrado": [{
+			"idIncidente": 24,
+			"fecha": "2017-11-04 00:00:00",
+			"descripcion": "Estafa",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 27,
+			"fecha": "2017-09-28 00:00:00",
+			"descripcion": "Estafa",
+			"rol": "Testigo"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 2,
+	"Nombre": "Ndrangheta",
+	"personas": [{
+		"dni": 0,
+		"idDireccion": "4",
+		"rolInvolucrado": [{
+			"idIncidente": 81,
+			"fecha": "2017-02-09 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Instigador"
+		}]
+	}, {
+		"dni": 28,
+		"idDireccion": "54",
+		"rolInvolucrado": [{
+			"idIncidente": 70,
+			"fecha": "2017-04-24 00:00:00",
+			"descripcion": "Amenaza de bomba",
+			"rol": "Sospechoso"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 3,
+	"Nombre": "Sacra corona unita",
+	"personas": [{
+		"dni": 9,
+		"idDireccion": "37",
+		"rolInvolucrado": [{
+			"idIncidente": 34,
+			"fecha": "2017-04-10 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 91,
+			"fecha": "2017-10-16 00:00:00",
+			"descripcion": "Juego ilegal",
+			"rol": "Testigo"
+		}]
+	}, {
+		"dni": 23,
+		"idDireccion": "26",
+		"rolInvolucrado": [{
+			"idIncidente": 46,
+			"fecha": "2017-01-18 00:00:00",
+			"descripcion": "Venta ilegal",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 67,
+			"fecha": "2017-12-28 00:00:00",
+			"descripcion": "Amenaza de bomba",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 139,
+			"fecha": "2017-08-16 00:00:00",
+			"descripcion": "Violencia callejera",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 148,
+			"fecha": "2017-08-29 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Instigador"
+		}]
+	}, {
+		"dni": 47,
+		"idDireccion": "50",
+		"rolInvolucrado": []
+	}]
+}, {
+	"idOrganizacionDelictiva": 4,
+	"Nombre": "Familia Bonano",
+	"personas": [{
+		"dni": 41,
+		"idDireccion": "6",
+		"rolInvolucrado": [{
+			"idIncidente": 97,
+			"fecha": "2017-08-18 00:00:00",
+			"descripcion": "Juego ilegal",
+			"rol": "Víctima"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 5,
+	"Nombre": "Familia Colombo",
+	"personas": [{
+		"dni": 30,
+		"idDireccion": "23",
+		"rolInvolucrado": [{
+			"idIncidente": 17,
+			"fecha": "2017-11-13 00:00:00",
+			"descripcion": "Hurto",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 129,
+			"fecha": "2017-05-10 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Víctima"
+		}]
+	}, {
+		"dni": 34,
+		"idDireccion": "10",
+		"rolInvolucrado": []
+	}]
+}, {
+	"idOrganizacionDelictiva": 6,
+	"Nombre": "Familia Genovese",
+	"personas": [{
+		"dni": 36,
+		"idDireccion": "13",
+		"rolInvolucrado": [{
+			"idIncidente": 28,
+			"fecha": "2017-01-18 00:00:00",
+			"descripcion": "Explosión",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 119,
+			"fecha": "2017-07-10 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Instigador"
+		}]
+	}, {
+		"dni": 46,
+		"idDireccion": "12",
+		"rolInvolucrado": [{
+			"idIncidente": 0,
+			"fecha": "2017-07-12 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 116,
+			"fecha": "2017-12-14 00:00:00",
+			"descripcion": "Alteración del orden público",
+			"rol": "Sospechoso"
+		}]
+	}, {
+		"dni": 95,
+		"idDireccion": "23",
+		"rolInvolucrado": [{
+			"idIncidente": 21,
+			"fecha": "2017-08-04 00:00:00",
+			"descripcion": "Explosión",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 37,
+			"fecha": "2017-11-29 00:00:00",
+			"descripcion": "Vagancia",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 89,
+			"fecha": "2017-12-18 00:00:00",
+			"descripcion": "Juego ilegal",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 144,
+			"fecha": "2017-07-16 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Instigador"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 7,
+	"Nombre": "Familia Gambino",
+	"personas": [{
+		"dni": 35,
+		"idDireccion": "15",
+		"rolInvolucrado": [{
+			"idIncidente": 110,
+			"fecha": "2017-09-13 00:00:00",
+			"descripcion": "Ruidos molestos",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 147,
+			"fecha": "2017-02-01 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Víctima"
+		}]
+	}, {
+		"dni": 53,
+		"idDireccion": "61",
+		"rolInvolucrado": [{
+			"idIncidente": 42,
+			"fecha": "2017-12-19 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Sospechoso"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 8,
+	"Nombre": "Familia Lucchese",
+	"personas": [{
+		"dni": 5,
+		"idDireccion": "23",
+		"rolInvolucrado": [{
+			"idIncidente": 88,
+			"fecha": "2017-04-29 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Instigador"
+		}]
+	}, {
+		"dni": 24,
+		"idDireccion": "23",
+		"rolInvolucrado": [{
+			"idIncidente": 77,
+			"fecha": "2017-10-06 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 85,
+			"fecha": "2017-04-08 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 97,
+			"fecha": "2017-08-18 00:00:00",
+			"descripcion": "Juego ilegal",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 113,
+			"fecha": "2017-05-27 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Testigo"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 9,
+	"Nombre": "Chicago Outfit",
+	"personas": [{
+		"dni": 18,
+		"idDireccion": "9",
+		"rolInvolucrado": [{
+			"idIncidente": 68,
+			"fecha": "2017-05-27 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 139,
+			"fecha": "2017-08-16 00:00:00",
+			"descripcion": "Violencia callejera",
+			"rol": "Instigador"
+		}]
+	}, {
+		"dni": 50,
+		"idDireccion": "57",
+		"rolInvolucrado": [{
+			"idIncidente": 128,
+			"fecha": "2017-10-30 00:00:00",
+			"descripcion": "Explosión",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 148,
+			"fecha": "2017-08-29 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Víctima"
+		}]
+	}, {
+		"dni": 55,
+		"idDireccion": "10",
+		"rolInvolucrado": [{
+			"idIncidente": 18,
+			"fecha": "2017-11-01 00:00:00",
+			"descripcion": "Hurto",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 123,
+			"fecha": "2017-03-13 00:00:00",
+			"descripcion": "Asalto a comercio",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 130,
+			"fecha": "2017-03-25 00:00:00",
+			"descripcion": "Coacción ilegal",
+			"rol": "Víctima"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 10,
+	"Nombre": "Anillos de Seulpa",
+	"personas": [{
+		"dni": 8,
+		"idDireccion": "79",
+		"rolInvolucrado": [{
+			"idIncidente": 30,
+			"fecha": "2017-05-21 00:00:00",
+			"descripcion": "Amenazas",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 118,
+			"fecha": "2017-02-25 00:00:00",
+			"descripcion": "Corte de calle",
+			"rol": "Instigador"
+		}]
+	}, {
+		"dni": 31,
+		"idDireccion": "54",
+		"rolInvolucrado": []
+	}]
+}, {
+	"idOrganizacionDelictiva": 11,
+	"Nombre": "BACRIM",
+	"personas": [{
+		"dni": 99,
+		"idDireccion": "85",
+		"rolInvolucrado": [{
+			"idIncidente": 11,
+			"fecha": "2017-01-30 00:00:00",
+			"descripcion": "Ruidos molestos",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 130,
+			"fecha": "2017-03-25 00:00:00",
+			"descripcion": "Coacción ilegal",
+			"rol": "Testigo"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 12,
+	"Nombre": "GAO",
+	"personas": []
+}, {
+	"idOrganizacionDelictiva": 13,
+	"Nombre": "Cartel de Medellín",
+	"personas": [{
+		"dni": 7,
+		"idDireccion": "13",
+		"rolInvolucrado": [{
+			"idIncidente": 50,
+			"fecha": "2017-12-02 00:00:00",
+			"descripcion": "Pelea callejera",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 54,
+			"fecha": "2017-12-19 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Víctima"
+		}]
+	}, {
+		"dni": 49,
+		"idDireccion": "42",
+		"rolInvolucrado": [{
+			"idIncidente": 114,
+			"fecha": "2017-07-11 00:00:00",
+			"descripcion": "Hurto",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 144,
+			"fecha": "2017-07-16 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 146,
+			"fecha": "2017-10-25 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Testigo"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 14,
+	"Nombre": "Cartel de Cali",
+	"personas": [{
+		"dni": 25,
+		"idDireccion": "16",
+		"rolInvolucrado": [{
+			"idIncidente": 40,
+			"fecha": "2017-05-22 00:00:00",
+			"descripcion": "Hurto",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 60,
+			"fecha": "2017-04-27 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 106,
+			"fecha": "2017-01-10 00:00:00",
+			"descripcion": "Venta de alcohol ilegal",
+			"rol": "Sospechoso"
+		}]
+	}, {
+		"dni": 98,
+		"idDireccion": "21",
+		"rolInvolucrado": [{
+			"idIncidente": 45,
+			"fecha": "2017-02-01 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Testigo"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 15,
+	"Nombre": "Cartel del Norte del Valle",
+	"personas": [{
+		"dni": 43,
+		"idDireccion": "1",
+		"rolInvolucrado": [{
+			"idIncidente": 5,
+			"fecha": "2017-08-20 00:00:00",
+			"descripcion": "Ruidos molestos",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 75,
+			"fecha": "2017-12-04 00:00:00",
+			"descripcion": "Apuestas ilegales",
+			"rol": "Víctima"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 16,
+	"Nombre": "Cartel de la Costa Atlántica",
+	"personas": []
+}, {
+	"idOrganizacionDelictiva": 17,
+	"Nombre": "Los Mungiki",
+	"personas": [{
+		"dni": 4,
+		"idDireccion": "42",
+		"rolInvolucrado": [{
+			"idIncidente": 127,
+			"fecha": "2017-07-11 00:00:00",
+			"descripcion": "Ruidos molestos",
+			"rol": "Instigador"
+		}]
+	}, {
+		"dni": 11,
+		"idDireccion": "11",
+		"rolInvolucrado": [{
+			"idIncidente": 67,
+			"fecha": "2017-12-28 00:00:00",
+			"descripcion": "Amenaza de bomba",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 76,
+			"fecha": "2017-03-29 00:00:00",
+			"descripcion": "Juego ilegal",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 97,
+			"fecha": "2017-08-18 00:00:00",
+			"descripcion": "Juego ilegal",
+			"rol": "Sospechoso"
+		}]
+	}, {
+		"dni": 72,
+		"idDireccion": "11",
+		"rolInvolucrado": [{
+			"idIncidente": 99,
+			"fecha": "2017-07-03 00:00:00",
+			"descripcion": "Juego ilegal",
+			"rol": "Testigo"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 18,
+	"Nombre": "Las Triadas",
+	"personas": [{
+		"dni": 21,
+		"idDireccion": "42",
+		"rolInvolucrado": [{
+			"idIncidente": 110,
+			"fecha": "2017-09-13 00:00:00",
+			"descripcion": "Ruidos molestos",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 111,
+			"fecha": "2017-04-20 00:00:00",
+			"descripcion": "Pelea callejera",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 129,
+			"fecha": "2017-05-10 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Víctima"
+		}]
+	}, {
+		"dni": 29,
+		"idDireccion": "69",
+		"rolInvolucrado": [{
+			"idIncidente": 10,
+			"fecha": "2017-09-20 00:00:00",
+			"descripcion": "Asalto a transeúnte",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 28,
+			"fecha": "2017-01-18 00:00:00",
+			"descripcion": "Explosión",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 36,
+			"fecha": "2017-07-19 00:00:00",
+			"descripcion": "Merodeo",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 81,
+			"fecha": "2017-02-09 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Testigo"
+		}]
+	}, {
+		"dni": 65,
+		"idDireccion": "60",
+		"rolInvolucrado": []
+	}, {
+		"dni": 86,
+		"idDireccion": "76",
+		"rolInvolucrado": [{
+			"idIncidente": 71,
+			"fecha": "2017-08-22 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 134,
+			"fecha": "2017-12-18 00:00:00",
+			"descripcion": "Ruidos molestos",
+			"rol": "Víctima"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 19,
+	"Nombre": "Los Yakuza",
+	"personas": [{
+		"dni": 48,
+		"idDireccion": "80",
+		"rolInvolucrado": [{
+			"idIncidente": 99,
+			"fecha": "2017-07-03 00:00:00",
+			"descripcion": "Juego ilegal",
+			"rol": "Instigador"
+		}]
+	}, {
+		"dni": 88,
+		"idDireccion": "60",
+		"rolInvolucrado": [{
+			"idIncidente": 86,
+			"fecha": "2017-09-26 00:00:00",
+			"descripcion": "Ruidos molestos",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 99,
+			"fecha": "2017-07-03 00:00:00",
+			"descripcion": "Juego ilegal",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 140,
+			"fecha": "2017-02-17 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Instigador"
+		}]
+	}, {
+		"dni": 94,
+		"idDireccion": "48",
+		"rolInvolucrado": [{
+			"idIncidente": 1,
+			"fecha": "2017-02-17 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 47,
+			"fecha": "2017-12-11 00:00:00",
+			"descripcion": "Estupefacientes",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 65,
+			"fecha": "2017-04-14 00:00:00",
+			"descripcion": "Corte de calle",
+			"rol": "Testigo"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 20,
+	"Nombre": "Cartel de Sinaloa",
+	"personas": [{
+		"dni": 12,
+		"idDireccion": "10",
+		"rolInvolucrado": [{
+			"idIncidente": 16,
+			"fecha": "2017-12-19 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 30,
+			"fecha": "2017-05-21 00:00:00",
+			"descripcion": "Amenazas",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 49,
+			"fecha": "2017-03-29 00:00:00",
+			"descripcion": "Venta ilegal",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 50,
+			"fecha": "2017-12-02 00:00:00",
+			"descripcion": "Pelea callejera",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 111,
+			"fecha": "2017-04-20 00:00:00",
+			"descripcion": "Pelea callejera",
+			"rol": "Instigador"
+		}]
+	}, {
+		"dni": 17,
+		"idDireccion": "15",
+		"rolInvolucrado": [{
+			"idIncidente": 12,
+			"fecha": "2017-04-13 00:00:00",
+			"descripcion": "Pelea callejera",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 66,
+			"fecha": "2017-04-13 00:00:00",
+			"descripcion": "Amenaza de bomba",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 126,
+			"fecha": "2017-12-15 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Instigador"
+		}]
+	}, {
+		"dni": 54,
+		"idDireccion": "85",
+		"rolInvolucrado": [{
+			"idIncidente": 73,
+			"fecha": "2017-03-30 00:00:00",
+			"descripcion": "Juego ilegal",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 130,
+			"fecha": "2017-03-25 00:00:00",
+			"descripcion": "Coacción ilegal",
+			"rol": "Instigador"
+		}]
+	}, {
+		"dni": 79,
+		"idDireccion": "11",
+		"rolInvolucrado": [{
+			"idIncidente": 0,
+			"fecha": "2017-07-12 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 8,
+			"fecha": "2017-11-28 00:00:00",
+			"descripcion": "Asalto a comercio",
+			"rol": "Testigo"
+		}]
+	}, {
+		"dni": 89,
+		"idDireccion": "19",
+		"rolInvolucrado": [{
+			"idIncidente": 0,
+			"fecha": "2017-07-12 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 30,
+			"fecha": "2017-05-21 00:00:00",
+			"descripcion": "Amenazas",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 37,
+			"fecha": "2017-11-29 00:00:00",
+			"descripcion": "Vagancia",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 85,
+			"fecha": "2017-04-08 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 130,
+			"fecha": "2017-03-25 00:00:00",
+			"descripcion": "Coacción ilegal",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 133,
+			"fecha": "2017-02-08 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Sospechoso"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 21,
+	"Nombre": "Cartel Jalisco",
+	"personas": [{
+		"dni": 58,
+		"idDireccion": "46",
+		"rolInvolucrado": [{
+			"idIncidente": 56,
+			"fecha": "2017-08-30 00:00:00",
+			"descripcion": "Choque de motocicleta",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 137,
+			"fecha": "2017-05-01 00:00:00",
+			"descripcion": "Exhibicionismo",
+			"rol": "Instigador"
+		}]
+	}, {
+		"dni": 73,
+		"idDireccion": "53",
+		"rolInvolucrado": [{
+			"idIncidente": 60,
+			"fecha": "2017-04-27 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 61,
+			"fecha": "2017-10-21 00:00:00",
+			"descripcion": "Destrucción de propiedad pública",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 117,
+			"fecha": "2017-11-09 00:00:00",
+			"descripcion": "Venta ambulante",
+			"rol": "Sospechoso"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 22,
+	"Nombre": "Los Mata Zetas",
+	"personas": [{
+		"dni": 33,
+		"idDireccion": "10",
+		"rolInvolucrado": [{
+			"idIncidente": 12,
+			"fecha": "2017-04-13 00:00:00",
+			"descripcion": "Pelea callejera",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 44,
+			"fecha": "2017-11-28 00:00:00",
+			"descripcion": "Asalto a comercio",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 59,
+			"fecha": "2017-04-29 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 121,
+			"fecha": "2017-03-06 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Testigo"
+		}]
+	}, {
+		"dni": 85,
+		"idDireccion": "65",
+		"rolInvolucrado": [{
+			"idIncidente": 36,
+			"fecha": "2017-07-19 00:00:00",
+			"descripcion": "Merodeo",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 115,
+			"fecha": "2017-10-24 00:00:00",
+			"descripcion": "Felonía",
+			"rol": "Víctima"
+		}]
+	}, {
+		"dni": 87,
+		"idDireccion": "73",
+		"rolInvolucrado": [{
+			"idIncidente": 27,
+			"fecha": "2017-09-28 00:00:00",
+			"descripcion": "Estafa",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 77,
+			"fecha": "2017-10-06 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 104,
+			"fecha": "2017-11-02 00:00:00",
+			"descripcion": "Corte de calle",
+			"rol": "Instigador"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 23,
+	"Nombre": "Cartel del Noreste",
+	"personas": []
+}, {
+	"idOrganizacionDelictiva": 24,
+	"Nombre": "Cartel del Golfo",
+	"personas": [{
+		"dni": 39,
+		"idDireccion": "10",
+		"rolInvolucrado": [{
+			"idIncidente": 23,
+			"fecha": "2017-10-21 00:00:00",
+			"descripcion": "Desacato",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 101,
+			"fecha": "2017-11-09 00:00:00",
+			"descripcion": "Juego ilegal",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 103,
+			"fecha": "2017-06-08 00:00:00",
+			"descripcion": "Pirotecnia peligros",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 108,
+			"fecha": "2017-11-23 00:00:00",
+			"descripcion": "Pirotecnia ilegal",
+			"rol": "Instigador"
+		}]
+	}, {
+		"dni": 90,
+		"idDireccion": "19",
+		"rolInvolucrado": []
+	}]
+}, {
+	"idOrganizacionDelictiva": 25,
+	"Nombre": "Los Zetas",
+	"personas": [{
+		"dni": 16,
+		"idDireccion": "32",
+		"rolInvolucrado": [{
+			"idIncidente": 47,
+			"fecha": "2017-12-11 00:00:00",
+			"descripcion": "Estupefacientes",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 67,
+			"fecha": "2017-12-28 00:00:00",
+			"descripcion": "Amenaza de bomba",
+			"rol": "Sospechoso"
+		}]
+	}, {
+		"dni": 61,
+		"idDireccion": "82",
+		"rolInvolucrado": []
+	}, {
+		"dni": 93,
+		"idDireccion": "62",
+		"rolInvolucrado": [{
+			"idIncidente": 1,
+			"fecha": "2017-02-17 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 13,
+			"fecha": "2017-12-02 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 25,
+			"fecha": "2017-01-18 00:00:00",
+			"descripcion": "Amenazas",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 80,
+			"fecha": "2017-05-11 00:00:00",
+			"descripcion": "Llamado anónimo",
+			"rol": "Sospechoso"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 26,
+	"Nombre": "Cartel de Tijuana",
+	"personas": [{
+		"dni": 59,
+		"idDireccion": "46",
+		"rolInvolucrado": [{
+			"idIncidente": 95,
+			"fecha": "2017-02-01 00:00:00",
+			"descripcion": "Juego ilegal",
+			"rol": "Víctima"
+		}]
+	}, {
+		"dni": 78,
+		"idDireccion": "58",
+		"rolInvolucrado": [{
+			"idIncidente": 3,
+			"fecha": "2017-02-28 00:00:00",
+			"descripcion": "Felonía",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 90,
+			"fecha": "2017-07-18 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Testigo"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 27,
+	"Nombre": "Cártel de Juárez",
+	"personas": [{
+		"dni": 20,
+		"idDireccion": "50",
+		"rolInvolucrado": [{
+			"idIncidente": 17,
+			"fecha": "2017-11-13 00:00:00",
+			"descripcion": "Hurto",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 51,
+			"fecha": "2017-06-16 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 88,
+			"fecha": "2017-04-29 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Víctima"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 28,
+	"Nombre": "Cártel de los Beltrán Leyva",
+	"personas": [{
+		"dni": 80,
+		"idDireccion": "12",
+		"rolInvolucrado": [{
+			"idIncidente": 9,
+			"fecha": "2017-05-18 00:00:00",
+			"descripcion": "Asalto a comercio",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 31,
+			"fecha": "2017-11-09 00:00:00",
+			"descripcion": "Desacato",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 133,
+			"fecha": "2017-02-08 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Instigador"
+		}]
+	}, {
+		"dni": 81,
+		"idDireccion": "84",
+		"rolInvolucrado": [{
+			"idIncidente": 98,
+			"fecha": "2017-10-29 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 99,
+			"fecha": "2017-07-03 00:00:00",
+			"descripcion": "Juego ilegal",
+			"rol": "Sospechoso"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 29,
+	"Nombre": "La Mano con Ojos",
+	"personas": [{
+		"dni": 10,
+		"idDireccion": "11",
+		"rolInvolucrado": [{
+			"idIncidente": 93,
+			"fecha": "2017-02-22 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Instigador"
+		}]
+	}, {
+		"dni": 69,
+		"idDireccion": "25",
+		"rolInvolucrado": [{
+			"idIncidente": 0,
+			"fecha": "2017-07-12 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Víctima"
+		}]
+	}, {
+		"dni": 75,
+		"idDireccion": "86",
+		"rolInvolucrado": []
+	}]
+}, {
+	"idOrganizacionDelictiva": 30,
+	"Nombre": "Los Negros",
+	"personas": [{
+		"dni": 14,
+		"idDireccion": "10",
+		"rolInvolucrado": [{
+			"idIncidente": 123,
+			"fecha": "2017-03-13 00:00:00",
+			"descripcion": "Asalto a comercio",
+			"rol": "Víctima"
+		}]
+	}, {
+		"dni": 15,
+		"idDireccion": "57",
+		"rolInvolucrado": [{
+			"idIncidente": 132,
+			"fecha": "2017-06-29 00:00:00",
+			"descripcion": "Hurto",
+			"rol": "Víctima"
+		}]
+	}, {
+		"dni": 62,
+		"idDireccion": "27",
+		"rolInvolucrado": [{
+			"idIncidente": 7,
+			"fecha": "2017-06-08 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 12,
+			"fecha": "2017-04-13 00:00:00",
+			"descripcion": "Pelea callejera",
+			"rol": "Víctima"
+		}]
+	}, {
+		"dni": 66,
+		"idDireccion": "53",
+		"rolInvolucrado": [{
+			"idIncidente": 15,
+			"fecha": "2017-10-09 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 45,
+			"fecha": "2017-02-01 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Sospechoso"
+		}]
+	}, {
+		"dni": 70,
+		"idDireccion": "8",
+		"rolInvolucrado": [{
+			"idIncidente": 109,
+			"fecha": "2017-03-02 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 148,
+			"fecha": "2017-08-29 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Víctima"
+		}]
+	}, {
+		"dni": 74,
+		"idDireccion": "28",
+		"rolInvolucrado": [{
+			"idIncidente": 38,
+			"fecha": "2017-04-06 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 46,
+			"fecha": "2017-01-18 00:00:00",
+			"descripcion": "Venta ilegal",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 103,
+			"fecha": "2017-06-08 00:00:00",
+			"descripcion": "Pirotecnia peligros",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 106,
+			"fecha": "2017-01-10 00:00:00",
+			"descripcion": "Venta de alcohol ilegal",
+			"rol": "Víctima"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 31,
+	"Nombre": "Familia Michoacana",
+	"personas": []
+}, {
+	"idOrganizacionDelictiva": 32,
+	"Nombre": "Cartel de Colima",
+	"personas": [{
+		"dni": 27,
+		"idDireccion": "45",
+		"rolInvolucrado": [{
+			"idIncidente": 1,
+			"fecha": "2017-02-17 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 114,
+			"fecha": "2017-07-11 00:00:00",
+			"descripcion": "Hurto",
+			"rol": "Testigo"
+		}]
+	}]
+}, {
+	"idOrganizacionDelictiva": 33,
+	"Nombre": "Cartel de Guadalajara",
+	"personas": [{
+		"dni": 22,
+		"idDireccion": "11",
+		"rolInvolucrado": []
+	}]
+}, {
+	"idOrganizacionDelictiva": 34,
+	"Nombre": "Las Maras",
+	"personas": []
+}, {
+	"idOrganizacionDelictiva": 35,
+	"Nombre": "Cártel de los Soles",
+	"personas": [{
+		"dni": 2,
+		"idDireccion": "13",
+		"rolInvolucrado": [{
+			"idIncidente": 69,
+			"fecha": "2017-05-16 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 115,
+			"fecha": "2017-10-24 00:00:00",
+			"descripcion": "Felonía",
+			"rol": "Instigador"
+		}]
+	}, {
+		"dni": 3,
+		"idDireccion": "31",
+		"rolInvolucrado": [{
+			"idIncidente": 55,
+			"fecha": "2017-03-24 00:00:00",
+			"descripcion": "Intento de suicidio",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 70,
+			"fecha": "2017-04-24 00:00:00",
+			"descripcion": "Amenaza de bomba",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 88,
+			"fecha": "2017-04-29 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 112,
+			"fecha": "2017-09-18 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 127,
+			"fecha": "2017-07-11 00:00:00",
+			"descripcion": "Ruidos molestos",
+			"rol": "Instigador"
+		}]
+	}, {
+		"dni": 13,
+		"idDireccion": "71",
+		"rolInvolucrado": [{
+			"idIncidente": 31,
+			"fecha": "2017-11-09 00:00:00",
+			"descripcion": "Desacato",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 57,
+			"fecha": "2017-01-14 00:00:00",
+			"descripcion": "Caída en pozo",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 70,
+			"fecha": "2017-04-24 00:00:00",
+			"descripcion": "Amenaza de bomba",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 117,
+			"fecha": "2017-11-09 00:00:00",
+			"descripcion": "Venta ambulante",
+			"rol": "Instigador"
+		}]
+	}]
+}]
