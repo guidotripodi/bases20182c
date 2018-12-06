@@ -23,8 +23,6 @@ WHERE
         AND incidente.idIncidente = involucra.idIncidente
         AND incidente.idIncidente = interviene.idIncidente
         AND oficial.num = interviene.num
-        AND persona.idPersona = involucra.idPersona
-GROUP BY incidente.Numero , incidente.Descripcion , oficial.num , oficial.Datos , persona.Nombre , persona.Apellido , involucra.Rol
-;
+        AND persona.idPersona = involucra.idPersona;
             end
 $

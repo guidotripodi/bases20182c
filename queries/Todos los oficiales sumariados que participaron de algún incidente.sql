@@ -1,4 +1,5 @@
 SELECT 
+	oficial.num AS numeroOficial,
     oficial.Nombre AS NombreOficial,
     oficial.Apellido As ApellidoOficial
 FROM
@@ -10,4 +11,5 @@ WHERE
     interviene.num = oficial.num
         AND designacion.num = oficial.num
         AND designacion.idDesignacion = sumario.idDesignacion
-GROUP BY oficial.Datos;
+GROUP BY oficial.num
+ORDER BY oficial.num ;
