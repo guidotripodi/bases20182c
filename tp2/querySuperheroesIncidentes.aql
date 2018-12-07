@@ -1,0 +1,21 @@
+FOR sh IN superheroe
+    let participaciones = sh.incidentes == Null ? [] :
+		(FOR i in sh.incidentes
+        	return {id: i.idIncidente
+				, descripcion:i.descripcion
+				, fechaIncidente: i.fecha})
+	    
+	let involucramientos = sh.conocido == null ? [] :
+		(FOR p IN persona filter p.dni == sh.conocido
+         FOR i IN p.rolInvolucrado 
+        	return {id: i.idIncidente
+				, descripcion:i.descripcion
+				, fechaIncidente: i.fecha})
+		)
+
+	let todosLosIncidentes = (UNION_DISTINCT(involucramientos,participaciones) sort fechaIncidente )
+
+	return { NombreSuperheroe: doc.nombreFantasia, Incidentes: todosLosIncidentes}
+
+
+
