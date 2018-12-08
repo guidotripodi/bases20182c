@@ -1,0 +1,1502 @@
+[{
+	"idSuperheroe": 0,
+	"colorDisfraz": "Verde",
+	"nombreFantasia": "Aquaman",
+	"archienemigos": [5, 28, 48, 84],
+	"contacta": [9, 13, 26, 33, 39, 45, 58],
+	"conocido": {
+		"dni": 42,
+		"idDireccion": "14",
+		"rolInvolucrado": [{
+			"idIncidente": 46,
+			"fecha": "2017-01-18 00:00:00",
+			"descripcion": "Venta ilegal",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 60,
+			"fecha": "2017-04-27 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 74,
+			"fecha": "2017-09-18 00:00:00",
+			"descripcion": "Amenaza de bomba",
+			"rol": "Testigo"
+		}]
+	},
+	"habilidades": [7, 18],
+	"incidentes": [{
+		"idIncidente": 12,
+		"descripcion": "Pelea callejera",
+		"fecha": "2017-04-13 00:00:00"
+	}, {
+		"idIncidente": 22,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-12-11 00:00:00"
+	}, {
+		"idIncidente": 45,
+		"descripcion": "Robo",
+		"fecha": "2017-02-01 00:00:00"
+	}, {
+		"idIncidente": 86,
+		"descripcion": "Ruidos molestos",
+		"fecha": "2017-09-26 00:00:00"
+	}, {
+		"idIncidente": 90,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-07-18 00:00:00"
+	}, {
+		"idIncidente": 101,
+		"descripcion": "Juego ilegal",
+		"fecha": "2017-11-09 00:00:00"
+	}, {
+		"idIncidente": 120,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-06-02 00:00:00"
+	}, {
+		"idIncidente": 132,
+		"descripcion": "Hurto",
+		"fecha": "2017-06-29 00:00:00"
+	}, {
+		"idIncidente": 148,
+		"descripcion": "Robo",
+		"fecha": "2017-08-29 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 1,
+	"colorDisfraz": "Gris",
+	"nombreFantasia": "Batman",
+	"archienemigos": [8, 73, 88, 99],
+	"contacta": [17, 42, 95],
+	"conocido": {
+		"dni": 19,
+		"idDireccion": "36",
+		"rolInvolucrado": [{
+			"idIncidente": 19,
+			"fecha": "2017-12-23 00:00:00",
+			"descripcion": "No especificado",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 74,
+			"fecha": "2017-09-18 00:00:00",
+			"descripcion": "Amenaza de bomba",
+			"rol": "Testigo"
+		}]
+	},
+	"habilidades": [7, 23],
+	"incidentes": [{
+		"idIncidente": 19,
+		"descripcion": "No especificado",
+		"fecha": "2017-12-23 00:00:00"
+	}, {
+		"idIncidente": 47,
+		"descripcion": "Estupefacientes",
+		"fecha": "2017-12-11 00:00:00"
+	}, {
+		"idIncidente": 97,
+		"descripcion": "Juego ilegal",
+		"fecha": "2017-08-18 00:00:00"
+	}, {
+		"idIncidente": 130,
+		"descripcion": "Coacción ilegal",
+		"fecha": "2017-03-25 00:00:00"
+	}, {
+		"idIncidente": 148,
+		"descripcion": "Robo",
+		"fecha": "2017-08-29 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 2,
+	"colorDisfraz": "Rojo",
+	"nombreFantasia": "Flash",
+	"archienemigos": [85, 87],
+	"contacta": [12, 32, 87],
+	"conocido": {
+		"dni": 0,
+		"idDireccion": "4",
+		"rolInvolucrado": [{
+			"idIncidente": 81,
+			"fecha": "2017-02-09 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Instigador"
+		}]
+	},
+	"habilidades": [12, 13, 24, 25],
+	"incidentes": [{
+		"idIncidente": 15,
+		"descripcion": "Robo",
+		"fecha": "2017-10-09 00:00:00"
+	}, {
+		"idIncidente": 27,
+		"descripcion": "Estafa",
+		"fecha": "2017-09-28 00:00:00"
+	}, {
+		"idIncidente": 32,
+		"descripcion": "Venta ambulante",
+		"fecha": "2017-07-28 00:00:00"
+	}, {
+		"idIncidente": 55,
+		"descripcion": "Intento de suicidio",
+		"fecha": "2017-03-24 00:00:00"
+	}, {
+		"idIncidente": 116,
+		"descripcion": "Alteración del orden público",
+		"fecha": "2017-12-14 00:00:00"
+	}, {
+		"idIncidente": 131,
+		"descripcion": "Robo",
+		"fecha": "2017-04-28 00:00:00"
+	}, {
+		"idIncidente": 136,
+		"descripcion": "Estupro",
+		"fecha": "2017-11-22 00:00:00"
+	}, {
+		"idIncidente": 142,
+		"descripcion": "Merodeo",
+		"fecha": "2017-01-23 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 3,
+	"colorDisfraz": "Verde",
+	"nombreFantasia": "Linterna Verde",
+	"archienemigos": [36],
+	"contacta": [35, 46],
+	"conocido": {
+		"dni": 9,
+		"idDireccion": "37",
+		"rolInvolucrado": [{
+			"idIncidente": 34,
+			"fecha": "2017-04-10 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 91,
+			"fecha": "2017-10-16 00:00:00",
+			"descripcion": "Juego ilegal",
+			"rol": "Testigo"
+		}]
+	},
+	"habilidades": [1, 9, 22],
+	"incidentes": [{
+		"idIncidente": 45,
+		"descripcion": "Robo",
+		"fecha": "2017-02-01 00:00:00"
+	}, {
+		"idIncidente": 46,
+		"descripcion": "Venta ilegal",
+		"fecha": "2017-01-18 00:00:00"
+	}, {
+		"idIncidente": 92,
+		"descripcion": "Robo",
+		"fecha": "2017-07-29 00:00:00"
+	}, {
+		"idIncidente": 102,
+		"descripcion": "Venta ilegal",
+		"fecha": "2017-08-03 00:00:00"
+	}, {
+		"idIncidente": 105,
+		"descripcion": "Consumo de estupefacientes",
+		"fecha": "2017-08-26 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 4,
+	"colorDisfraz": "Rojo",
+	"nombreFantasia": "Superman",
+	"archienemigos": [13, 54, 55, 68],
+	"contacta": [6, 61, 65],
+	"conocido": {
+		"dni": 41,
+		"idDireccion": "6",
+		"rolInvolucrado": [{
+			"idIncidente": 97,
+			"fecha": "2017-08-18 00:00:00",
+			"descripcion": "Juego ilegal",
+			"rol": "Víctima"
+		}]
+	},
+	"habilidades": [8, 10, 12, 18],
+	"incidentes": [{
+		"idIncidente": 1,
+		"descripcion": "Robo",
+		"fecha": "2017-02-17 00:00:00"
+	}, {
+		"idIncidente": 3,
+		"descripcion": "Felonía",
+		"fecha": "2017-02-28 00:00:00"
+	}, {
+		"idIncidente": 62,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-02-18 00:00:00"
+	}, {
+		"idIncidente": 63,
+		"descripcion": "Corte de calle",
+		"fecha": "2017-09-20 00:00:00"
+	}, {
+		"idIncidente": 80,
+		"descripcion": "Llamado anónimo",
+		"fecha": "2017-05-11 00:00:00"
+	}, {
+		"idIncidente": 93,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-02-22 00:00:00"
+	}, {
+		"idIncidente": 101,
+		"descripcion": "Juego ilegal",
+		"fecha": "2017-11-09 00:00:00"
+	}, {
+		"idIncidente": 118,
+		"descripcion": "Corte de calle",
+		"fecha": "2017-02-25 00:00:00"
+	}, {
+		"idIncidente": 119,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-07-10 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 5,
+	"colorDisfraz": "Rojo",
+	"nombreFantasia": "Wonder Woman",
+	"archienemigos": [21, 54, 77],
+	"contacta": [72],
+	"conocido": {
+		"dni": 30,
+		"idDireccion": "23",
+		"rolInvolucrado": [{
+			"idIncidente": 17,
+			"fecha": "2017-11-13 00:00:00",
+			"descripcion": "Hurto",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 129,
+			"fecha": "2017-05-10 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Víctima"
+		}]
+	},
+	"habilidades": [16, 23],
+	"incidentes": [{
+		"idIncidente": 4,
+		"descripcion": "Ruidos molestos",
+		"fecha": "2017-04-02 00:00:00"
+	}, {
+		"idIncidente": 46,
+		"descripcion": "Venta ilegal",
+		"fecha": "2017-01-18 00:00:00"
+	}, {
+		"idIncidente": 68,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-05-27 00:00:00"
+	}, {
+		"idIncidente": 104,
+		"descripcion": "Corte de calle",
+		"fecha": "2017-11-02 00:00:00"
+	}, {
+		"idIncidente": 105,
+		"descripcion": "Consumo de estupefacientes",
+		"fecha": "2017-08-26 00:00:00"
+	}, {
+		"idIncidente": 119,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-07-10 00:00:00"
+	}, {
+		"idIncidente": 120,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-06-02 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 6,
+	"colorDisfraz": "Azul",
+	"nombreFantasia": "Bluebird",
+	"archienemigos": [32, 92],
+	"contacta": [11, 40, 45, 75, 83, 88],
+	"conocido": {
+		"dni": 36,
+		"idDireccion": "13",
+		"rolInvolucrado": [{
+			"idIncidente": 28,
+			"fecha": "2017-01-18 00:00:00",
+			"descripcion": "Explosión",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 119,
+			"fecha": "2017-07-10 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Instigador"
+		}]
+	},
+	"habilidades": [7, 16, 23, 25],
+	"incidentes": [{
+		"idIncidente": 0,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-07-12 00:00:00"
+	}, {
+		"idIncidente": 27,
+		"descripcion": "Estafa",
+		"fecha": "2017-09-28 00:00:00"
+	}, {
+		"idIncidente": 36,
+		"descripcion": "Merodeo",
+		"fecha": "2017-07-19 00:00:00"
+	}, {
+		"idIncidente": 52,
+		"descripcion": "Pirotecnia peligrosa",
+		"fecha": "2017-02-21 00:00:00"
+	}, {
+		"idIncidente": 71,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-08-22 00:00:00"
+	}, {
+		"idIncidente": 72,
+		"descripcion": "Amenaza de bomba",
+		"fecha": "2017-11-09 00:00:00"
+	}, {
+		"idIncidente": 74,
+		"descripcion": "Amenaza de bomba",
+		"fecha": "2017-09-18 00:00:00"
+	}, {
+		"idIncidente": 80,
+		"descripcion": "Llamado anónimo",
+		"fecha": "2017-05-11 00:00:00"
+	}, {
+		"idIncidente": 112,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-09-18 00:00:00"
+	}, {
+		"idIncidente": 115,
+		"descripcion": "Felonía",
+		"fecha": "2017-10-24 00:00:00"
+	}, {
+		"idIncidente": 116,
+		"descripcion": "Alteración del orden público",
+		"fecha": "2017-12-14 00:00:00"
+	}, {
+		"idIncidente": 119,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-07-10 00:00:00"
+	}, {
+		"idIncidente": 125,
+		"descripcion": "Violencia callejera",
+		"fecha": "2017-02-21 00:00:00"
+	}, {
+		"idIncidente": 141,
+		"descripcion": "Vagancia",
+		"fecha": "2017-11-20 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 7,
+	"colorDisfraz": "Blanco/Verde",
+	"nombreFantasia": "Buzz Lightyear",
+	"archienemigos": [31, 33, 41, 76, 96],
+	"contacta": [23, 24, 53, 86],
+	"conocido": {
+		"dni": 35,
+		"idDireccion": "15",
+		"rolInvolucrado": [{
+			"idIncidente": 110,
+			"fecha": "2017-09-13 00:00:00",
+			"descripcion": "Ruidos molestos",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 147,
+			"fecha": "2017-02-01 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Víctima"
+		}]
+	},
+	"habilidades": [4, 14, 21],
+	"incidentes": [{
+		"idIncidente": 18,
+		"descripcion": "Hurto",
+		"fecha": "2017-11-01 00:00:00"
+	}, {
+		"idIncidente": 23,
+		"descripcion": "Desacato",
+		"fecha": "2017-10-21 00:00:00"
+	}, {
+		"idIncidente": 47,
+		"descripcion": "Estupefacientes",
+		"fecha": "2017-12-11 00:00:00"
+	}, {
+		"idIncidente": 61,
+		"descripcion": "Destrucción de propiedad pública",
+		"fecha": "2017-10-21 00:00:00"
+	}, {
+		"idIncidente": 143,
+		"descripcion": "Hurto",
+		"fecha": "2017-04-20 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 8,
+	"colorDisfraz": "Rojo",
+	"nombreFantasia": "Chapulín Colorado",
+	"archienemigos": [38],
+	"contacta": [22, 46, 68, 73, 77, 89, 96],
+	"conocido": {
+		"dni": 5,
+		"idDireccion": "23",
+		"rolInvolucrado": [{
+			"idIncidente": 88,
+			"fecha": "2017-04-29 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Instigador"
+		}]
+	},
+	"habilidades": [1, 9, 14, 25],
+	"incidentes": [{
+		"idIncidente": 0,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-07-12 00:00:00"
+	}, {
+		"idIncidente": 25,
+		"descripcion": "Amenazas",
+		"fecha": "2017-01-18 00:00:00"
+	}, {
+		"idIncidente": 48,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-09-16 00:00:00"
+	}, {
+		"idIncidente": 80,
+		"descripcion": "Llamado anónimo",
+		"fecha": "2017-05-11 00:00:00"
+	}, {
+		"idIncidente": 91,
+		"descripcion": "Juego ilegal",
+		"fecha": "2017-10-16 00:00:00"
+	}, {
+		"idIncidente": 94,
+		"descripcion": "Juego ilegal",
+		"fecha": "2017-10-10 00:00:00"
+	}, {
+		"idIncidente": 112,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-09-18 00:00:00"
+	}, {
+		"idIncidente": 134,
+		"descripcion": "Ruidos molestos",
+		"fecha": "2017-12-18 00:00:00"
+	}, {
+		"idIncidente": 141,
+		"descripcion": "Vagancia",
+		"fecha": "2017-11-20 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 9,
+	"colorDisfraz": "Varios",
+	"nombreFantasia": "Thundercats",
+	"archienemigos": [6],
+	"contacta": [2, 59, 93],
+	"conocido": {
+		"dni": 18,
+		"idDireccion": "9",
+		"rolInvolucrado": [{
+			"idIncidente": 68,
+			"fecha": "2017-05-27 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 139,
+			"fecha": "2017-08-16 00:00:00",
+			"descripcion": "Violencia callejera",
+			"rol": "Instigador"
+		}]
+	},
+	"habilidades": [],
+	"incidentes": [{
+		"idIncidente": 104,
+		"descripcion": "Corte de calle",
+		"fecha": "2017-11-02 00:00:00"
+	}, {
+		"idIncidente": 111,
+		"descripcion": "Pelea callejera",
+		"fecha": "2017-04-20 00:00:00"
+	}, {
+		"idIncidente": 113,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-05-27 00:00:00"
+	}, {
+		"idIncidente": 119,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-07-10 00:00:00"
+	}, {
+		"idIncidente": 132,
+		"descripcion": "Hurto",
+		"fecha": "2017-06-29 00:00:00"
+	}, {
+		"idIncidente": 139,
+		"descripcion": "Violencia callejera",
+		"fecha": "2017-08-16 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 10,
+	"colorDisfraz": "Rojo/Azul",
+	"nombreFantasia": "Capitán América",
+	"archienemigos": [7, 13, 38, 44],
+	"contacta": [10, 15, 79],
+	"conocido": {
+		"dni": 8,
+		"idDireccion": "79",
+		"rolInvolucrado": [{
+			"idIncidente": 30,
+			"fecha": "2017-05-21 00:00:00",
+			"descripcion": "Amenazas",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 118,
+			"fecha": "2017-02-25 00:00:00",
+			"descripcion": "Corte de calle",
+			"rol": "Instigador"
+		}]
+	},
+	"habilidades": [1, 3, 6, 21],
+	"incidentes": [{
+		"idIncidente": 32,
+		"descripcion": "Venta ambulante",
+		"fecha": "2017-07-28 00:00:00"
+	}, {
+		"idIncidente": 33,
+		"descripcion": "Ruidos molestos",
+		"fecha": "2017-11-12 00:00:00"
+	}, {
+		"idIncidente": 54,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-12-19 00:00:00"
+	}, {
+		"idIncidente": 86,
+		"descripcion": "Ruidos molestos",
+		"fecha": "2017-09-26 00:00:00"
+	}, {
+		"idIncidente": 111,
+		"descripcion": "Pelea callejera",
+		"fecha": "2017-04-20 00:00:00"
+	}, {
+		"idIncidente": 122,
+		"descripcion": "Hurto",
+		"fecha": "2017-08-18 00:00:00"
+	}, {
+		"idIncidente": 127,
+		"descripcion": "Ruidos molestos",
+		"fecha": "2017-07-11 00:00:00"
+	}, {
+		"idIncidente": 128,
+		"descripcion": "Explosión",
+		"fecha": "2017-10-30 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 11,
+	"colorDisfraz": "Verde",
+	"nombreFantasia": "Hulk",
+	"archienemigos": [1, 27, 73],
+	"contacta": [4, 60],
+	"conocido": {
+		"dni": 99,
+		"idDireccion": "85",
+		"rolInvolucrado": [{
+			"idIncidente": 11,
+			"fecha": "2017-01-30 00:00:00",
+			"descripcion": "Ruidos molestos",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 130,
+			"fecha": "2017-03-25 00:00:00",
+			"descripcion": "Coacción ilegal",
+			"rol": "Testigo"
+		}]
+	},
+	"habilidades": [1, 2, 7, 15, 18, 21, 25],
+	"incidentes": [{
+		"idIncidente": 17,
+		"descripcion": "Hurto",
+		"fecha": "2017-11-13 00:00:00"
+	}, {
+		"idIncidente": 50,
+		"descripcion": "Pelea callejera",
+		"fecha": "2017-12-02 00:00:00"
+	}, {
+		"idIncidente": 51,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-06-16 00:00:00"
+	}, {
+		"idIncidente": 52,
+		"descripcion": "Pirotecnia peligrosa",
+		"fecha": "2017-02-21 00:00:00"
+	}, {
+		"idIncidente": 108,
+		"descripcion": "Pirotecnia ilegal",
+		"fecha": "2017-11-23 00:00:00"
+	}, {
+		"idIncidente": 121,
+		"descripcion": "Robo",
+		"fecha": "2017-03-06 00:00:00"
+	}, {
+		"idIncidente": 122,
+		"descripcion": "Hurto",
+		"fecha": "2017-08-18 00:00:00"
+	}, {
+		"idIncidente": 123,
+		"descripcion": "Asalto a comercio",
+		"fecha": "2017-03-13 00:00:00"
+	}, {
+		"idIncidente": 140,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-02-17 00:00:00"
+	}, {
+		"idIncidente": 147,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-02-01 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 12,
+	"colorDisfraz": "Gris",
+	"nombreFantasia": "Iron Man",
+	"archienemigos": [19, 28, 82, 83],
+	"contacta": [99],
+	"conocido": null,
+	"habilidades": [1, 15, 16],
+	"incidentes": [{
+		"idIncidente": 8,
+		"descripcion": "Asalto a comercio",
+		"fecha": "2017-11-28 00:00:00"
+	}, {
+		"idIncidente": 13,
+		"descripcion": "Robo",
+		"fecha": "2017-12-02 00:00:00"
+	}, {
+		"idIncidente": 14,
+		"descripcion": "Robo",
+		"fecha": "2017-03-26 00:00:00"
+	}, {
+		"idIncidente": 37,
+		"descripcion": "Vagancia",
+		"fecha": "2017-11-29 00:00:00"
+	}, {
+		"idIncidente": 38,
+		"descripcion": "Robo",
+		"fecha": "2017-04-06 00:00:00"
+	}, {
+		"idIncidente": 49,
+		"descripcion": "Venta ilegal",
+		"fecha": "2017-03-29 00:00:00"
+	}, {
+		"idIncidente": 58,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-05-22 00:00:00"
+	}, {
+		"idIncidente": 75,
+		"descripcion": "Apuestas ilegales",
+		"fecha": "2017-12-04 00:00:00"
+	}, {
+		"idIncidente": 113,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-05-27 00:00:00"
+	}, {
+		"idIncidente": 119,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-07-10 00:00:00"
+	}, {
+		"idIncidente": 144,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-07-16 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 13,
+	"colorDisfraz": "Rojo/Azul",
+	"nombreFantasia": "Spiderman",
+	"archienemigos": [6, 34, 57, 81],
+	"contacta": [5, 7, 87],
+	"conocido": {
+		"dni": 7,
+		"idDireccion": "13",
+		"rolInvolucrado": [{
+			"idIncidente": 50,
+			"fecha": "2017-12-02 00:00:00",
+			"descripcion": "Pelea callejera",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 54,
+			"fecha": "2017-12-19 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Víctima"
+		}]
+	},
+	"habilidades": [1, 14, 19, 21, 22],
+	"incidentes": [{
+		"idIncidente": 4,
+		"descripcion": "Ruidos molestos",
+		"fecha": "2017-04-02 00:00:00"
+	}, {
+		"idIncidente": 15,
+		"descripcion": "Robo",
+		"fecha": "2017-10-09 00:00:00"
+	}, {
+		"idIncidente": 16,
+		"descripcion": "Robo",
+		"fecha": "2017-12-19 00:00:00"
+	}, {
+		"idIncidente": 20,
+		"descripcion": "Ruidos molestos",
+		"fecha": "2017-11-17 00:00:00"
+	}, {
+		"idIncidente": 23,
+		"descripcion": "Desacato",
+		"fecha": "2017-10-21 00:00:00"
+	}, {
+		"idIncidente": 51,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-06-16 00:00:00"
+	}, {
+		"idIncidente": 56,
+		"descripcion": "Choque de motocicleta",
+		"fecha": "2017-08-30 00:00:00"
+	}, {
+		"idIncidente": 89,
+		"descripcion": "Juego ilegal",
+		"fecha": "2017-12-18 00:00:00"
+	}, {
+		"idIncidente": 108,
+		"descripcion": "Pirotecnia ilegal",
+		"fecha": "2017-11-23 00:00:00"
+	}, {
+		"idIncidente": 115,
+		"descripcion": "Felonía",
+		"fecha": "2017-10-24 00:00:00"
+	}, {
+		"idIncidente": 138,
+		"descripcion": "Destrucción de la propiedad",
+		"fecha": "2017-01-29 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 14,
+	"colorDisfraz": "Blanco",
+	"nombreFantasia": "Caballero Luna",
+	"archienemigos": [17, 36, 37, 38, 66],
+	"contacta": [23, 25, 74, 75],
+	"conocido": {
+		"dni": 25,
+		"idDireccion": "16",
+		"rolInvolucrado": [{
+			"idIncidente": 40,
+			"fecha": "2017-05-22 00:00:00",
+			"descripcion": "Hurto",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 60,
+			"fecha": "2017-04-27 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 106,
+			"fecha": "2017-01-10 00:00:00",
+			"descripcion": "Venta de alcohol ilegal",
+			"rol": "Sospechoso"
+		}]
+	},
+	"habilidades": [6, 7, 16],
+	"incidentes": [{
+		"idIncidente": 32,
+		"descripcion": "Venta ambulante",
+		"fecha": "2017-07-28 00:00:00"
+	}, {
+		"idIncidente": 43,
+		"descripcion": "Ruidos molestos",
+		"fecha": "2017-06-30 00:00:00"
+	}, {
+		"idIncidente": 63,
+		"descripcion": "Corte de calle",
+		"fecha": "2017-09-20 00:00:00"
+	}, {
+		"idIncidente": 130,
+		"descripcion": "Coacción ilegal",
+		"fecha": "2017-03-25 00:00:00"
+	}, {
+		"idIncidente": 135,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-06-14 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 15,
+	"colorDisfraz": "Azul/Rojo",
+	"nombreFantasia": "Capitán Britania",
+	"archienemigos": [18],
+	"contacta": [6, 81],
+	"conocido": {
+		"dni": 43,
+		"idDireccion": "1",
+		"rolInvolucrado": [{
+			"idIncidente": 5,
+			"fecha": "2017-08-20 00:00:00",
+			"descripcion": "Ruidos molestos",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 75,
+			"fecha": "2017-12-04 00:00:00",
+			"descripcion": "Apuestas ilegales",
+			"rol": "Víctima"
+		}]
+	},
+	"habilidades": [1, 14],
+	"incidentes": [{
+		"idIncidente": 21,
+		"descripcion": "Explosión",
+		"fecha": "2017-08-04 00:00:00"
+	}, {
+		"idIncidente": 32,
+		"descripcion": "Venta ambulante",
+		"fecha": "2017-07-28 00:00:00"
+	}, {
+		"idIncidente": 39,
+		"descripcion": "Robo",
+		"fecha": "2017-03-28 00:00:00"
+	}, {
+		"idIncidente": 44,
+		"descripcion": "Asalto a comercio",
+		"fecha": "2017-11-28 00:00:00"
+	}, {
+		"idIncidente": 68,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-05-27 00:00:00"
+	}, {
+		"idIncidente": 70,
+		"descripcion": "Amenaza de bomba",
+		"fecha": "2017-04-24 00:00:00"
+	}, {
+		"idIncidente": 98,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-10-29 00:00:00"
+	}, {
+		"idIncidente": 106,
+		"descripcion": "Venta de alcohol ilegal",
+		"fecha": "2017-01-10 00:00:00"
+	}, {
+		"idIncidente": 107,
+		"descripcion": "Atentado contra la autoridad",
+		"fecha": "2017-06-16 00:00:00"
+	}, {
+		"idIncidente": 108,
+		"descripcion": "Pirotecnia ilegal",
+		"fecha": "2017-11-23 00:00:00"
+	}, {
+		"idIncidente": 129,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-05-10 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 16,
+	"colorDisfraz": "Rojo",
+	"nombreFantasia": "Caballero Rojo",
+	"archienemigos": [10, 51, 67],
+	"contacta": [7, 15, 44, 55, 72, 94, 99],
+	"conocido": null,
+	"habilidades": [20, 25],
+	"incidentes": [{
+		"idIncidente": 0,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-07-12 00:00:00"
+	}, {
+		"idIncidente": 1,
+		"descripcion": "Robo",
+		"fecha": "2017-02-17 00:00:00"
+	}, {
+		"idIncidente": 14,
+		"descripcion": "Robo",
+		"fecha": "2017-03-26 00:00:00"
+	}, {
+		"idIncidente": 27,
+		"descripcion": "Estafa",
+		"fecha": "2017-09-28 00:00:00"
+	}, {
+		"idIncidente": 38,
+		"descripcion": "Robo",
+		"fecha": "2017-04-06 00:00:00"
+	}, {
+		"idIncidente": 64,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-04-30 00:00:00"
+	}, {
+		"idIncidente": 65,
+		"descripcion": "Corte de calle",
+		"fecha": "2017-04-14 00:00:00"
+	}, {
+		"idIncidente": 69,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-05-16 00:00:00"
+	}, {
+		"idIncidente": 72,
+		"descripcion": "Amenaza de bomba",
+		"fecha": "2017-11-09 00:00:00"
+	}, {
+		"idIncidente": 99,
+		"descripcion": "Juego ilegal",
+		"fecha": "2017-07-03 00:00:00"
+	}, {
+		"idIncidente": 126,
+		"descripcion": "Robo",
+		"fecha": "2017-12-15 00:00:00"
+	}, {
+		"idIncidente": 137,
+		"descripcion": "Exhibicionismo",
+		"fecha": "2017-05-01 00:00:00"
+	}, {
+		"idIncidente": 145,
+		"descripcion": "Robo",
+		"fecha": "2017-08-14 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 17,
+	"colorDisfraz": "Azul",
+	"nombreFantasia": "Superhijitus",
+	"archienemigos": [13, 14, 36, 91],
+	"contacta": [47, 48, 75],
+	"conocido": {
+		"dni": 4,
+		"idDireccion": "42",
+		"rolInvolucrado": [{
+			"idIncidente": 127,
+			"fecha": "2017-07-11 00:00:00",
+			"descripcion": "Ruidos molestos",
+			"rol": "Instigador"
+		}]
+	},
+	"habilidades": [],
+	"incidentes": [{
+		"idIncidente": 7,
+		"descripcion": "Robo",
+		"fecha": "2017-06-08 00:00:00"
+	}, {
+		"idIncidente": 16,
+		"descripcion": "Robo",
+		"fecha": "2017-12-19 00:00:00"
+	}, {
+		"idIncidente": 20,
+		"descripcion": "Ruidos molestos",
+		"fecha": "2017-11-17 00:00:00"
+	}, {
+		"idIncidente": 24,
+		"descripcion": "Estafa",
+		"fecha": "2017-11-04 00:00:00"
+	}, {
+		"idIncidente": 53,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-08-24 00:00:00"
+	}, {
+		"idIncidente": 73,
+		"descripcion": "Juego ilegal",
+		"fecha": "2017-03-30 00:00:00"
+	}, {
+		"idIncidente": 86,
+		"descripcion": "Ruidos molestos",
+		"fecha": "2017-09-26 00:00:00"
+	}, {
+		"idIncidente": 99,
+		"descripcion": "Juego ilegal",
+		"fecha": "2017-07-03 00:00:00"
+	}, {
+		"idIncidente": 107,
+		"descripcion": "Atentado contra la autoridad",
+		"fecha": "2017-06-16 00:00:00"
+	}, {
+		"idIncidente": 119,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-07-10 00:00:00"
+	}, {
+		"idIncidente": 129,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-05-10 00:00:00"
+	}, {
+		"idIncidente": 140,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-02-17 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 18,
+	"colorDisfraz": "",
+	"nombreFantasia": "Power Rangers",
+	"archienemigos": [],
+	"contacta": [52, 92],
+	"conocido": {
+		"dni": 21,
+		"idDireccion": "42",
+		"rolInvolucrado": [{
+			"idIncidente": 110,
+			"fecha": "2017-09-13 00:00:00",
+			"descripcion": "Ruidos molestos",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 111,
+			"fecha": "2017-04-20 00:00:00",
+			"descripcion": "Pelea callejera",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 129,
+			"fecha": "2017-05-10 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Víctima"
+		}]
+	},
+	"habilidades": [9],
+	"incidentes": [{
+		"idIncidente": 17,
+		"descripcion": "Hurto",
+		"fecha": "2017-11-13 00:00:00"
+	}, {
+		"idIncidente": 24,
+		"descripcion": "Estafa",
+		"fecha": "2017-11-04 00:00:00"
+	}, {
+		"idIncidente": 123,
+		"descripcion": "Asalto a comercio",
+		"fecha": "2017-03-13 00:00:00"
+	}, {
+		"idIncidente": 132,
+		"descripcion": "Hurto",
+		"fecha": "2017-06-29 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 19,
+	"colorDisfraz": "Negro",
+	"nombreFantasia": "El Zorro",
+	"archienemigos": [36, 70, 87, 89, 90],
+	"contacta": [3],
+	"conocido": {
+		"dni": 48,
+		"idDireccion": "80",
+		"rolInvolucrado": [{
+			"idIncidente": 99,
+			"fecha": "2017-07-03 00:00:00",
+			"descripcion": "Juego ilegal",
+			"rol": "Instigador"
+		}]
+	},
+	"habilidades": [12],
+	"incidentes": [{
+		"idIncidente": 26,
+		"descripcion": "Ruidos molestos",
+		"fecha": "2017-10-22 00:00:00"
+	}, {
+		"idIncidente": 128,
+		"descripcion": "Explosión",
+		"fecha": "2017-10-30 00:00:00"
+	}, {
+		"idIncidente": 130,
+		"descripcion": "Coacción ilegal",
+		"fecha": "2017-03-25 00:00:00"
+	}, {
+		"idIncidente": 133,
+		"descripcion": "Robo",
+		"fecha": "2017-02-08 00:00:00"
+	}, {
+		"idIncidente": 138,
+		"descripcion": "Destrucción de la propiedad",
+		"fecha": "2017-01-29 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 20,
+	"colorDisfraz": "Gris",
+	"nombreFantasia": "Robocop",
+	"archienemigos": [9, 59, 75, 90],
+	"contacta": [28, 74, 77, 78, 99],
+	"conocido": {
+		"dni": 12,
+		"idDireccion": "10",
+		"rolInvolucrado": [{
+			"idIncidente": 16,
+			"fecha": "2017-12-19 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 30,
+			"fecha": "2017-05-21 00:00:00",
+			"descripcion": "Amenazas",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 49,
+			"fecha": "2017-03-29 00:00:00",
+			"descripcion": "Venta ilegal",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 50,
+			"fecha": "2017-12-02 00:00:00",
+			"descripcion": "Pelea callejera",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 111,
+			"fecha": "2017-04-20 00:00:00",
+			"descripcion": "Pelea callejera",
+			"rol": "Instigador"
+		}]
+	},
+	"habilidades": [14],
+	"incidentes": [{
+		"idIncidente": 14,
+		"descripcion": "Robo",
+		"fecha": "2017-03-26 00:00:00"
+	}, {
+		"idIncidente": 15,
+		"descripcion": "Robo",
+		"fecha": "2017-10-09 00:00:00"
+	}, {
+		"idIncidente": 21,
+		"descripcion": "Explosión",
+		"fecha": "2017-08-04 00:00:00"
+	}, {
+		"idIncidente": 22,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-12-11 00:00:00"
+	}, {
+		"idIncidente": 30,
+		"descripcion": "Amenazas",
+		"fecha": "2017-05-21 00:00:00"
+	}, {
+		"idIncidente": 33,
+		"descripcion": "Ruidos molestos",
+		"fecha": "2017-11-12 00:00:00"
+	}, {
+		"idIncidente": 48,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-09-16 00:00:00"
+	}, {
+		"idIncidente": 88,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-04-29 00:00:00"
+	}, {
+		"idIncidente": 105,
+		"descripcion": "Consumo de estupefacientes",
+		"fecha": "2017-08-26 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 21,
+	"colorDisfraz": "Rojo",
+	"nombreFantasia": "Molten Man",
+	"archienemigos": [29, 38, 55],
+	"contacta": [32, 33, 44, 46, 58],
+	"conocido": {
+		"dni": 58,
+		"idDireccion": "46",
+		"rolInvolucrado": [{
+			"idIncidente": 56,
+			"fecha": "2017-08-30 00:00:00",
+			"descripcion": "Choque de motocicleta",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 137,
+			"fecha": "2017-05-01 00:00:00",
+			"descripcion": "Exhibicionismo",
+			"rol": "Instigador"
+		}]
+	},
+	"habilidades": [8, 20],
+	"incidentes": [{
+		"idIncidente": 30,
+		"descripcion": "Amenazas",
+		"fecha": "2017-05-21 00:00:00"
+	}, {
+		"idIncidente": 46,
+		"descripcion": "Venta ilegal",
+		"fecha": "2017-01-18 00:00:00"
+	}, {
+		"idIncidente": 47,
+		"descripcion": "Estupefacientes",
+		"fecha": "2017-12-11 00:00:00"
+	}, {
+		"idIncidente": 81,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-02-09 00:00:00"
+	}, {
+		"idIncidente": 99,
+		"descripcion": "Juego ilegal",
+		"fecha": "2017-07-03 00:00:00"
+	}, {
+		"idIncidente": 115,
+		"descripcion": "Felonía",
+		"fecha": "2017-10-24 00:00:00"
+	}, {
+		"idIncidente": 117,
+		"descripcion": "Venta ambulante",
+		"fecha": "2017-11-09 00:00:00"
+	}, {
+		"idIncidente": 123,
+		"descripcion": "Asalto a comercio",
+		"fecha": "2017-03-13 00:00:00"
+	}, {
+		"idIncidente": 125,
+		"descripcion": "Violencia callejera",
+		"fecha": "2017-02-21 00:00:00"
+	}, {
+		"idIncidente": 148,
+		"descripcion": "Robo",
+		"fecha": "2017-08-29 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 22,
+	"colorDisfraz": "Azul/Blanco",
+	"nombreFantasia": "Iceman",
+	"archienemigos": [12, 14, 23, 67, 72, 92],
+	"contacta": [9, 67, 97],
+	"conocido": {
+		"dni": 33,
+		"idDireccion": "10",
+		"rolInvolucrado": [{
+			"idIncidente": 12,
+			"fecha": "2017-04-13 00:00:00",
+			"descripcion": "Pelea callejera",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 44,
+			"fecha": "2017-11-28 00:00:00",
+			"descripcion": "Asalto a comercio",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 59,
+			"fecha": "2017-04-29 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 121,
+			"fecha": "2017-03-06 00:00:00",
+			"descripcion": "Robo",
+			"rol": "Testigo"
+		}]
+	},
+	"habilidades": [5, 25],
+	"incidentes": [{
+		"idIncidente": 18,
+		"descripcion": "Hurto",
+		"fecha": "2017-11-01 00:00:00"
+	}, {
+		"idIncidente": 37,
+		"descripcion": "Vagancia",
+		"fecha": "2017-11-29 00:00:00"
+	}, {
+		"idIncidente": 62,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-02-18 00:00:00"
+	}, {
+		"idIncidente": 71,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-08-22 00:00:00"
+	}, {
+		"idIncidente": 73,
+		"descripcion": "Juego ilegal",
+		"fecha": "2017-03-30 00:00:00"
+	}, {
+		"idIncidente": 83,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-05-23 00:00:00"
+	}, {
+		"idIncidente": 124,
+		"descripcion": "Pelea callejera",
+		"fecha": "2017-10-24 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 23,
+	"colorDisfraz": "Negro/Rojo",
+	"nombreFantasia": "Hombre Elástico",
+	"archienemigos": [6, 88],
+	"contacta": [69, 80],
+	"conocido": null,
+	"habilidades": [2, 5, 9, 16],
+	"incidentes": [{
+		"idIncidente": 9,
+		"descripcion": "Asalto a comercio",
+		"fecha": "2017-05-18 00:00:00"
+	}, {
+		"idIncidente": 32,
+		"descripcion": "Venta ambulante",
+		"fecha": "2017-07-28 00:00:00"
+	}, {
+		"idIncidente": 41,
+		"descripcion": "Violencia",
+		"fecha": "2017-03-18 00:00:00"
+	}, {
+		"idIncidente": 47,
+		"descripcion": "Estupefacientes",
+		"fecha": "2017-12-11 00:00:00"
+	}, {
+		"idIncidente": 93,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-02-22 00:00:00"
+	}, {
+		"idIncidente": 94,
+		"descripcion": "Juego ilegal",
+		"fecha": "2017-10-10 00:00:00"
+	}, {
+		"idIncidente": 118,
+		"descripcion": "Corte de calle",
+		"fecha": "2017-02-25 00:00:00"
+	}, {
+		"idIncidente": 141,
+		"descripcion": "Vagancia",
+		"fecha": "2017-11-20 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 24,
+	"colorDisfraz": "Amarillo/Rojo",
+	"nombreFantasia": "El Dorado",
+	"archienemigos": [52, 96],
+	"contacta": [4, 18, 60],
+	"conocido": {
+		"dni": 39,
+		"idDireccion": "10",
+		"rolInvolucrado": [{
+			"idIncidente": 23,
+			"fecha": "2017-10-21 00:00:00",
+			"descripcion": "Desacato",
+			"rol": "Sospechoso"
+		}, {
+			"idIncidente": 101,
+			"fecha": "2017-11-09 00:00:00",
+			"descripcion": "Juego ilegal",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 103,
+			"fecha": "2017-06-08 00:00:00",
+			"descripcion": "Pirotecnia peligros",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 108,
+			"fecha": "2017-11-23 00:00:00",
+			"descripcion": "Pirotecnia ilegal",
+			"rol": "Instigador"
+		}]
+	},
+	"habilidades": [22],
+	"incidentes": [{
+		"idIncidente": 6,
+		"descripcion": "Robo",
+		"fecha": "2017-06-13 00:00:00"
+	}, {
+		"idIncidente": 17,
+		"descripcion": "Hurto",
+		"fecha": "2017-11-13 00:00:00"
+	}, {
+		"idIncidente": 30,
+		"descripcion": "Amenazas",
+		"fecha": "2017-05-21 00:00:00"
+	}, {
+		"idIncidente": 61,
+		"descripcion": "Destrucción de propiedad pública",
+		"fecha": "2017-10-21 00:00:00"
+	}, {
+		"idIncidente": 64,
+		"descripcion": "Venta de estupefacientes",
+		"fecha": "2017-04-30 00:00:00"
+	}, {
+		"idIncidente": 76,
+		"descripcion": "Juego ilegal",
+		"fecha": "2017-03-29 00:00:00"
+	}, {
+		"idIncidente": 79,
+		"descripcion": "Carrera de autos",
+		"fecha": "2017-06-11 00:00:00"
+	}, {
+		"idIncidente": 111,
+		"descripcion": "Pelea callejera",
+		"fecha": "2017-04-20 00:00:00"
+	}, {
+		"idIncidente": 122,
+		"descripcion": "Hurto",
+		"fecha": "2017-08-18 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 25,
+	"colorDisfraz": "Amarillo/Rojo",
+	"nombreFantasia": "Firestorm",
+	"archienemigos": [12, 31, 41, 59, 63, 83],
+	"contacta": [35, 50],
+	"conocido": {
+		"dni": 16,
+		"idDireccion": "32",
+		"rolInvolucrado": [{
+			"idIncidente": 47,
+			"fecha": "2017-12-11 00:00:00",
+			"descripcion": "Estupefacientes",
+			"rol": "Víctima"
+		}, {
+			"idIncidente": 67,
+			"fecha": "2017-12-28 00:00:00",
+			"descripcion": "Amenaza de bomba",
+			"rol": "Sospechoso"
+		}]
+	},
+	"habilidades": [14],
+	"incidentes": [{
+		"idIncidente": 5,
+		"descripcion": "Ruidos molestos",
+		"fecha": "2017-08-20 00:00:00"
+	}, {
+		"idIncidente": 26,
+		"descripcion": "Ruidos molestos",
+		"fecha": "2017-10-22 00:00:00"
+	}, {
+		"idIncidente": 71,
+		"descripcion": "Choque de autos",
+		"fecha": "2017-08-22 00:00:00"
+	}, {
+		"idIncidente": 116,
+		"descripcion": "Alteración del orden público",
+		"fecha": "2017-12-14 00:00:00"
+	}, {
+		"idIncidente": 138,
+		"descripcion": "Destrucción de la propiedad",
+		"fecha": "2017-01-29 00:00:00"
+	}]
+}, {
+	"idSuperheroe": 26,
+	"colorDisfraz": "Blanco",
+	"nombreFantasia": "Powergirl",
+	"archienemigos": [45, 67, 69, 84, 90],
+	"contacta": [91],
+	"conocido": {
+		"dni": 59,
+		"idDireccion": "46",
+		"rolInvolucrado": [{
+			"idIncidente": 95,
+			"fecha": "2017-02-01 00:00:00",
+			"descripcion": "Juego ilegal",
+			"rol": "Víctima"
+		}]
+	},
+	"habilidades": [0, 22],
+	"incidentes": []
+}, {
+	"idSuperheroe": 27,
+	"colorDisfraz": "Rojo",
+	"nombreFantasia": "Red Star",
+	"archienemigos": [21, 32, 41, 60],
+	"contacta": [2, 21, 65, 72, 75, 84],
+	"conocido": {
+		"dni": 20,
+		"idDireccion": "50",
+		"rolInvolucrado": [{
+			"idIncidente": 17,
+			"fecha": "2017-11-13 00:00:00",
+			"descripcion": "Hurto",
+			"rol": "Instigador"
+		}, {
+			"idIncidente": 51,
+			"fecha": "2017-06-16 00:00:00",
+			"descripcion": "Choque de autos",
+			"rol": "Testigo"
+		}, {
+			"idIncidente": 88,
+			"fecha": "2017-04-29 00:00:00",
+			"descripcion": "Venta de estupefacientes",
+			"rol": "Víctima"
+		}]
+	},
+	"habilidades": [16]
+}, {
+	"idSuperheroe": 28,
+	"colorDisfraz": "Blanco/Rojo",
+	"nombreFantasia": "Striker Z",
+	"archienemigos": [10, 22, 36, 41, 74, 78, 98],
+	"contacta": [21, 66, 69, 85],
+	"habilidades": [2, 5]
+}, {
+	"idSuperheroe": 29,
+	"colorDisfraz": "Verde",
+	"nombreFantasia": "Air Wave",
+	"archienemigos": [94],
+	"contacta": [76, 95],
+	"habilidades": [1, 5, 6, 8, 12, 21, 22, 24],
+	"incidentes": []
+}]

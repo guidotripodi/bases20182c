@@ -3,7 +3,7 @@ const Database = require('arangojs').Database;
 
 
 
-const db = new Database('http://root:tp2@127.0.0.1:8529');
+const db = new Database('http://root:tp2@localhost:8529');
 
 db.listDatabases().then(
     (list) => {
@@ -60,7 +60,7 @@ const createAllFiles = () => {
         ()=> createAndLoadCollection("habilidadSuperheroe", "./datos/habilidad Superheroe.json"),
         err => console.log(err)
     ).then(
-        ()=> createAndLoadCollection('incidentes', './datos/Incidentes.json'),
+        ()=> createAndLoadCollection('incidentes', './datos/Incidentes2.json'),
         err => console.log(err)
     ).then(
         ()=> createAndLoadCollection('interviene', './datos/interviene.json'),
@@ -72,7 +72,7 @@ const createAllFiles = () => {
         ()=> createAndLoadCollection("oficiales", "./datos/Oficiales.json"),
         err => console.log(err)
     ).then(
-        ()=> createAndLoadCollection('organizacionesdelictivas', './datos/OrganizacionesDelictivas.json'),
+        ()=> createAndLoadCollection('organizacionesdelictivas', './datos/OrganizacionesDelictivas2.json'),
         err => console.log(err)
     ).then(
         ()=> createAndLoadCollection("pendiente", "./datos/pendiente.json"),
@@ -90,7 +90,7 @@ const createAllFiles = () => {
         ()=> createAndLoadCollection("sumario", "./datos/sumario.json"),
         err => console.log(err)
     ).then(
-        ()=> createAndLoadCollection("superheroe", "./datos/superheroe.json"),
+        ()=> createAndLoadCollection("superheroe", "./datos/superheroe2.json"),
         err => console.log(err)
     ).then(
         ()=> createAndLoadCollection("tipodesignacion", "./datos/tipodesignacion.json"),

@@ -2,8 +2,88 @@ use mydb;
 
 DELIMITER //
 
+# ROL INVOLUCRA PARA PERSONA PARA SUPERHÉROE:
+drop procedure if exists generarRolInvolucradoParaPersonaParaSuperheroe; //
+CREATE PROCEDURE generarRolInvolucradoParaPersonaParaSuperheroe(out v_rolInvolucra varchar(10000), in v_persona integer)
+BEGIN
+
+declare v_finished INTEGER DEFAULT 0;
+
+declare j_rolInvolucra varchar(1000);
+
+declare o_idIncidente INT;
+declare o_Descripcion VARCHAR(45);
+declare o_Fecha DATETIME;
+declare o_Rol VARCHAR(45);
+
+declare cursorRolInvolucra cursor for 
+select i.idIncidente,p.Rol,i.Fecha,COALESCE(i.descripcion,'null')
+from Incidente i, Involucra p
+where i.idIncidente = p.idIncidente
+  and p.idPersona = v_persona
+  order by p.idIncidente; 
+DECLARE CONTINUE HANDLER FOR NOT FOUND SET v_finished = 1;
+
+set v_rolInvolucra = "[";
+OPEN cursorRolInvolucra;
+armarSumarios: LOOP
+  FETCH cursorRolInvolucra INTO o_idIncidente,o_Rol,o_Fecha,o_Descripcion; 
+  IF v_finished = 1 THEN LEAVE armarSumarios; END IF;
+  set j_rolInvolucra = "{";
+  set j_rolInvolucra = CONCAT(j_rolInvolucra,'"idIncidente": ',o_idIncidente,',');
+  set j_rolInvolucra = CONCAT(j_rolInvolucra,'"fecha": "',o_Fecha,'",');
+  set j_rolInvolucra = CONCAT(j_rolInvolucra,'"descripcion": "',o_Descripcion,'",');
+  set j_rolInvolucra = CONCAT(j_rolInvolucra,'"rol": "',o_Rol,'",');
+  set j_rolInvolucra = CONCAT(j_rolInvolucra,"}");
+  set v_rolInvolucra = CONCAT(v_rolInvolucra,j_rolInvolucra,",");
+END LOOP armarSumarios;
+SET v_rolInvolucra = CONCAT(v_rolInvolucra,"]");
+close cursorRolInvolucra;
+END;//
+
+
+
+# PERSONA PARA ORG. DELICTIVA:
+#call generarConocidoParaSuperheroe(@c,3);//
+#select @c; //
 drop procedure if exists generarConocidoParaSuperheroe; //
-CREATE PROCEDURE generarConocidoParaSuperheroe(out v_personas varchar(10000), in v_superheroe integer)
+CREATE PROCEDURE generarConocidoParaSuperheroe(out j_persona varchar(1000), in v_orgDelictiva integer)
+BEGIN
+
+declare v_finished INTEGER DEFAULT 0;
+
+declare o_idPersona INT;
+declare o_idDireccion INT;
+# Faltan los superhéroes
+
+declare cursorPersona cursor for 
+select idPersona, Direccion_idDireccion from Persona 
+where idOrganizacionDelictiva = v_orgDelictiva
+order by idPersona;
+DECLARE CONTINUE HANDLER FOR NOT FOUND SET v_finished = 1;
+
+set j_persona = "null";
+OPEN cursorPersona;
+armarPersonas: LOOP
+  FETCH cursorPersona INTO o_idPersona, o_idDireccion; 
+  IF v_finished = 1 THEN LEAVE armarPersonas; END IF;
+  call generarRolInvolucradoParaPersonaParaSuperheroe(@o_roles,o_idPersona);
+  set j_persona = "{";
+  set j_persona = CONCAT(j_persona,'"dni": ',o_idPersona,',');
+  set j_persona = CONCAT(j_persona,'"idDireccion": "',o_idDireccion,'",');
+  set j_persona = CONCAT(j_persona,'"rolInvolucrado": ',@o_roles);
+  set j_persona = CONCAT(j_persona,"}");
+  leave armarPersonas;
+END LOOP armarPersonas;
+close cursorPersona;
+END;//
+
+
+
+
+
+drop procedure if exists generarConocidosParaSuperheroe; //
+CREATE PROCEDURE generarConocidosParaSuperheroe(out v_personas varchar(10000), in v_superheroe integer)
 BEGIN
 
 declare v_finished INTEGER DEFAULT 0;
@@ -183,7 +263,7 @@ armarSuperheroes: LOOP
   set j_superheroe = CONCAT(j_superheroe,'"nombreFantasia": "',o_nombreFantasia,'",');
   set j_superheroe = CONCAT(j_superheroe,'"archienemigos": ',@o_archienemigos,',');
   set j_superheroe = CONCAT(j_superheroe,'"contacta": ',@o_contacta,',');
-  set j_superheroe = CONCAT(j_superheroe,'"conocidos": ',@o_conocido,',');
+  set j_superheroe = CONCAT(j_superheroe,'"conocido": ',@o_conocido,',');
   set j_superheroe = CONCAT(j_superheroe,'"habilidades": ',@o_habilidades,',');
   set j_superheroe = CONCAT(j_superheroe,'"incidentes": ',@o_incidentes,',');
   set j_superheroe = CONCAT(j_superheroe,"}");
@@ -201,7 +281,4 @@ call generarSuperheroes(@superheroes,10,19);//
 select @superheroes;//
 call generarSuperheroes(@superheroes,20,29);//   
 select @superheroes;//
-
-
-
 

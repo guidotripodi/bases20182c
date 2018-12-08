@@ -1,0 +1,59 @@
+4.1  - Dada una organización delictiva, el detalle de incidentes en que participaron las personas que componen dicha organización
+
+for od in organizacionesDelictivas
+    filter od.idOrganizacionDelictiva == @i
+    let incidentes = (
+         for p in od.personas
+            for ri in p.rolInvolucrado
+            return ri
+     )
+    
+    let r = {
+     Incidentes: incidentes
+    }
+ return r
+
+
+
+4.2 - Los datos de los sumarios para un oficial dado
+
+for of in oficiales
+filter of.Num == @num
+ let sumarios = (
+ for d in of.designaciones
+ for sum in d.sumarios
+ sort sum.fecha
+ return {Fecha: sum.fecha, Descripcion: sum.descripcion, Resultado: sum.resultado}
+ )
+let r = {
+ Nombre: of.Nombre, 
+ Apellido: of.Apellido,
+ Sumarios: sumarios
+ }
+ return r
+
+
+
+4.3 - Los supeheroes que participaron en algún incidente.
+
+for sh in superheroe
+filter  (sh.incidentes != null and COUNT(sh.incidentes) > 0)
+     OR (sh.conocido != null and sh.conocido.rolInvolucrado != null and count(sh.conocido.rolInvolucrado != null )>0)
+sort sh.idSuperheroe
+let cantIncidentesComoSuperheroe = sh.incidentes != null?COUNT(sh.incidentes):0
+let cantIncidentesComoPerona = (sh.conocido != null and sh.conocido.rolInvolucrado != null)?count(sh.conocido.rolInvolucrado):0
+return {
+ Id: sh.idSuperheroe,
+ Nombre: sh.nombreFantasia, 
+ "Participaciones En Incidentes Como Superhéroe" :cantIncidentesComoSuperheroe,
+ "Involucramientos En Incidentes Como Persona" : cantIncidentesComoPerona}
+  
+
+4.4 - Los seguimientos de un incidente en particular
+
+let seguimientos = (for i in incidentes
+filter i.idIncidente == @idIncidente
+limit 1
+return i.seguimientos)
+return {Seguimientos: seguimientos[0]}
+
