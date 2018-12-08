@@ -82,12 +82,12 @@ END;//
 #ORG. DELICTIVA:
 
 drop procedure if exists generarOrgDelictiva; //
-CREATE PROCEDURE generarOrgDelictiva(out v_organizaciones varchar(10000000), in minNum int, in maxNum int)
+CREATE PROCEDURE generarOrgDelictiva(out v_organizaciones varchar(10000), in minNum int, in maxNum int)
 BEGIN
 
 declare v_finished INTEGER DEFAULT 0;
 
-declare j_OrgDelictiva varchar(50000);
+declare j_OrgDelictiva varchar(5000);
 declare o_idOrgDelictiva INT;
 declare o_Nombre VARCHAR(45);
 

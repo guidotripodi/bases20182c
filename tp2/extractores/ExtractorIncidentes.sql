@@ -84,6 +84,7 @@ declare o_idDireccion INT;
 declare o_Numero INT;
 declare o_Fecha datetime;
 declare o_descripcion varchar(45);
+declare o_estado varchar(10);
 
 declare cursorIncidentes cursor for 
 select idIncidente,idDireccion,Numero,Fecha,descripcion
@@ -97,10 +98,18 @@ OPEN cursorIncidentes;
 armarIncidentes: LOOP
   FETCH cursorIncidentes INTO o_idIncidente,o_idDireccion,o_Numero,o_Fecha,o_descripcion; 
   IF v_finished = 1 THEN LEAVE armarIncidentes; END IF;  
+
+  set o_estado = "Pendiente";
+  if (select count(*) from Proceso where idIncidente = o_idIncidente)>0 then set o_estado = "Proceso";
+  else
+  if (select count(*) from Cerrado where idIncidente = o_idIncidente)>0 then set o_estado = "Cerrado"; end if;
+  end if;
+
   call generarSeguimientoParaIncidente(@o_seguimientos,o_idIncidente);
   call generarParticipaParaIncidente (@o_participaciones,o_idIncidente);
   set j_incidente = "{";
   set j_incidente = CONCAT(j_incidente,'"idIncidente": ',o_idIncidente,',');
+  set j_incidente = CONCAT(j_incidente,'"estado": "',o_estado,'",');
   set j_incidente = CONCAT(j_incidente,'"idDireccion": ',o_idDireccion,',');
   set j_incidente = CONCAT(j_incidente,'"interviene": ',o_Numero,',');
   set j_incidente = CONCAT(j_incidente,'"fecha": "',o_Fecha,'",');
@@ -126,4 +135,5 @@ call generarIncidentes(@incidentes,90,119);//
 select @incidentes;//
 call generarIncidentes(@incidentes,120,149);//   
 select @incidentes;//
+
 
